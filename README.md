@@ -36,3 +36,6 @@ By leveraging advanced machine learning algorithms, **TTSDK** provides accurate 
 Enhance the management of your pet's health with **TTSDK**, providing quick and accurate diagnostics to improve the quality of life for your beloved pets.
 
 ---
+
+## License
+**Data and API Subscription License**
