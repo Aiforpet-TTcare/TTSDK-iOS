@@ -39,3 +39,8 @@ Enhance the management of your pet's health with **TTSDK**, providing quick and 
 
 ## License
 **Data and API Subscription License**
+
+---
+
+## Contact Us
+For more information, visit our website: [AI for Pet](https://www.aiforpet.com/)
