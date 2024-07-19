@@ -1,5 +1,7 @@
 # TTSDK-iOS
 
+## AI module for diagnosing dogs (eyes, teeth, skin, joints) and cats (eyes, teeth).
+
 
 TTSDK is a powerful AI module designed to assist veterinarians and pet owners in diagnosing common health issues in dogs and cats. The module specializes in:
 
