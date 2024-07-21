@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		rEwURY2qrRjGz2TgfSoSwJH8Uuk=
+		Jo+Q6NV/RJ129kSJLvGgXK2AUkU=
 		</data>
 		<key>Headers/TTSDK.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		xJCnEdEbZaJOdmjt2tz+C9OgmQM=
+		ZaibVT/js4O9P00+ciichddX2zo=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		nSkC5Az27D/WIUeg5jQ/LNPlA40=
+		/I16aDRv2rvp+qrv7NDbzQZbLAY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -395,7 +395,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z/jxPFo61NRRKReOwH/iIofrkGqb2Drvl5kQpCe4ij8=
+			bPUark7lKN11p7yRfczzgdXX3dwPyCzVqUiT6WSrze0=
 			</data>
 		</dict>
 		<key>Headers/TTSDK.h</key>
@@ -409,7 +409,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3+1EOIvsaun5BH5f5QAcdpgj/gQuwRT12NmPq0d4J+4=
+			07rAHdCEWzg7RKgaFcopsxN4eU3GSipoddYtI4rujak=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -437,7 +437,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kxX9UCnEAvn+xIIhgP4tVJzHaLuhjLNvGp+J1sZxXF4=
+			6Y4UVfrpZbmhyzOngEv1hIM6d9/1zR2RhjCWKh9WLsA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

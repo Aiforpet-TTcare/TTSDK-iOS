@@ -15,7 +15,7 @@ By leveraging advanced machine learning algorithms, TTSDK provides accurate and 
   spec.author       = { "hjlee" => "hjlee@aiforpet.com" }
   spec.platform     = :ios, "12.0"
   spec.source       = { :git => "https://github.com/Aiforpet-TTcare/TTSDK-iOS.git", :tag => "#{spec.version}" }
-  spec.dependency "TensorFlowLiteSwift", "~> 2.14.0"
   spec.vendored_frameworks = 'TTSDK.xcframework'
+  spec.dependency "TensorFlowLiteSwift", "~> 2.14.0"
   spec.swift_version    = '5.5'
 end
