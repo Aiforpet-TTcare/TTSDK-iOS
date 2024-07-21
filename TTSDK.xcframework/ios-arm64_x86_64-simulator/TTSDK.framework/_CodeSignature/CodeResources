@@ -6,11 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-<<<<<<< HEAD
-		ptsiSsTpz5/PliZgDh7hfWVflso=
-=======
-		xB1PjQYoQrPkwP7xT3FZqOMzXEc=
->>>>>>> e29e9b9 (feat: json 개선.)
+		TwuNQYdvvwCmpBd2cZ6XGfAlYEE=
 		</data>
 		<key>Headers/TTSDK.h</key>
 		<data>
@@ -18,15 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		agBpWv/jbsTBq9kamCqqXYqcWA8=
+		PXMrs4v98iYmkSWl5yHGVwlWLBs=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-<<<<<<< HEAD
-		K7YQRJN43+dwbD2qzg2y9lZKgtk=
-=======
 		6K7F/OsMxtzBvUUxItIYouDRHDQ=
->>>>>>> e29e9b9 (feat: json 개선.)
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,19 +34,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-<<<<<<< HEAD
-		qmcRvwNaiLoCPDPWiG+0idtCKw8=
-		</data>
-		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
-		<data>
-		K7YQRJN43+dwbD2qzg2y9lZKgtk=
-=======
 		BSxi1mNKqxa8J+IV9kYrpmdieZw=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
 		6K7F/OsMxtzBvUUxItIYouDRHDQ=
->>>>>>> e29e9b9 (feat: json 개선.)
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -70,11 +54,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-<<<<<<< HEAD
-		YCa/kdJMys3DHfexpv1cCiMcPTA=
-=======
 		LUMFMiLf6Tw6K+jIAtg5eZlysRc=
->>>>>>> e29e9b9 (feat: json 개선.)
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -411,11 +391,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			gKys7Aow+nYL0BihnqjkHaLs7ozEQ4HBCPWCdkQZy7w=
-=======
-			eZH5UcCkVPYkipkVD9AkfKQH/45VZq+CBOs8Bw5YDpo=
->>>>>>> e29e9b9 (feat: json 개선.)
+			bK99MzEemmMAj6+2fGy/zo9b53B/kjwQYRPrhhIga3k=
 			</data>
 		</dict>
 		<key>Headers/TTSDK.h</key>
@@ -429,11 +405,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			x1tuHXcGUK0kbF67pjO2tctzdIUE1v3N31c//2T8un4=
-=======
 			/PBb+5UXj8Rv6BQfsTUW7quI2kl8eOrqD9I8pmLbIZo=
->>>>>>> e29e9b9 (feat: json 개선.)
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -461,22 +433,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			9vT2EWrd7bG303+LWoC8gbUCk4HPB0DsOG8MRuK93XY=
-=======
 			1Pu9yi7GfErqDB/KvlEImlFHdXfJRO3IoIhYkP5GKAM=
->>>>>>> e29e9b9 (feat: json 개선.)
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			x1tuHXcGUK0kbF67pjO2tctzdIUE1v3N31c//2T8un4=
-=======
 			/PBb+5UXj8Rv6BQfsTUW7quI2kl8eOrqD9I8pmLbIZo=
->>>>>>> e29e9b9 (feat: json 개선.)
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -504,11 +468,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			WH1koU+fVBIgFWCvtxkdlGcWj2g9eD8zlHWtpuuma0Q=
-=======
 			Sp/5Iwe5/LYQSFDjLvYO54WLE4aQWxMvtXL3lK0PAAY=
->>>>>>> e29e9b9 (feat: json 개선.)
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

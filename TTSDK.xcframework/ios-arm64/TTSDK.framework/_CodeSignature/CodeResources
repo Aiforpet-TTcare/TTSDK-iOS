@@ -6,11 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-<<<<<<< HEAD
-		Jo+Q6NV/RJ129kSJLvGgXK2AUkU=
-=======
 		xB1PjQYoQrPkwP7xT3FZqOMzXEc=
->>>>>>> e29e9b9 (feat: json 개선.)
 		</data>
 		<key>Headers/TTSDK.h</key>
 		<data>
@@ -18,15 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cEveTFDY3A+haKfhBi2YBh1NyQ0=
+		D5t93tWtOSZZMp+p6lKj/VxgIgI=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-<<<<<<< HEAD
-		ZaibVT/js4O9P00+ciichddX2zo=
-=======
 		y+J0Px0sozKoa9caz05iSljD79Q=
->>>>>>> e29e9b9 (feat: json 개선.)
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -42,11 +34,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-<<<<<<< HEAD
-		/I16aDRv2rvp+qrv7NDbzQZbLAY=
-=======
 		KYuFTdJdC7VMsmvbYbT40bcIreE=
->>>>>>> e29e9b9 (feat: json 개선.)
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -383,11 +371,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			bPUark7lKN11p7yRfczzgdXX3dwPyCzVqUiT6WSrze0=
-=======
 			eZH5UcCkVPYkipkVD9AkfKQH/45VZq+CBOs8Bw5YDpo=
->>>>>>> e29e9b9 (feat: json 개선.)
 			</data>
 		</dict>
 		<key>Headers/TTSDK.h</key>
@@ -401,11 +385,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			07rAHdCEWzg7RKgaFcopsxN4eU3GSipoddYtI4rujak=
-=======
 			c6pxp2pMiGpknE+laYn6P1dqJGadQB2Tm2yWARE99Fk=
->>>>>>> e29e9b9 (feat: json 개선.)
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -433,11 +413,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-<<<<<<< HEAD
-			6Y4UVfrpZbmhyzOngEv1hIM6d9/1zR2RhjCWKh9WLsA=
-=======
 			XrHQRkNnZ4/7aIyp0KYSoBjblvvLZ9BOpXuA2TV6CjU=
->>>>>>> e29e9b9 (feat: json 개선.)
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
