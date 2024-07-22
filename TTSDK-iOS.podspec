@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-  spec.name         = "TTSDK"
+  spec.name         = "TTSDK-iOS"
   spec.version      = "1.5.0"
   spec.summary      = "AI module for diagnosing dogs (eyes, teeth, skin, joints) and cats (eyes, teeth)."
   spec.description  = <<-DESC
