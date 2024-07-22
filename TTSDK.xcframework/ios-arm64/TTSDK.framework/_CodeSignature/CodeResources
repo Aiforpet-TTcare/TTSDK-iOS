@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		xB1PjQYoQrPkwP7xT3FZqOMzXEc=
+		dCvsaqJwio4D3uMMBvkmSLiXfzM=
 		</data>
 		<key>Headers/TTSDK.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		y+J0Px0sozKoa9caz05iSljD79Q=
+		QVibNAdAWzSBlfTreKFogpt/6og=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -371,7 +371,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eZH5UcCkVPYkipkVD9AkfKQH/45VZq+CBOs8Bw5YDpo=
+			Ys/bxyPMNpNKinsWhAJRwpqfNbkLTa76jCRUkZHv+aw=
 			</data>
 		</dict>
 		<key>Headers/TTSDK.h</key>
@@ -385,7 +385,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c6pxp2pMiGpknE+laYn6P1dqJGadQB2Tm2yWARE99Fk=
+			Ly/4GZ+qoq3cUXw/q4jzxA5TdYBUTCJCqqmBZBXL3ss=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>

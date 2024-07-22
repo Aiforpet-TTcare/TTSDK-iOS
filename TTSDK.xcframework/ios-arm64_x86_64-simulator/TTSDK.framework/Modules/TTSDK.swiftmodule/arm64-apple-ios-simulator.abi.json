@@ -8522,35 +8522,35 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Manual\/TTGuideViewController.swift",
       "kind": "Array",
-      "offset": 13063,
+      "offset": 13083,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Manual\/TTGuideViewController.swift",
       "kind": "Array",
-      "offset": 13133,
+      "offset": 13153,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Manual\/TTGuideViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 13276,
+      "offset": 13296,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Manual\/TTGuideViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13684,
+      "offset": 13704,
       "length": 58,
       "value": "\"Failed to download images: \""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Manual\/TTGuideViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13741,
+      "offset": 13761,
       "length": 2,
       "value": "\"\""
     },
