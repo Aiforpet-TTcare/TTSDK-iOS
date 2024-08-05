@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "TTSDK-iOS"
-  spec.version      = "1.5.1"
+  spec.version      = "1.5.2"
   spec.summary      = "AI module for diagnosing dogs (eyes, teeth, skin, joints) and cats (eyes, teeth)."
   spec.description  = <<-DESC
 TTSDK is a powerful AI module designed to assist veterinarians and pet owners in diagnosing common health issues in dogs and cats. The module specializes in:
