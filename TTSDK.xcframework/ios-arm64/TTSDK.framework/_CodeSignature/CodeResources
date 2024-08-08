@@ -70,7 +70,7 @@
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		otlxsIx5h8CdrgB4MjNZRPL6mks=
+		jJTdkD9t0uKhqmK+Vj4cwo2BVWs=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Z8m-Ar-hXt-view-GfL-fv-YbU.nib</key>
 		<data>
@@ -426,7 +426,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		301zY8IT7JeCiJdKokF+T03mQJk=
+		ptGiPt4Z8gxAwBk0oG+mLE1sdJA=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -442,7 +442,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		HNKtA109P777dkDGgtLW2KyE8IM=
+		7F96F2puAjKz2pexTfrMPDpghDs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -456,7 +456,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/tiZL/g56cSljAUdd9edjH5H0So=
+			0t+p1kz4YLhlpCrKZYZLGftdDfM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -501,7 +501,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qo0/eHZm1XvFE1n3f9LDr4sTe3Q=
+			1WdClSs8IlbtlBVeJMyM5dj6IkE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -670,7 +670,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hVpzI7L1VzSloGQA3rAEXDMRnONqanjGlp8t0bVR6DE=
+			DxhpdliYJTAui8TF6i0SnTkXp26WF5WQ/UuEoqecuEU=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Z8m-Ar-hXt-view-GfL-fv-YbU.nib</key>
@@ -1286,7 +1286,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Xn5QYf5fkAuz/lUm3Kv/SnQKPrrOLJRdhSaI8YtBd0=
+			efO6vz3jh5eSxX96k+Z8VNXQpHJvbL0/d4CU5YhYNns=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1314,7 +1314,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b20LHcn+RXzuQhEZ3byLH8tr825neH2OmzrArqB7nIU=
+			hR+S2GBga5fmm2pf8BRP7gtPKZdCVtMGiMlEjTlD29w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1335,7 +1335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D6bqHk2yCU2isZJo+sKYPpLmkIGloaYnu6f5YmnqTZw=
+			VTEVNBhiHXDNWFqFt4Z0Th7ESKkO6D+Shl455Ofam7g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1380,7 +1380,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fhZ1nUeCqoifgxofZ80E2lJKjLqT/UztHdtSZP952ko=
+			W8rU8l9nWFskgeLJ2Tr7tIsVU7mr1fkNN3qdGh5jVjI=
 			</data>
 			<key>optional</key>
 			<true/>
