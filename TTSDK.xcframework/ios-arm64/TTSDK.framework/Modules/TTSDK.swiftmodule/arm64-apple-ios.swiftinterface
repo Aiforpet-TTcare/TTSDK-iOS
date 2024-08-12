@@ -102,15 +102,22 @@ public enum TTCameraType : Swift.CaseIterable {
   public static var isAnimationEnabled: Swift.Bool
   public static var hostURL: Foundation.URL?
   public static var license: TTSDK.TTLicense?
-  public static var accessToken: Swift.String?
-  public static var refreshToken: Swift.String?
+  public static var accessToken: Swift.String? {
+    get
+  }
+  public static var refreshToken: Swift.String? {
+    get
+  }
   public static func configure(authFileData: Foundation.Data)
+  public static func setAPNS(token: Swift.String?)
+  public static func configure(license: TTSDK.TTLicense)
+  public var apnsToken: Swift.String?
   @objc deinit
 }
 extension TTSDK.TTManager {
   public static func eye(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, guideUrl: Swift.String? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   public static func tooth(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, guideUrl: Swift.String? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, guideUrl: Swift.String? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   public static func joint(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, guideUrl: Swift.String? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   public static func clearUserDefaults()
 }
@@ -165,9 +172,11 @@ public struct TTPosition : Swift.Codable {
   public init(from decoder: any Swift.Decoder) throws
 }
 public struct TTLicense : Swift.Codable {
+  public init(serviceRegion: Swift.String? = nil, serviceHost: Swift.String? = nil, clientID: Swift.String? = nil, clientKeyID: Swift.String? = nil, clientKeySecret: Swift.String? = nil, clientKey: Swift.String? = nil, accessToken: Swift.String? = nil)
   public var serviceRegion: Swift.String?
   public var serviceHost: Swift.String?
   public var clientID: Swift.String?, clientKeyID: Swift.String?, clientKeySecret: Swift.String?, clientKey: Swift.String?
+  public var accessToken: Swift.String?
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -230,9 +239,6 @@ public struct TTThumbnail : Swift.Codable {
 public struct TTDetail : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
-}
-extension UIKit.UIImage {
-  convenience public init?(named: Swift.String)
 }
 extension TTSDK.TTPetType : Swift.RawRepresentable {}
 extension TTSDK.TTCameraType : Swift.Equatable {}
