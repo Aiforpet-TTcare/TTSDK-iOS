@@ -56,6 +56,8 @@ extension TTSDK.TTGuideViewController {
   @_Concurrency.MainActor(unsafe) public static func instanceForCatTooth() -> TTSDK.TTGuideViewController
   @_Concurrency.MainActor(unsafe) public static func instance(petType: TTSDK.TTPetType, cameraType: TTSDK.TTCameraType) -> TTSDK.TTGuideViewController
 }
+extension TTSDK.TTGuideViewController : WebKit.WKUIDelegate, WebKit.WKNavigationDelegate {
+}
 @objc @_hasMissingDesignatedInitializers public class TTGuideViewModel : ObjectiveC.NSObject {
   @objc deinit
 }
@@ -111,6 +113,7 @@ public enum TTCameraType : Swift.CaseIterable {
   public static func configure(authFileData: Foundation.Data)
   public static func setAPNS(token: Swift.String?)
   public static func configure(license: TTSDK.TTLicense)
+  public static var youtubeHander: ((Swift.String?) -> Swift.Void)?
   public var apnsToken: Swift.String?
   @objc deinit
 }

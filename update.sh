@@ -14,7 +14,7 @@ sed -i '' "s/:tag => \".*\"/:tag => \"$NEW_VERSION\"/" $PODSPEC
 
 # Git 커밋 및 푸시
 echo "Committing and pushing changes to git..."
-git add $PODSPEC
+git add .
 git commit -m "Update podspec version to $NEW_VERSION"
 git tag $NEW_VERSION
 git push origin main
