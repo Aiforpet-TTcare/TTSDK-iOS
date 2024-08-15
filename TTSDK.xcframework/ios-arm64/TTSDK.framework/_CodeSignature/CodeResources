@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		cSth3dOvaaMxslXZjsf3NCrlcfM=
+		dmJ16fJbb8czhyaAvCTa913zJpo=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
 		<data>
@@ -530,7 +530,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		HXAKlPxFyq8vueEXQUf/SUJMhnM=
+		Fp1OXezzOprDmS5e+GZlifYgQ2Y=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -546,7 +546,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		oStb+rd7AKPmYbqvfZNhqANDqFQ=
+		99/YijloHEbKyaeNXGbIxcFuacA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -560,7 +560,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SkpmbI67J4brqtd3pA+My/KOTqQ=
+			xINy7I6rBbn9vIRHX+Rz7pHNMsU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -605,7 +605,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NLnOYDsGFY8eCJkgkGO0f39BA6w=
+			3qWXFF0MGQZ2EEa8PGA2jFogThU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -662,7 +662,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SqaqA0e/Zp0w1jRBfC/jhYQOJE7osu3He1KhqiVTQ7s=
+			JQA6lt0ythUGGpfFk/h0GQAl+5+SfQngJrpUwjB4LGY=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
@@ -1572,7 +1572,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jijMhcTANzucXH4WI07WsZM6Q06bTOwu0cA8P/7JOUk=
+			5iLTY66YQlbB4vc4mBjyqGQpVWaDaECiHPaXTNQAEVE=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1600,7 +1600,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IMRYQ1JSYKEYy6qxS9nrmqELvE/Q7B8IRXDONDngbG8=
+			Bhoso6JwICq6/ufGqL7WGGwGvHyTRlFnJL3OPgd7Q5Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1621,7 +1621,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2vtG2uCadr1xUqe7dynaWP2V9MjzsVOrECYNeXpxydI=
+			ziSH8HLV2iIEAUX+EaQNWd7sokAnR9ozEFQ2Jeehits=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1666,7 +1666,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yQkfiUAxNimcW4+g/Y6CUXgRQ6qTBIjm0bEm7MpCLOM=
+			zQ8WFgifIUOc7EKL4aXsz+VI1ux58Ja7ZkFrDATse+Q=
 			</data>
 			<key>optional</key>
 			<true/>
