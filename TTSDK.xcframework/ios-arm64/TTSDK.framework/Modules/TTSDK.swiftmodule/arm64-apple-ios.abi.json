@@ -9276,7 +9276,7 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTError.swift",
       "kind": "StringLiteral",
-      "offset": 17215,
+      "offset": 17212,
       "length": 71,
       "value": "\"일시적인 문제가 발생하였습니다. 다시 시도하세요.\""
     },
