@@ -9276,7 +9276,7 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTError.swift",
       "kind": "StringLiteral",
-      "offset": 17667,
+      "offset": 17215,
       "length": 71,
       "value": "\"일시적인 문제가 발생하였습니다. 다시 시도하세요.\""
     },
@@ -9934,49 +9934,49 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
       "kind": "IntegerLiteral",
-      "offset": 130,
+      "offset": 131,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
       "kind": "IntegerLiteral",
-      "offset": 141,
-      "length": 2,
+      "offset": 142,
+      "length": 6,
       "value": "1"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
       "kind": "IntegerLiteral",
-      "offset": 130,
+      "offset": 131,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
       "kind": "IntegerLiteral",
-      "offset": 141,
-      "length": 2,
+      "offset": 142,
+      "length": 6,
       "value": "1"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
       "kind": "IntegerLiteral",
-      "offset": 130,
+      "offset": 131,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
       "kind": "IntegerLiteral",
-      "offset": 141,
-      "length": 2,
+      "offset": 142,
+      "length": 6,
       "value": "1"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
       "kind": "IntegerLiteral",
-      "offset": 222,
+      "offset": 227,
       "length": 1,
       "value": "0"
     },
@@ -10326,7 +10326,7 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 63622,
+      "offset": 69248,
       "length": 3,
       "value": "1.8"
     },
