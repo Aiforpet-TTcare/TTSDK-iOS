@@ -8765,72 +8765,100 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2232,
+      "offset": 2296,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2269,
+      "offset": 2333,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2502,
+      "offset": 2357,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2666,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2614,
+      "offset": 2778,
       "length": 4,
       "value": "1920"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 2654,
+      "offset": 2818,
       "length": 4,
       "value": "1080"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 5687,
+      "offset": 5851,
       "length": 39,
       "value": "\"Error locking configuration: \""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 5725,
+      "offset": 5889,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6067,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9171,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 11621,
+      "offset": 13061,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 11634,
+      "offset": 13074,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 12522,
+      "offset": 13982,
       "length": 3,
       "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15766,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
@@ -8842,14 +8870,14 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 22822,
+      "offset": 24890,
       "length": 3,
       "value": "320"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 22835,
+      "offset": 24903,
       "length": 3,
       "value": "320"
     },
@@ -9276,7 +9304,7 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTError.swift",
       "kind": "StringLiteral",
-      "offset": 16712,
+      "offset": 16685,
       "length": 71,
       "value": "\"일시적인 문제가 발생하였습니다. 다시 시도하세요.\""
     },
@@ -9430,14 +9458,14 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 34564,
+      "offset": 34982,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35185,
+      "offset": 35603,
       "length": 5,
       "value": "false"
     },
@@ -10326,14 +10354,14 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 25658,
+      "offset": 25680,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 69286,
+      "offset": 69308,
       "length": 3,
       "value": "1.8"
     },
@@ -10809,42 +10837,35 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedEyeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9012,
+      "offset": 9148,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedEyeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9169,
+      "offset": 9305,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedEyeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9336,
+      "offset": 9472,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedEyeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9626,
+      "offset": 9762,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedEyeViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9774,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedEyeViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9965,
+      "offset": 10215,
       "length": 5,
       "value": "false"
     },
@@ -11040,49 +11061,42 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedToothViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9862,
+      "offset": 9998,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedToothViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10020,
+      "offset": 10156,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedToothViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10177,
+      "offset": 10313,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedToothViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10344,
+      "offset": 10480,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedToothViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10634,
+      "offset": 10770,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedToothViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10782,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedToothViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 10973,
+      "offset": 11223,
       "length": 5,
       "value": "false"
     },
@@ -11621,56 +11635,49 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedSkinViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 10925,
+      "offset": 11061,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedSkinViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11082,
+      "offset": 11218,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedSkinViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11241,
+      "offset": 11377,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedSkinViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11399,
+      "offset": 11535,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedSkinViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11564,
+      "offset": 11700,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedSkinViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 11854,
+      "offset": 11990,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedSkinViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12002,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedSkinViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12193,
+      "offset": 12443,
       "length": 5,
       "value": "false"
     },
@@ -12104,98 +12111,98 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "IntegerLiteral",
-      "offset": 5651,
+      "offset": 5646,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "BooleanLiteral",
-      "offset": 5682,
+      "offset": 5677,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "IntegerLiteral",
-      "offset": 7325,
+      "offset": 7320,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "Dictionary",
-      "offset": 8585,
+      "offset": 8580,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "IntegerLiteral",
-      "offset": 8707,
+      "offset": 8702,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "FloatLiteral",
-      "offset": 8753,
+      "offset": 8748,
       "length": 4,
       "value": "-0.5"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "IntegerLiteral",
-      "offset": 8808,
+      "offset": 8803,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "FloatLiteral",
-      "offset": 16462,
+      "offset": 16457,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "FloatLiteral",
-      "offset": 16468,
+      "offset": 16463,
       "length": 3,
       "value": "3.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "StringLiteral",
-      "offset": 22577,
+      "offset": 22572,
       "length": 64,
       "value": "\"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "IntegerLiteral",
-      "offset": 22692,
+      "offset": 22687,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "FloatLiteral",
-      "offset": 24608,
+      "offset": 24603,
       "length": 5,
       "value": "320.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "FloatLiteral",
-      "offset": 24623,
+      "offset": 24618,
       "length": 5,
       "value": "320.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "FloatLiteral",
-      "offset": 25836,
+      "offset": 25831,
       "length": 3,
       "value": "0.0"
     },

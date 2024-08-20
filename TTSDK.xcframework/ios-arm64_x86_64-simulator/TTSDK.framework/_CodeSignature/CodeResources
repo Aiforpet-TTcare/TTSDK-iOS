@@ -70,7 +70,7 @@
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		MiYCSXgkCrqKQAvsOd8SfyUI2/0=
+		tbHSUVv95aolYi0Qije8N9emxp0=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Z8m-Ar-hXt-view-GfL-fv-YbU.nib</key>
 		<data>
@@ -530,7 +530,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		DfxHx82iIJZRqrh6w+Oo/JtuhXM=
+		knIdO4ErZaZXYb+noVQoGa0KzPM=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -546,11 +546,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		a1MLzYZ+mxlbZXaglfhNlIhbMag=
+		uEUaHNueNUmsdC2VLYyESa3t3vo=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		DfxHx82iIJZRqrh6w+Oo/JtuhXM=
+		knIdO4ErZaZXYb+noVQoGa0KzPM=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -566,7 +566,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ss7J0e4vpuWvGYe+NFLam8O/L+g=
+		A4/AOqo8IByvNIQSmaGkiE/A2Z4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -794,7 +794,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LiJ2q+a6m0Y5d5agaKdAAmTx2FG20Tg1RxyDTRtfHv8=
+			EcLeKYAE+HtruCygEi9L5thc6i0H2PfNA02bliyzvX4=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Z8m-Ar-hXt-view-GfL-fv-YbU.nib</key>
@@ -1592,7 +1592,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tnye/HAh2mQwjC8b1mXpUT9WKl2GNL3Xb/HOjtDFBSE=
+			rFKgZBHTsufu9PApTbTyiVg4elseUtdHhWMGTioVRM8=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1620,14 +1620,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bIIIjUZy4b2z1KoALjm6YwPqgZjr2amvVd3ixcGCohs=
+			WKaHdHdza3i5YMe8EGKd9Sr/4YxvIhpG7vmLygBA1r8=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tnye/HAh2mQwjC8b1mXpUT9WKl2GNL3Xb/HOjtDFBSE=
+			rFKgZBHTsufu9PApTbTyiVg4elseUtdHhWMGTioVRM8=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1655,7 +1655,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			T7SWZ+BbYN5OlxCXFwQa7Qd+8mV3RLw9UXbEK18JA3g=
+			c+h37ljn+elSBHdOB8hwmrwrKRs5K2qUpIkAD59tWMo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

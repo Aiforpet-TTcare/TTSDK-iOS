@@ -70,7 +70,7 @@
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		MiYCSXgkCrqKQAvsOd8SfyUI2/0=
+		tbHSUVv95aolYi0Qije8N9emxp0=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Z8m-Ar-hXt-view-GfL-fv-YbU.nib</key>
 		<data>
@@ -530,7 +530,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		hHDj+N1ZJWMpipgMxXA4aTBHdsU=
+		24pONMiehycaItnAyttBObuBEzE=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -546,7 +546,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		+pHqRRn+RvzQ/KdKyQ6wqoYuPx0=
+		A/IVuOrbe4snEDOKpSlPlhR31Z0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -774,7 +774,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LiJ2q+a6m0Y5d5agaKdAAmTx2FG20Tg1RxyDTRtfHv8=
+			EcLeKYAE+HtruCygEi9L5thc6i0H2PfNA02bliyzvX4=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Z8m-Ar-hXt-view-GfL-fv-YbU.nib</key>
@@ -1572,7 +1572,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ynHO/5Jtk1CfH7emJbWzSsThSehg6QaUUvp1nNwfpD4=
+			//hKWpXbwkijbjWPrvYEK/2b0Vqf/z9JxDAKPfDqaVQ=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1600,7 +1600,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2+zsi5b4drqVgXK0BBJFp1lq5c6MHX3vQ2gOkg41eFw=
+			wlkhGCBDCFBjiQOBgclNEvvcLCsqxlisEimumAAyRxk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
