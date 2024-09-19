@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		dmJ16fJbb8czhyaAvCTa913zJpo=
+		AzHt3yq9st2YXWVg60QOfuSsy/g=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
 		<data>
@@ -526,15 +526,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LnNEtzv+1ayD3aKupbKYg7Gk0zE=
+		yhYzCtE+xdwTjMY9pUxyYTf4tzk=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		gxeGaHmcBCkvMaI1f7lS4Q451Fs=
+		rKM6ON+zDXcns3ggqH8QwFxApO8=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		32avlDwGEvWNxaaQpfoIYeq4nuo=
+		+NUMyDrywjZ0Y+NbS06d51qx0nM=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -542,19 +542,19 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		32avlDwGEvWNxaaQpfoIYeq4nuo=
+		+NUMyDrywjZ0Y+NbS06d51qx0nM=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DoLCnwChl1YO0uXeKOfZSxvxjNI=
+		kjA9/OFRqtOmqiH46KCHQOCSyts=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		gxeGaHmcBCkvMaI1f7lS4Q451Fs=
+		rKM6ON+zDXcns3ggqH8QwFxApO8=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Gs0gSayeCCE9rgKYcWa0i6ihXQQ=
+		Dzr2DIL9ulM5wRgzPl1K06cCQ0k=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -562,11 +562,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Gs0gSayeCCE9rgKYcWa0i6ihXQQ=
+		Dzr2DIL9ulM5wRgzPl1K06cCQ0k=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qXhgc9T5PtCy0hadhCjR2rf9QA0=
+		VrdcJMtDozf/V/vdw/hcbhe/7/Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -682,7 +682,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JQA6lt0ythUGGpfFk/h0GQAl+5+SfQngJrpUwjB4LGY=
+			x+e4Gf+gn61EWVe5Vyrxa8b3HoS2dSWh3pKSWvG5RGg=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
@@ -1592,14 +1592,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QdeX9OCXCKhK71CQb2JAWordg2TIOk0AbIy3+2eh4UQ=
+			+SQL3TamL+HfF8JsXpU1eg11s+t0Gbmg5EgJwcYzFZ8=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UByzvFk51yULI/dzwbglpliFNIuXdFXtDjbqaBaJDvI=
+			Awy3JvQoC+hglptXGBemL8vlIMJH4Dq0UVaT63eTgBE=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1613,28 +1613,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UByzvFk51yULI/dzwbglpliFNIuXdFXtDjbqaBaJDvI=
+			Awy3JvQoC+hglptXGBemL8vlIMJH4Dq0UVaT63eTgBE=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aZzqEqVPI5PV7i2xTSYUPHPTkjVMNPpQ/LMCOkhhK90=
+			zIaiaxt3EL51OFI+NTXoXyLN48mhbfLKhaoUqiDerwQ=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QdeX9OCXCKhK71CQb2JAWordg2TIOk0AbIy3+2eh4UQ=
+			+SQL3TamL+HfF8JsXpU1eg11s+t0Gbmg5EgJwcYzFZ8=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EAySt7cjCweOj6zlcBKXIfEUXye5G4Nyj7ASpbavk9Y=
+			ax44/M/aZNHzt9swKjWdAjpzd79S+CRPCw1oYr/0ZPU=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1648,14 +1648,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EAySt7cjCweOj6zlcBKXIfEUXye5G4Nyj7ASpbavk9Y=
+			ax44/M/aZNHzt9swKjWdAjpzd79S+CRPCw1oYr/0ZPU=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OULEo6Lfx2w2iorl3Yg0ohUkr5zEwFAQx4pG4kS/MDU=
+			2NGKH62gT1WMXUyH9lrauF2wK+e0FQTUSYorLD7XDnk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

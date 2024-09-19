@@ -84,6 +84,10 @@ public class TTJSONNull : Swift.Codable, Swift.Hashable {
   public func encode(to encoder: any Swift.Encoder) throws
   @objc deinit
 }
+public protocol TTCameraViewControllable : UIKit.UIViewController {
+  func close()
+  func refresh()
+}
 public enum TTCameraType : Swift.CaseIterable {
   case eye
   case tooth
@@ -113,15 +117,18 @@ public enum TTCameraType : Swift.CaseIterable {
   public static func configure(authFileData: Foundation.Data)
   public static func setAPNS(token: Swift.String?)
   public static func configure(license: TTSDK.TTLicense)
+  public static func updateToken(_ accessToken: Swift.String?)
   public static var youtubeHander: ((Swift.String?) -> Swift.Void)?
   public var apnsToken: Swift.String?
   @objc deinit
 }
 extension TTSDK.TTManager {
-  public static func eye(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, guideUrl: Swift.String? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func tooth(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, guideUrl: Swift.String? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func joint(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, guideUrl: Swift.String? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func setLog(isOn: Swift.Bool = true)
+  public static func eye(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func tooth(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func joint(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func guideViewController(petType: TTSDK.TTPetType, cameraType: TTSDK.TTCameraType) -> UIKit.UIViewController
   public static func clearUserDefaults()
 }
 public enum TTPetType : Swift.String, Swift.Hashable, Swift.Codable, Swift.CaseIterable {
@@ -138,6 +145,14 @@ public enum TTPetType : Swift.String, Swift.Hashable, Swift.Codable, Swift.CaseI
   }
 }
 public struct TTResult : Swift.Codable {
+  public var dataValue: TTSDK.TTData? {
+    get
+  }
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct TTData : Swift.Codable {
+  public var diagID: Swift.Int?
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -182,6 +197,14 @@ public struct TTLicense : Swift.Codable {
   public var accessToken: Swift.String?
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
+}
+public typealias TTResultCompletion = (Swift.Int?) -> any TTSDK.TTResultViewCotrollable
+public protocol TTResultViewCotrollable : UIKit.UIViewController {
+  var backCompletaion: (() -> Swift.Void)? { get set }
+  var closeCompletaion: (() -> Swift.Void)? { get set }
+  var result: TTSDK.TTResult? { get set }
+  func close()
+  func back()
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class TTCameraGuideViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()

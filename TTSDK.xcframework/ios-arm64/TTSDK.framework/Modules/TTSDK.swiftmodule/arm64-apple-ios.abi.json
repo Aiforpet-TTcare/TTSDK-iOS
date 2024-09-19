@@ -1763,6 +1763,64 @@
         "moduleName": "TTSDK"
       },
       {
+        "kind": "TypeDecl",
+        "name": "TTCameraViewControllable",
+        "printedName": "TTCameraViewControllable",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "close",
+            "printedName": "close()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK24TTCameraViewControllableP5closeyyF",
+            "mangledName": "$s5TTSDK24TTCameraViewControllableP5closeyyF",
+            "moduleName": "TTSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTCameraViewControllable>",
+            "sugared_genericSig": "<Self where Self : TTSDK.TTCameraViewControllable>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "refresh",
+            "printedName": "refresh()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK24TTCameraViewControllableP7refreshyyF",
+            "mangledName": "$s5TTSDK24TTCameraViewControllableP7refreshyyF",
+            "moduleName": "TTSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTCameraViewControllable>",
+            "sugared_genericSig": "<Self where Self : TTSDK.TTCameraViewControllable>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:5TTSDK24TTCameraViewControllableP",
+        "mangledName": "$s5TTSDK24TTCameraViewControllableP",
+        "moduleName": "TTSDK",
+        "genericSig": "<τ_0_0 : UIKit.UIViewController>",
+        "sugared_genericSig": "<Self : UIKit.UIViewController>",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
@@ -2927,6 +2985,42 @@
             "funcSelfKind": "NonMutating"
           },
           {
+            "kind": "Function",
+            "name": "updateToken",
+            "printedName": "updateToken(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK9TTManagerC11updateTokenyySSSgFZ",
+            "mangledName": "$s5TTSDK9TTManagerC11updateTokenyySSSgFZ",
+            "moduleName": "TTSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Var",
             "name": "youtubeHander",
             "printedName": "youtubeHander",
@@ -3222,8 +3316,38 @@
           },
           {
             "kind": "Function",
+            "name": "setLog",
+            "printedName": "setLog(isOn:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK9TTManagerC6setLog4isOnySb_tFZ",
+            "mangledName": "$s5TTSDK9TTManagerC6setLog4isOnySb_tFZ",
+            "moduleName": "TTSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "eye",
-            "printedName": "eye(petType:petId:petName:userId:guideUrl:completion:)",
+            "printedName": "eye(petType:petId:petName:userId:petInfo:guideUrl:resultViewController:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3299,6 +3423,36 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any TTSDK.TTResultViewCotrollable)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TTResultViewCotrollable",
+                    "printedName": "any TTSDK.TTResultViewCotrollable",
+                    "usr": "s:5TTSDK23TTResultViewCotrollableP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
                 "printedName": "((Any?, (any Swift.Error)?) -> ())?",
                 "children": [
                   {
@@ -3353,8 +3507,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC3eye7petType0D2Id0D4Name04userF08guideUrl10completionyAA05TTPetE0O_SSSgA3MyypSg_s5Error_pSgtcSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC3eye7petType0D2Id0D4Name04userF08guideUrl10completionyAA05TTPetE0O_SSSgA3MyypSg_s5Error_pSgtcSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC3eye7petType0D2Id0D4Name04userF00D4Info8guideUrl20resultViewController10completionyAA05TTPetE0O_SSSgA4oA08TTResultM11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC3eye7petType0D2Id0D4Name04userF00D4Info8guideUrl20resultViewController10completionyAA05TTPetE0O_SSSgA4oA08TTResultM11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -3367,7 +3521,7 @@
           {
             "kind": "Function",
             "name": "tooth",
-            "printedName": "tooth(petType:petId:petName:userId:guideUrl:completion:)",
+            "printedName": "tooth(petType:petId:petName:userId:petInfo:guideUrl:resultViewController:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3443,6 +3597,36 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any TTSDK.TTResultViewCotrollable)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TTResultViewCotrollable",
+                    "printedName": "any TTSDK.TTResultViewCotrollable",
+                    "usr": "s:5TTSDK23TTResultViewCotrollableP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
                 "printedName": "((Any?, (any Swift.Error)?) -> ())?",
                 "children": [
                   {
@@ -3497,8 +3681,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC5tooth7petType0D2Id0D4Name04userF08guideUrl10completionyAA05TTPetE0O_SSSgA3MyypSg_s5Error_pSgtcSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC5tooth7petType0D2Id0D4Name04userF08guideUrl10completionyAA05TTPetE0O_SSSgA3MyypSg_s5Error_pSgtcSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC5tooth7petType0D2Id0D4Name04userF00D4Info8guideUrl20resultViewController10completionyAA05TTPetE0O_SSSgA4oA08TTResultM11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC5tooth7petType0D2Id0D4Name04userF00D4Info8guideUrl20resultViewController10completionyAA05TTPetE0O_SSSgA4oA08TTResultM11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -3511,7 +3695,7 @@
           {
             "kind": "Function",
             "name": "skin",
-            "printedName": "skin(petType:petId:petName:userId:recordId:guideUrl:completion:)",
+            "printedName": "skin(petType:petId:petName:userId:petInfo:recordId:guideUrl:resultViewController:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3602,6 +3786,36 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any TTSDK.TTResultViewCotrollable)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TTResultViewCotrollable",
+                    "printedName": "any TTSDK.TTResultViewCotrollable",
+                    "usr": "s:5TTSDK23TTResultViewCotrollableP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
                 "printedName": "((Any?, (any Swift.Error)?) -> ())?",
                 "children": [
                   {
@@ -3656,8 +3870,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC4skin7petType0D2Id0D4Name04userF006recordF08guideUrl10completionyAA05TTPetE0O_SSSgA4NyypSg_s5Error_pSgtcSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC4skin7petType0D2Id0D4Name04userF006recordF08guideUrl10completionyAA05TTPetE0O_SSSgA4NyypSg_s5Error_pSgtcSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC4skin7petType0D2Id0D4Name04userF00D4Info06recordF08guideUrl20resultViewController10completionyAA05TTPetE0O_SSSgA5pA08TTResultN11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC4skin7petType0D2Id0D4Name04userF00D4Info06recordF08guideUrl20resultViewController10completionyAA05TTPetE0O_SSSgA5pA08TTResultN11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -3670,7 +3884,7 @@
           {
             "kind": "Function",
             "name": "joint",
-            "printedName": "joint(petType:petId:petName:userId:guideUrl:completion:)",
+            "printedName": "joint(petType:petId:petName:userId:petInfo:guideUrl:resultViewController:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3746,6 +3960,36 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any TTSDK.TTResultViewCotrollable)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TTResultViewCotrollable",
+                    "printedName": "any TTSDK.TTResultViewCotrollable",
+                    "usr": "s:5TTSDK23TTResultViewCotrollableP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
                 "printedName": "((Any?, (any Swift.Error)?) -> ())?",
                 "children": [
                   {
@@ -3800,8 +4044,44 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC5joint7petType0D2Id0D4Name04userF08guideUrl10completionyAA05TTPetE0O_SSSgA3MyypSg_s5Error_pSgtcSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC5joint7petType0D2Id0D4Name04userF08guideUrl10completionyAA05TTPetE0O_SSSgA3MyypSg_s5Error_pSgtcSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC5joint7petType0D2Id0D4Name04userF00D4Info8guideUrl20resultViewController10completionyAA05TTPetE0O_SSSgA4oA08TTResultM11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC5joint7petType0D2Id0D4Name04userF00D4Info8guideUrl20resultViewController10completionyAA05TTPetE0O_SSSgA4oA08TTResultM11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "moduleName": "TTSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "guideViewController",
+            "printedName": "guideViewController(petType:cameraType:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "TTPetType",
+                "printedName": "TTSDK.TTPetType",
+                "usr": "s:5TTSDK9TTPetTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "TTCameraType",
+                "printedName": "TTSDK.TTCameraType",
+                "usr": "s:5TTSDK12TTCameraTypeO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK9TTManagerC19guideViewController7petType06cameraG0So06UIViewE0CAA05TTPetG0O_AA08TTCameraG0OtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC19guideViewController7petType06cameraG0So06UIViewE0CAA05TTPetG0O_AA08TTCameraG0OtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -3843,6 +4123,16 @@
           "AccessControl"
         ],
         "hasMissingDesignatedInitializers": true
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TTSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -4334,6 +4624,62 @@
         "printedName": "TTResult",
         "children": [
           {
+            "kind": "Var",
+            "name": "dataValue",
+            "printedName": "dataValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TTSDK.TTData?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TTData",
+                    "printedName": "TTSDK.TTData",
+                    "usr": "s:5TTSDK6TTDataV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5TTSDK8TTResultV9dataValueAA6TTDataVSgvp",
+            "mangledName": "$s5TTSDK8TTResultV9dataValueAA6TTDataVSgvp",
+            "moduleName": "TTSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "TTSDK.TTData?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TTData",
+                        "printedName": "TTSDK.TTData",
+                        "usr": "s:5TTSDK6TTDataV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK8TTResultV9dataValueAA6TTDataVSgvg",
+                "mangledName": "$s5TTSDK8TTResultV9dataValueAA6TTDataVSgvg",
+                "moduleName": "TTSDK",
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
@@ -4388,6 +4734,198 @@
         "declKind": "Struct",
         "usr": "s:5TTSDK8TTResultV",
         "mangledName": "$s5TTSDK8TTResultV",
+        "moduleName": "TTSDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TTData",
+        "printedName": "TTData",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "diagID",
+            "printedName": "diagID",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.Int?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5TTSDK6TTDataV6diagIDSiSgvp",
+            "mangledName": "$s5TTSDK6TTDataV6diagIDSiSgvp",
+            "moduleName": "TTSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK6TTDataV6diagIDSiSgvg",
+                "mangledName": "$s5TTSDK6TTDataV6diagIDSiSgvg",
+                "moduleName": "TTSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK6TTDataV6diagIDSiSgvs",
+                "mangledName": "$s5TTSDK6TTDataV6diagIDSiSgvs",
+                "moduleName": "TTSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK6TTDataV6diagIDSiSgvM",
+                "mangledName": "$s5TTSDK6TTDataV6diagIDSiSgvM",
+                "moduleName": "TTSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "TTData",
+                "printedName": "TTSDK.TTData",
+                "usr": "s:5TTSDK6TTDataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:5TTSDK6TTDataV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s5TTSDK6TTDataV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "TTSDK",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK6TTDataV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s5TTSDK6TTDataV6encode2toys7Encoder_p_tKF",
+            "moduleName": "TTSDK",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:5TTSDK6TTDataV",
+        "mangledName": "$s5TTSDK6TTDataV",
         "moduleName": "TTSDK",
         "declAttributes": [
           "AccessControl",
@@ -6848,6 +7386,485 @@
             "usr": "s:SE",
             "mangledName": "$sSE"
           }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TTSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "TTResultViewCotrollable",
+        "printedName": "TTResultViewCotrollable",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "backCompletaion",
+            "printedName": "backCompletaion",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5TTSDK23TTResultViewCotrollableP15backCompletaionyycSgvp",
+            "mangledName": "$s5TTSDK23TTResultViewCotrollableP15backCompletaionyycSgvp",
+            "moduleName": "TTSDK",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP15backCompletaionyycSgvg",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP15backCompletaionyycSgvg",
+                "moduleName": "TTSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+                "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP15backCompletaionyycSgvs",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP15backCompletaionyycSgvs",
+                "moduleName": "TTSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+                "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP15backCompletaionyycSgvM",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP15backCompletaionyycSgvM",
+                "moduleName": "TTSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+                "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+                "protocolReq": true,
+                "implicit": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "closeCompletaion",
+            "printedName": "closeCompletaion",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5TTSDK23TTResultViewCotrollableP16closeCompletaionyycSgvp",
+            "mangledName": "$s5TTSDK23TTResultViewCotrollableP16closeCompletaionyycSgvp",
+            "moduleName": "TTSDK",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP16closeCompletaionyycSgvg",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP16closeCompletaionyycSgvg",
+                "moduleName": "TTSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+                "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(() -> ())?",
+                    "children": [
+                      {
+                        "kind": "TypeFunc",
+                        "name": "Function",
+                        "printedName": "() -> ()",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Void",
+                            "printedName": "()"
+                          }
+                        ]
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP16closeCompletaionyycSgvs",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP16closeCompletaionyycSgvs",
+                "moduleName": "TTSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+                "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP16closeCompletaionyycSgvM",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP16closeCompletaionyycSgvM",
+                "moduleName": "TTSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+                "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+                "protocolReq": true,
+                "implicit": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "result",
+            "printedName": "result",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "TTSDK.TTResult?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TTResult",
+                    "printedName": "TTSDK.TTResult",
+                    "usr": "s:5TTSDK8TTResultV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvp",
+            "mangledName": "$s5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvp",
+            "moduleName": "TTSDK",
+            "protocolReq": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "TTSDK.TTResult?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TTResult",
+                        "printedName": "TTSDK.TTResult",
+                        "usr": "s:5TTSDK8TTResultV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvg",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvg",
+                "moduleName": "TTSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+                "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "TTSDK.TTResult?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "TTResult",
+                        "printedName": "TTSDK.TTResult",
+                        "usr": "s:5TTSDK8TTResultV"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvs",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvs",
+                "moduleName": "TTSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+                "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+                "protocolReq": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvM",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvM",
+                "moduleName": "TTSDK",
+                "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+                "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+                "protocolReq": true,
+                "implicit": true,
+                "reqNewWitnessTableEntry": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "close",
+            "printedName": "close()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK23TTResultViewCotrollableP5closeyyF",
+            "mangledName": "$s5TTSDK23TTResultViewCotrollableP5closeyyF",
+            "moduleName": "TTSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+            "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "back",
+            "printedName": "back()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK23TTResultViewCotrollableP4backyyF",
+            "mangledName": "$s5TTSDK23TTResultViewCotrollableP4backyyF",
+            "moduleName": "TTSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
+            "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:5TTSDK23TTResultViewCotrollableP",
+        "mangledName": "$s5TTSDK23TTResultViewCotrollableP",
+        "moduleName": "TTSDK",
+        "genericSig": "<τ_0_0 : UIKit.UIViewController>",
+        "sugared_genericSig": "<Self : UIKit.UIViewController>",
+        "declAttributes": [
+          "AccessControl"
         ]
       },
       {
@@ -9409,63 +10426,63 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1517,
+      "offset": 1643,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1562,
+      "offset": 1688,
       "length": 4,
       "value": "64.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1606,
+      "offset": 1732,
       "length": 5,
       "value": "208.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 1690,
+      "offset": 1816,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 1739,
+      "offset": 1865,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1790,
+      "offset": 1916,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2010,
+      "offset": 2191,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35019,
+      "offset": 36068,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 35640,
+      "offset": 36689,
       "length": 5,
       "value": "false"
     },
@@ -9634,6 +10651,13 @@
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
       "offset": 384,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5912,
       "length": 4,
       "value": "true"
     },
@@ -9835,29 +10859,36 @@
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTLog.swift",
+      "kind": "BooleanLiteral",
+      "offset": 148,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTLog.swift",
       "kind": "StringLiteral",
-      "offset": 1171,
+      "offset": 1214,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTLog.swift",
       "kind": "StringLiteral",
-      "offset": 1214,
+      "offset": 1257,
       "length": 4,
       "value": "\"\n\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTLog.swift",
       "kind": "StringLiteral",
-      "offset": 2661,
+      "offset": 2758,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTLog.swift",
       "kind": "StringLiteral",
-      "offset": 2698,
+      "offset": 2795,
       "length": 4,
       "value": "\"\n\""
     },
@@ -10053,14 +11084,14 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 1392,
+      "offset": 1413,
       "length": 8,
       "value": "\"diagId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 1392,
+      "offset": 1413,
       "length": 8,
       "value": "\"diagId\""
     },
@@ -10354,14 +11385,14 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 25701,
+      "offset": 26211,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 69341,
+      "offset": 69851,
       "length": 3,
       "value": "1.8"
     },
