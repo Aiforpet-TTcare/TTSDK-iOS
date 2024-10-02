@@ -1,16 +1,20 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
 // swift-module-flags: -target x86_64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name TTSDK
+import ARKit
 import AVFoundation
 import AVKit
 import Accelerate
+import AudioToolbox
 import CommonCrypto
 import CoreGraphics
 import CoreImage
+import CoreMedia
 import CoreMotion
 import CoreVideo
 import DeveloperToolsSupport
 import Foundation
+import SceneKit
 import Swift
 import SwiftUI
 @_exported import TTSDK
@@ -117,17 +121,20 @@ public enum TTCameraType : Swift.CaseIterable {
   public static func configure(authFileData: Foundation.Data)
   public static func setAPNS(token: Swift.String?)
   public static func configure(license: TTSDK.TTLicense)
+  public static func metadata(_ info: [Swift.String : Any]?)
   public static func updateToken(_ accessToken: Swift.String?)
   public static var youtubeHander: ((Swift.String?) -> Swift.Void)?
+  public static var actionHander: ((Swift.String?) -> Swift.Void)?
   public var apnsToken: Swift.String?
   @objc deinit
 }
 extension TTSDK.TTManager {
   public static func setLog(isOn: Swift.Bool = true)
-  public static func eye(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func tooth(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func joint(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func close()
+  public static func eye(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func tooth(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, isAuto: Swift.Bool = false, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func joint(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   public static func guideViewController(petType: TTSDK.TTPetType, cameraType: TTSDK.TTCameraType) -> UIKit.UIViewController
   public static func clearUserDefaults()
 }
@@ -146,6 +153,9 @@ public enum TTPetType : Swift.String, Swift.Hashable, Swift.Codable, Swift.CaseI
 }
 public struct TTResult : Swift.Codable {
   public var dataValue: TTSDK.TTData? {
+    get
+  }
+  public var string: Swift.String? {
     get
   }
   public func encode(to encoder: any Swift.Encoder) throws

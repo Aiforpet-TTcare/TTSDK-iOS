@@ -74,11 +74,11 @@
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Z8m-Ar-hXt-view-GfL-fv-YbU.nib</key>
 		<data>
-		K3bEryjt35SWVeUUJUDwXh6TcV0=
+		La92lF/7+sHi7O9lrAY0eEUcFQU=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/b6Q-u1-dpR-view-izD-oM-0LL.nib</key>
 		<data>
-		DBvvXdyb6jrZfvIQBxGPAQbeVMk=
+		uCcivIJ8CcvffP1n6p7FUB5YIdA=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/f5j-e4-6ur-view-0v9-ep-bcy.nib</key>
 		<data>
@@ -530,11 +530,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		is8342gru3l9CkpmFbVMhQTlI2g=
+		XDc7GPwUrQ0bgUMKmZfLmdHXZsc=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		nP4MtZy++rPqwBO16u8JDY3Ecfs=
+		dRqEqu1OOykqCQC5bbGCtMGclaM=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -542,11 +542,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		nP4MtZy++rPqwBO16u8JDY3Ecfs=
+		dRqEqu1OOykqCQC5bbGCtMGclaM=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		j9EBaW4HQiFGDig40IqhNCxEqJE=
+		yiFigGlvELKJkmJyjgiqYioucEA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -560,7 +560,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rW9lN0+dj+1tWZBqWW73A3YBXMI=
+			AHIcAUzuObIDMz7hBe5fFkOoses=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -569,7 +569,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EqnkR69g/QZeZ4kWEH/ch1TXGow=
+			mTOmdvlgOxtufSlT0+u8HGjKZ1M=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -605,7 +605,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LMxGLNJdgeGno5g/ujbjCbUL9hE=
+			mdSRHzCXins1tdyDj7yB98t1LMY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -614,7 +614,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SM9Cl+th+cysriLg1C5vKaxJ/4I=
+			o2BRxp2ltJ5yv2xHzjDSW/7YkIk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -781,14 +781,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6tKUrAJM/NoZVyaCa13r71nZA3rXGmIrcCJxWzWzBD0=
+			s1u9jdz0JF9vI50MjNOcDgzFX+0ZjCmjIzHTf62Asgw=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/b6Q-u1-dpR-view-izD-oM-0LL.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IA47mrMDVYlXtvYFyDET5TfjCwzursec124UXsf8mro=
+			Wo/bjUsNmqxqLvFBXEndUPHVsR6nDnpL1uWVC00fIdE=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/f5j-e4-6ur-view-0v9-ep-bcy.nib</key>
@@ -1572,14 +1572,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SokuzsTFEacKWtb6gjNSpsyHTZvQbIegWrI1KgxM1h0=
+			D19j42pY+Dp64lcp5jlNaIeF1cWj0u2l9EFCZnT9fXg=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HBAnIlNPj4ab+tHG3T4XuU73EZ15+AWGJ1XCVOBtkEQ=
+			hfkx5kGwHepUHzFlSgW+G3rnBP11xvfl8gf8SrL1+Ew=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -1593,14 +1593,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HBAnIlNPj4ab+tHG3T4XuU73EZ15+AWGJ1XCVOBtkEQ=
+			hfkx5kGwHepUHzFlSgW+G3rnBP11xvfl8gf8SrL1+Ew=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zSZZ+C/2Drp/mWTnFMOLQce79X3PoC+rDb1gE+IqAEQ=
+			Q9YfW7Jz3vVTtv2Set3rpKMEOabt8ldnOJaUKBSM55g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1621,7 +1621,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FbYBx7u0TUW4R202QWkWIH01wc3cjo/pNITKrlwBkPQ=
+			Uk3YlRtlByWdry5opZ6N8aQY+MKnHycouzvSActsQkY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1630,7 +1630,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r6FrTRQDDxof9Y9pthBwkI/SSmS8mPCK3OeC0A7NvCY=
+			twcLwXi91mflC65YDW8qfXMp3rCWSH4cv6lmfJFP08Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1666,7 +1666,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4haBHgJxLITzO63pXAWQ4QT3nI8Y9rWpPp593x1u0h0=
+			m3Zjg1jwlP2pX5S16oky7/xHWg2V//sXE93LvqlDv4U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1675,7 +1675,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FiC94CGZGLc8yRqRV1ILTR2qmPXkGm4VRKqjeQu5Chw=
+			SL9ccqEh0K/ofqlfz78rntqnacCjMG/yxVPyzmHJWOQ=
 			</data>
 			<key>optional</key>
 			<true/>
