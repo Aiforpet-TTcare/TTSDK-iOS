@@ -2322,6 +2322,106 @@
         "children": [
           {
             "kind": "Var",
+            "name": "isHiddenSkeleton",
+            "printedName": "isHiddenSkeleton",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:5TTSDK9TTManagerC16isHiddenSkeletonSbvpZ",
+            "mangledName": "$s5TTSDK9TTManagerC16isHiddenSkeletonSbvpZ",
+            "moduleName": "TTSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK9TTManagerC16isHiddenSkeletonSbvgZ",
+                "mangledName": "$s5TTSDK9TTManagerC16isHiddenSkeletonSbvgZ",
+                "moduleName": "TTSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bool",
+                    "printedName": "Swift.Bool",
+                    "usr": "s:Sb"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK9TTManagerC16isHiddenSkeletonSbvsZ",
+                "mangledName": "$s5TTSDK9TTManagerC16isHiddenSkeletonSbvsZ",
+                "moduleName": "TTSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:5TTSDK9TTManagerC16isHiddenSkeletonSbvMZ",
+                "mangledName": "$s5TTSDK9TTManagerC16isHiddenSkeletonSbvMZ",
+                "moduleName": "TTSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
             "name": "isHapticEnabled",
             "printedName": "isHapticEnabled",
             "children": [
@@ -4525,6 +4625,67 @@
             "declKind": "Func",
             "usr": "s:5TTSDK9TTManagerC19guideViewController7petType06cameraG0So06UIViewE0CAA05TTPetG0O_AA08TTCameraG0OtFZ",
             "mangledName": "$s5TTSDK9TTManagerC19guideViewController7petType06cameraG0So06UIViewE0CAA05TTPetG0O_AA08TTCameraG0OtFZ",
+            "moduleName": "TTSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "guideViewController",
+            "printedName": "guideViewController(cameraType:guideUrl:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "TTCameraType",
+                "printedName": "TTSDK.TTCameraType",
+                "usr": "s:5TTSDK12TTCameraTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "URL",
+                "printedName": "Foundation.URL",
+                "usr": "s:10Foundation3URLV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(() -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "() -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK9TTManagerC19guideViewController10cameraType0C3Url10completionSo06UIViewE0CAA08TTCameraG0O_10Foundation3URLVyycSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC19guideViewController10cameraType0C3Url10completionSo06UIViewE0CAA08TTCameraG0O_10Foundation3URLVyycSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -11204,28 +11365,35 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 369,
+      "offset": 370,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 416,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 417,
+      "offset": 464,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 6112,
+      "offset": 6159,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 9446,
+      "offset": 9493,
       "length": 5,
       "value": "false"
     },
@@ -13171,28 +13339,28 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManageable.swift",
       "kind": "BooleanLiteral",
-      "offset": 5572,
+      "offset": 5574,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManageable.swift",
       "kind": "BooleanLiteral",
-      "offset": 5837,
+      "offset": 5839,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManageable.swift",
       "kind": "IntegerLiteral",
-      "offset": 7888,
+      "offset": 7890,
       "length": 3,
       "value": "320"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManageable.swift",
       "kind": "IntegerLiteral",
-      "offset": 7901,
+      "offset": 7903,
       "length": 3,
       "value": "320"
     },
