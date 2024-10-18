@@ -4637,7 +4637,7 @@
           {
             "kind": "Function",
             "name": "guideViewController",
-            "printedName": "guideViewController(cameraType:guideUrl:completion:)",
+            "printedName": "guideViewController(cameraType:guideUrl:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4653,19 +4653,219 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "URL",
-                "printedName": "Foundation.URL",
-                "usr": "s:10Foundation3URLV"
+                "name": "Optional",
+                "printedName": "Foundation.URL?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "URL",
+                    "printedName": "Foundation.URL",
+                    "usr": "s:10Foundation3URLV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK9TTManagerC19guideViewController10cameraType0C3UrlSo06UIViewE0CAA08TTCameraG0O_10Foundation3URLVSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC19guideViewController10cameraType0C3UrlSo06UIViewE0CAA08TTCameraG0O_10Foundation3URLVSgtFZ",
+            "moduleName": "TTSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "showGuideFirst",
+            "printedName": "showGuideFirst(cameraType:petType:petId:petName:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:recordId:guideUrl:resultViewController:isAuto:completion:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "TTCameraType",
+                "printedName": "TTSDK.TTCameraType",
+                "usr": "s:5TTSDK12TTCameraTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "TTPetType",
+                "printedName": "TTSDK.TTPetType",
+                "usr": "s:5TTSDK9TTPetTypeO"
               },
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "(() -> ())?",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any TTSDK.TTResultViewCotrollable)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "TTResultViewCotrollable",
+                    "printedName": "any TTSDK.TTResultViewCotrollable",
+                    "usr": "s:5TTSDK23TTResultViewCotrollableP"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Any?, (any Swift.Error)?) -> ())?",
                 "children": [
                   {
                     "kind": "TypeFunc",
                     "name": "Function",
-                    "printedName": "() -> ()",
+                    "printedName": "(Any?, (any Swift.Error)?) -> ()",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -4674,18 +4874,48 @@
                       },
                       {
                         "kind": "TypeNominal",
-                        "name": "Void",
-                        "printedName": "()"
+                        "name": "Tuple",
+                        "printedName": "(Any?, (any Swift.Error)?)",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "Any?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "ProtocolComposition",
+                                "printedName": "Any"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Optional",
+                            "printedName": "(any Swift.Error)?",
+                            "children": [
+                              {
+                                "kind": "TypeNominal",
+                                "name": "Error",
+                                "printedName": "any Swift.Error",
+                                "usr": "s:s5ErrorP"
+                              }
+                            ],
+                            "usr": "s:Sq"
+                          }
+                        ]
                       }
                     ]
                   }
                 ],
+                "hasDefaultArg": true,
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC19guideViewController10cameraType0C3Url10completionSo06UIViewE0CAA08TTCameraG0O_10Foundation3URLVyycSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC19guideViewController10cameraType0C3Url10completionSo06UIViewE0CAA08TTCameraG0O_10Foundation3URLVyycSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC14showGuideFirst10cameraType03petG00H2Id0H4Name04userI00H8Birthday0h5BreedJ00H6Gender0H14AdditionalInfo06recordI08guideUrl20resultViewController6isAuto10completionyAA08TTCameraG0O_AA05TTPetG0OSSSgA8wA08TTResultU11Cotrollable_pSgSbyypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC14showGuideFirst10cameraType03petG00H2Id0H4Name04userI00H8Birthday0h5BreedJ00H6Gender0H14AdditionalInfo06recordI08guideUrl20resultViewController6isAuto10completionyAA08TTCameraG0O_AA05TTPetG0OSSSgA8wA08TTResultU11Cotrollable_pSgSbyypSg_s5Error_pSgtcSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -8671,6 +8901,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "TTSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "TTSDK"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -11394,6 +11641,13 @@
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
       "offset": 9493,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12631,
       "length": 5,
       "value": "false"
     },
