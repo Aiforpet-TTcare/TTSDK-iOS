@@ -14524,1260 +14524,1260 @@
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2039,
+      "offset": 2027,
+      "length": 20,
+      "value": "\"camEyeOverlayFocus\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2205,
       "length": 26,
       "value": "\"camJointTutorialPlayback\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2207,
+      "offset": 2373,
       "length": 18,
       "value": "\"camUtilOriGuide1\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2393,
+      "offset": 2559,
       "length": 31,
       "value": "\"checkCameraFunctionFlashOIcon\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2592,
+      "offset": 2758,
       "length": 31,
       "value": "\"checkCameraFunctionFlashXIcon\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2787,
+      "offset": 2953,
       "length": 29,
       "value": "\"checkCameraFunctionLenseOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2980,
+      "offset": 3146,
       "length": 29,
       "value": "\"checkCameraFunctionSelfIcon\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3157,
+      "offset": 3323,
       "length": 21,
       "value": "\"checkCompleteReplay\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3330,
+      "offset": 3496,
       "length": 23,
       "value": "\"checkControlColorless\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3519,
-      "length": 30,
-      "value": "\"checkControlColorlessEyeline\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 3699,
+      "offset": 3669,
       "length": 22,
       "value": "\"checkGuideFrameBlueS\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3869,
+      "offset": 3839,
       "length": 21,
       "value": "\"checkGuideFrameRedS\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4042,
+      "offset": 4012,
       "length": 23,
       "value": "\"checkGuideReturnArrow\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4227,
+      "offset": 4197,
       "length": 28,
       "value": "\"checkGuideReturnCheckGuide\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4399,
+      "offset": 4369,
       "length": 19,
       "value": "\"checkGuideReturnO\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4562,
+      "offset": 4532,
       "length": 19,
       "value": "\"checkGuideReturnX\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4715,
+      "offset": 4685,
       "length": 14,
       "value": "\"checkNewlogo\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4877,
+      "offset": 4847,
       "length": 21,
       "value": "\"checkRetureImgEyeNo\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5046,
+      "offset": 5016,
       "length": 21,
       "value": "\"checkRetureImgHands\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5207,
+      "offset": 5177,
       "length": 17,
       "value": "\"checkSqureFrame\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5364,
+      "offset": 5334,
       "length": 17,
       "value": "\"circleCheckWell\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5523,
+      "offset": 5493,
       "length": 18,
       "value": "\"circleCheckWrong\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5697,
+      "offset": 5667,
       "length": 25,
       "value": "\"circleFillCheckLightOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5868,
+      "offset": 5838,
       "length": 20,
       "value": "\"circleFillCheckOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6032,
+      "offset": 6002,
       "length": 19,
       "value": "\"circleFillCheckOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6193,
+      "offset": 6163,
       "length": 18,
       "value": "\"circleRightArrow\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6331,
+      "offset": 6301,
       "length": 7,
       "value": "\"close\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6468,
+      "offset": 6438,
       "length": 12,
       "value": "\"closeWhite\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6640,
+      "offset": 6610,
       "length": 27,
       "value": "\"commonIconCheckCheckGuide\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6835,
+      "offset": 6805,
       "length": 31,
       "value": "\"commonIconCheckCheckGuideGray\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7012,
+      "offset": 6982,
       "length": 20,
       "value": "\"commonIconFillBang\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7188,
+      "offset": 7158,
       "length": 25,
       "value": "\"commonIconFillVideoPlay\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7369,
+      "offset": 7339,
       "length": 25,
       "value": "\"commonLogoKakaoLogoType\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7556,
+      "offset": 7526,
       "length": 28,
       "value": "\"commonSubHeaderHeaderClose\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7736,
+      "offset": 7706,
       "length": 23,
       "value": "\"commonToggleToggleOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7909,
+      "offset": 7879,
       "length": 22,
       "value": "\"commonToggleToggleOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8071,
+      "offset": 8041,
       "length": 17,
       "value": "\"emoji40HandHere\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8230,
+      "offset": 8200,
       "length": 18,
       "value": "\"illustLoadingCat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8390,
+      "offset": 8360,
       "length": 18,
       "value": "\"illustLoadingDog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8592,
+      "offset": 8562,
       "length": 39,
       "value": "\"layerpopupTextButtonTypeEmojiEyeSweat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8771,
+      "offset": 8741,
       "length": 17,
       "value": "\"lenseVideoLense\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8924,
+      "offset": 8894,
       "length": 15,
       "value": "\"moreArrowGray\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9062,
+      "offset": 9032,
       "length": 9,
       "value": "\"noise_0\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9194,
+      "offset": 9164,
       "length": 9,
       "value": "\"noise_1\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9326,
+      "offset": 9296,
       "length": 9,
       "value": "\"noise_2\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9458,
+      "offset": 9428,
       "length": 9,
       "value": "\"noise_3\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9590,
+      "offset": 9560,
       "length": 9,
       "value": "\"noise_4\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9722,
+      "offset": 9692,
       "length": 9,
       "value": "\"noise_5\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9854,
+      "offset": 9824,
       "length": 9,
       "value": "\"noise_6\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9986,
+      "offset": 9956,
       "length": 9,
       "value": "\"noise_7\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10118,
+      "offset": 10088,
       "length": 9,
       "value": "\"noise_8\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10250,
+      "offset": 10220,
       "length": 9,
       "value": "\"noise_9\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10420,
+      "offset": 10390,
       "length": 28,
       "value": "\"partGuideToothLeftWell_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10609,
+      "offset": 10579,
       "length": 28,
       "value": "\"partGuideToothLeftWell_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10800,
+      "offset": 10770,
       "length": 29,
       "value": "\"partGuideToothLeftWrong_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10992,
+      "offset": 10962,
       "length": 29,
       "value": "\"partGuideToothLeftWrong_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11184,
+      "offset": 11154,
       "length": 29,
       "value": "\"partGuideToothRightWell_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11376,
+      "offset": 11346,
       "length": 29,
       "value": "\"partGuideToothRightWell_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11570,
+      "offset": 11540,
       "length": 30,
       "value": "\"partGuideToothRightWrong_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11765,
+      "offset": 11735,
       "length": 30,
       "value": "\"partGuideToothRightWrong_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11933,
+      "offset": 11903,
       "length": 16,
       "value": "\"partSelectOpen\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12092,
+      "offset": 12062,
       "length": 19,
       "value": "\"partSelectOpen_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12254,
+      "offset": 12224,
       "length": 19,
       "value": "\"partSelectOpen_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12423,
+      "offset": 12393,
       "length": 22,
       "value": "\"reportRetryPartBelly\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12591,
+      "offset": 12561,
       "length": 20,
       "value": "\"reportRetryPartEar\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12757,
+      "offset": 12727,
       "length": 20,
       "value": "\"reportRetryPartEtc\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12931,
+      "offset": 12901,
       "length": 24,
       "value": "\"reportRetryPartEyeLCat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13109,
+      "offset": 13079,
       "length": 24,
       "value": "\"reportRetryPartEyeLDog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13287,
+      "offset": 13257,
       "length": 24,
       "value": "\"reportRetryPartEyeRCat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13465,
+      "offset": 13435,
       "length": 24,
       "value": "\"reportRetryPartEyeRDog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13639,
+      "offset": 13609,
       "length": 22,
       "value": "\"reportRetryPartFoot1\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13811,
+      "offset": 13781,
       "length": 22,
       "value": "\"reportRetryPartFoot2\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 13991,
+      "offset": 13961,
       "length": 26,
       "value": "\"reportRetryPartToothCCat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14175,
+      "offset": 14145,
       "length": 26,
       "value": "\"reportRetryPartToothCDog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14359,
+      "offset": 14329,
       "length": 26,
       "value": "\"reportRetryPartToothLCat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14543,
+      "offset": 14513,
       "length": 26,
       "value": "\"reportRetryPartToothLDog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14727,
+      "offset": 14697,
       "length": 26,
       "value": "\"reportRetryPartToothRCat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 14911,
+      "offset": 14881,
       "length": 26,
       "value": "\"reportRetryPartToothRDog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15079,
+      "offset": 15049,
       "length": 18,
       "value": "\"reportVetTipIcon\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15231,
+      "offset": 15201,
       "length": 14,
       "value": "\"rotateDevice\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15405,
+      "offset": 15375,
       "length": 27,
       "value": "\"samsungFireCheckButtonOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15590,
+      "offset": 15560,
       "length": 26,
       "value": "\"samsungFireCheckButtonOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15770,
+      "offset": 15740,
       "length": 24,
       "value": "\"samsungFirePartBodyOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 15946,
+      "offset": 15916,
       "length": 23,
       "value": "\"samsungFirePartBodyOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16129,
+      "offset": 16099,
       "length": 27,
       "value": "\"samsungFirePartBodySelect\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16308,
+      "offset": 16278,
       "length": 23,
       "value": "\"samsungFirePartEarOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16481,
+      "offset": 16451,
       "length": 22,
       "value": "\"samsungFirePartEarOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16661,
+      "offset": 16631,
       "length": 26,
       "value": "\"samsungFirePartEarSelect\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 16839,
+      "offset": 16809,
       "length": 23,
       "value": "\"samsungFirePartEtcOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17012,
+      "offset": 16982,
       "length": 22,
       "value": "\"samsungFirePartEtcOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17192,
+      "offset": 17162,
       "length": 26,
       "value": "\"samsungFirePartEtcSelect\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17376,
+      "offset": 17346,
       "length": 26,
       "value": "\"samsungFirePartEyeSelect\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17556,
+      "offset": 17526,
       "length": 24,
       "value": "\"samsungFirePartFootOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17732,
+      "offset": 17702,
       "length": 23,
       "value": "\"samsungFirePartFootOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 17915,
+      "offset": 17885,
       "length": 27,
       "value": "\"samsungFirePartFootSelect\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18098,
+      "offset": 18068,
       "length": 25,
       "value": "\"samsungFirePartFrontOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18277,
+      "offset": 18247,
       "length": 24,
       "value": "\"samsungFirePartFrontOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18463,
+      "offset": 18433,
       "length": 28,
       "value": "\"samsungFirePartFrontSelect\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18645,
+      "offset": 18615,
       "length": 24,
       "value": "\"samsungFirePartLeftOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 18821,
+      "offset": 18791,
       "length": 23,
       "value": "\"samsungFirePartLeftOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19004,
+      "offset": 18974,
       "length": 27,
       "value": "\"samsungFirePartLeftSelect\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19187,
+      "offset": 19157,
       "length": 25,
       "value": "\"samsungFirePartRightOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19366,
+      "offset": 19336,
       "length": 24,
       "value": "\"samsungFirePartRightOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19552,
+      "offset": 19522,
       "length": 28,
       "value": "\"samsungFirePartRightSelect\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19750,
+      "offset": 19720,
       "length": 32,
       "value": "\"samsungFireTutorialShootButton\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 19950,
+      "offset": 19920,
       "length": 31,
       "value": "\"samsungFireUploaderGovernLogo\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20111,
+      "offset": 20081,
       "length": 12,
       "value": "\"shootGuide\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20261,
+      "offset": 20231,
       "length": 16,
       "value": "\"shootGuideDark\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20433,
+      "offset": 20403,
       "length": 25,
       "value": "\"shootGuideSkinHardStep1\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20614,
+      "offset": 20584,
       "length": 25,
       "value": "\"shootGuideSkinHardStep2\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20795,
+      "offset": 20765,
       "length": 25,
       "value": "\"shootGuideSkinHardStep3\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 20976,
+      "offset": 20946,
       "length": 25,
       "value": "\"shootGuideSkinHardStep4\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21157,
+      "offset": 21127,
       "length": 25,
       "value": "\"shootGuideSkinHardStep5\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21338,
+      "offset": 21308,
       "length": 25,
       "value": "\"shootGuideSkinHardStep6\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21507,
+      "offset": 21477,
       "length": 19,
       "value": "\"ttcarePartBodyOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21675,
+      "offset": 21645,
       "length": 22,
       "value": "\"ttcarePartBodyOff_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 21846,
+      "offset": 21816,
       "length": 22,
       "value": "\"ttcarePartBodyOff_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22010,
+      "offset": 21980,
       "length": 18,
       "value": "\"ttcarePartBodyOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22175,
+      "offset": 22145,
       "length": 21,
       "value": "\"ttcarePartBodyOn_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22343,
+      "offset": 22313,
       "length": 21,
       "value": "\"ttcarePartBodyOn_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22521,
+      "offset": 22491,
       "length": 26,
       "value": "\"ttcarePartBodySelect_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22689,
+      "offset": 22659,
       "length": 18,
       "value": "\"ttcarePartEarOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 22854,
+      "offset": 22824,
       "length": 21,
       "value": "\"ttcarePartEarOff_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23022,
+      "offset": 22992,
       "length": 21,
       "value": "\"ttcarePartEarOff_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23183,
+      "offset": 23153,
       "length": 17,
       "value": "\"ttcarePartEarOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23345,
+      "offset": 23315,
       "length": 20,
       "value": "\"ttcarePartEarOn_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23510,
+      "offset": 23480,
       "length": 20,
       "value": "\"ttcarePartEarOn_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23685,
+      "offset": 23655,
       "length": 25,
       "value": "\"ttcarePartEarSelect_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 23852,
+      "offset": 23822,
       "length": 18,
       "value": "\"ttcarePartEtcOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24017,
+      "offset": 23987,
       "length": 21,
       "value": "\"ttcarePartEtcOff_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24185,
+      "offset": 24155,
       "length": 21,
       "value": "\"ttcarePartEtcOff_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24346,
+      "offset": 24316,
       "length": 17,
       "value": "\"ttcarePartEtcOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24508,
+      "offset": 24478,
       "length": 20,
       "value": "\"ttcarePartEtcOn_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24673,
+      "offset": 24643,
       "length": 20,
       "value": "\"ttcarePartEtcOn_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 24848,
+      "offset": 24818,
       "length": 25,
       "value": "\"ttcarePartEtcSelect_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25023,
+      "offset": 24993,
       "length": 22,
       "value": "\"ttcarePartEyeLeftOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25200,
+      "offset": 25170,
       "length": 25,
       "value": "\"ttcarePartEyeLeftOff_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25380,
+      "offset": 25350,
       "length": 25,
       "value": "\"ttcarePartEyeLeftOff_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25553,
+      "offset": 25523,
       "length": 21,
       "value": "\"ttcarePartEyeLeftOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25727,
+      "offset": 25697,
       "length": 24,
       "value": "\"ttcarePartEyeLeftOn_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 25904,
+      "offset": 25874,
       "length": 24,
       "value": "\"ttcarePartEyeLeftOn_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26091,
+      "offset": 26061,
       "length": 29,
       "value": "\"ttcarePartEyeLeftSelect_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26283,
+      "offset": 26253,
       "length": 29,
       "value": "\"ttcarePartEyeLeftSelect_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26464,
+      "offset": 26434,
       "length": 23,
       "value": "\"ttcarePartEyeRightOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26644,
+      "offset": 26614,
       "length": 26,
       "value": "\"ttcarePartEyeRightOff_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 26827,
+      "offset": 26797,
       "length": 26,
       "value": "\"ttcarePartEyeRightOff_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27003,
+      "offset": 26973,
       "length": 22,
       "value": "\"ttcarePartEyeRightOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27180,
+      "offset": 27150,
       "length": 25,
       "value": "\"ttcarePartEyeRightOn_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27360,
+      "offset": 27330,
       "length": 25,
       "value": "\"ttcarePartEyeRightOn_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27550,
+      "offset": 27520,
       "length": 30,
       "value": "\"ttcarePartEyeRightSelect_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27745,
+      "offset": 27715,
       "length": 30,
       "value": "\"ttcarePartEyeRightSelect_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 27919,
+      "offset": 27889,
       "length": 19,
       "value": "\"ttcarePartFootOff\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28087,
+      "offset": 28057,
       "length": 22,
       "value": "\"ttcarePartFootOff_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28258,
+      "offset": 28228,
       "length": 22,
       "value": "\"ttcarePartFootOff_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28422,
+      "offset": 28392,
       "length": 18,
       "value": "\"ttcarePartFootOn\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28587,
+      "offset": 28557,
       "length": 21,
       "value": "\"ttcarePartFootOn_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28755,
+      "offset": 28725,
       "length": 21,
       "value": "\"ttcarePartFootOn_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 28933,
+      "offset": 28903,
       "length": 26,
       "value": "\"ttcarePartFootSelect_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29113,
+      "offset": 29083,
       "length": 24,
       "value": "\"ttcarePartSelectBubble\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29296,
+      "offset": 29266,
       "length": 27,
       "value": "\"ttcarePartSelectBubble_en\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29482,
+      "offset": 29452,
       "length": 27,
       "value": "\"ttcarePartSelectBubble_ja\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29680,
+      "offset": 29650,
       "length": 33,
       "value": "\"ttcarePartToothCenterSelect_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 29884,
+      "offset": 29854,
       "length": 33,
       "value": "\"ttcarePartToothCenterSelect_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30084,
+      "offset": 30054,
       "length": 31,
       "value": "\"ttcarePartToothLeftSelect_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30282,
+      "offset": 30252,
       "length": 31,
       "value": "\"ttcarePartToothLeftSelect_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30482,
+      "offset": 30452,
       "length": 32,
       "value": "\"ttcarePartToothRightSelect_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30683,
+      "offset": 30653,
       "length": 32,
       "value": "\"ttcarePartToothRightSelect_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 30897,
+      "offset": 30867,
       "length": 39,
       "value": "\"ttcareTutorialEyePhotoModify_left_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31118,
+      "offset": 31088,
       "length": 39,
       "value": "\"ttcareTutorialEyePhotoModify_left_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31341,
+      "offset": 31311,
       "length": 40,
       "value": "\"ttcareTutorialEyePhotoModify_right_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31565,
+      "offset": 31535,
       "length": 40,
       "value": "\"ttcareTutorialEyePhotoModify_right_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31778,
+      "offset": 31748,
       "length": 34,
       "value": "\"ttcareTutorialToothAutoShoot_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 31985,
+      "offset": 31955,
       "length": 34,
       "value": "\"ttcareTutorialToothAutoShoot_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32177,
+      "offset": 32147,
       "length": 26,
       "value": "\"ttcareUploaderGovernLogo\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32352,
+      "offset": 32322,
       "length": 22,
       "value": "\"tutorialEyeStep2_cat\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32523,
+      "offset": 32493,
       "length": 22,
       "value": "\"tutorialEyeStep2_dog\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32693,
+      "offset": 32663,
       "length": 21,
       "value": "\"tutorialFlashButton\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 32864,
+      "offset": 32834,
       "length": 22,
       "value": "\"tutorialSelfieButton\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33037,
+      "offset": 33007,
       "length": 23,
       "value": "\"tutorialSkinStep2_ear\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33211,
+      "offset": 33181,
       "length": 23,
       "value": "\"tutorialSkinStep4_ear\""
     },
     {
       "filePath": "\/Users\/kjaylee\/Library\/Developer\/Xcode\/DerivedData\/Aiforpet-eokcvmgovevobacftywqsaeyvvbe\/Build\/Intermediates.noindex\/ArchiveIntermediates\/TTSDK\/IntermediateBuildFilesPath\/TTSDK.build\/Release-iphoneos\/TTSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 33388,
+      "offset": 33358,
       "length": 24,
       "value": "\"vetConsultAskToVetIcon\""
     }

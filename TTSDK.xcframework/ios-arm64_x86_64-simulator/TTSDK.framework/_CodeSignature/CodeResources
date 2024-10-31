@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		3b4xj9QXgRdcNu7VoNU4ufc6AuI=
+		AzHt3yq9st2YXWVg60QOfuSsy/g=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
 		<data>
-		pRR2BQ3CWop/KF8CVv3qDdSWIhA=
+		V+fGV3eit/j9w4dDC2YOw/ssFKQ=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Ngf-Av-2C3-view-iJE-vg-AWU.nib</key>
 		<data>
-		4OCyoEXp/kt5P7WbAwg/Vu1Bxf4=
+		L4XJWhkn+HIAiQKniCs2u85cpSw=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib</key>
 		<data>
-		WNjdkaOJFSqRx9HmnWjpbsBalNk=
+		lpm4M8orCwQCUHz7Kbv1cn0hTMk=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/mtJ-BR-ubf-view-Afy-t4-btN.nib</key>
 		<data>
-		p6UbBwRdV6149GI//pP+QfRonqU=
+		y18lP10NPpdchk2i1dBvszLolQg=
 		</data>
 		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib</key>
 		<data>
@@ -530,7 +530,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		BHWf456UpIIMOSrWtAgeH6zhdDE=
+		ZibPQZiMw0qV7ajN7NlEpNuoARY=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -546,11 +546,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IyjOso+gcXTO2sjr5fGmVWgbFFc=
+		ud1vaaOlAxgy31V6sOn9P5n86l0=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		BHWf456UpIIMOSrWtAgeH6zhdDE=
+		ZibPQZiMw0qV7ajN7NlEpNuoARY=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -566,7 +566,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ldSNWzmjZ+zFR9j5EYHfmOyW1fM=
+		QD2EKhWk4iVIclVJy5Qt2rYCf9I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -682,14 +682,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zsQ7NAaoGl4W0am3sh2xAj4YDDQF/q6RoYezC6AK0cA=
+			x+e4Gf+gn61EWVe5Vyrxa8b3HoS2dSWh3pKSWvG5RGg=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eIf26/Q7LUzmsW/KdrQEvz9DyOdx/4eXBRtVH32fBM4=
+			Efhs1XSVtp51AejzBmjU/xhoEtNwyZsonNu0nsCV15o=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Info.plist</key>
@@ -703,14 +703,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VfsaFUvy3kknD9OW5NokjbeFcOEz3s7rNyRrTSxHvFQ=
+			Q2xdPsiQXR4/KZMIuPL2ArOwNwEUmjIKYIEgArvks+c=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t5aONgDfUiZkbg5hrS5U0ewrgzuwU4VP4NVd6vgIUjI=
+			LOPzgDC9Ji1kqRsqPEl/2QYkfO9c+7dcNrUnJZHJyTY=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib</key>
@@ -829,7 +829,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TG2VdI2ukFM9tI4ng3mbZ0+alfIzwiOCUMG1YjZxb/I=
+			5nN/atxlU4VxdT117pwly0qh1tVqIlXjcxUzdNian1A=
 			</data>
 		</dict>
 		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib</key>
@@ -1592,7 +1592,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			spA8n5HKOLA+AGnQhj499TH1cmVSyS9Ay6wkm2Y3vCA=
+			o5mAgdlHVaHwyjoEQINCBYkIZ6SkY898Eau+6yt7/Ks=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1620,14 +1620,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/9HvWDzA8mH5W9lI5sizclNHg0rYq7gRhRta/HvQGO8=
+			+Ve/jHeord7wlb7XxCHjEAZyjVI2j7RtxsfSgTLSgYg=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			spA8n5HKOLA+AGnQhj499TH1cmVSyS9Ay6wkm2Y3vCA=
+			o5mAgdlHVaHwyjoEQINCBYkIZ6SkY898Eau+6yt7/Ks=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1655,7 +1655,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2sZkCnkTK++wz0OD7eo+fE075MunaJ4lvZfId7EpL0I=
+			f5IZNmi9XWVqw3iX4QHKOeY4KhPGmXE9E7nMGWUPbmI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
