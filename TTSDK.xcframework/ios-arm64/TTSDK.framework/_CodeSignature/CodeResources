@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		AzHt3yq9st2YXWVg60QOfuSsy/g=
+		3b4xj9QXgRdcNu7VoNU4ufc6AuI=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
 		<data>
-		V+fGV3eit/j9w4dDC2YOw/ssFKQ=
+		pRR2BQ3CWop/KF8CVv3qDdSWIhA=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Info.plist</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Ngf-Av-2C3-view-iJE-vg-AWU.nib</key>
 		<data>
-		L4XJWhkn+HIAiQKniCs2u85cpSw=
+		4OCyoEXp/kt5P7WbAwg/Vu1Bxf4=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib</key>
 		<data>
-		lpm4M8orCwQCUHz7Kbv1cn0hTMk=
+		WNjdkaOJFSqRx9HmnWjpbsBalNk=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/mtJ-BR-ubf-view-Afy-t4-btN.nib</key>
 		<data>
-		y18lP10NPpdchk2i1dBvszLolQg=
+		p6UbBwRdV6149GI//pP+QfRonqU=
 		</data>
 		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib</key>
 		<data>
@@ -530,7 +530,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		YqK9MMoiLGRmA2Q5ASJPyBZkOwA=
+		R+A0cKJyEFWDcePN6n2OLg7xkNo=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -546,7 +546,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		GhkhvkeExiO+3qWDZ6yNqve64G0=
+		YS4+AUGgB1PaVK3DCzgyijzNHfQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -662,14 +662,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			x+e4Gf+gn61EWVe5Vyrxa8b3HoS2dSWh3pKSWvG5RGg=
+			zsQ7NAaoGl4W0am3sh2xAj4YDDQF/q6RoYezC6AK0cA=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Efhs1XSVtp51AejzBmjU/xhoEtNwyZsonNu0nsCV15o=
+			eIf26/Q7LUzmsW/KdrQEvz9DyOdx/4eXBRtVH32fBM4=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Info.plist</key>
@@ -683,14 +683,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q2xdPsiQXR4/KZMIuPL2ArOwNwEUmjIKYIEgArvks+c=
+			VfsaFUvy3kknD9OW5NokjbeFcOEz3s7rNyRrTSxHvFQ=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LOPzgDC9Ji1kqRsqPEl/2QYkfO9c+7dcNrUnJZHJyTY=
+			t5aONgDfUiZkbg5hrS5U0ewrgzuwU4VP4NVd6vgIUjI=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib</key>
@@ -809,7 +809,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5nN/atxlU4VxdT117pwly0qh1tVqIlXjcxUzdNian1A=
+			TG2VdI2ukFM9tI4ng3mbZ0+alfIzwiOCUMG1YjZxb/I=
 			</data>
 		</dict>
 		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib</key>
@@ -1572,7 +1572,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dZoV6/miwZju1uUOl1O1m2eLIpqEOwYRdl9WsJeHcMo=
+			mTgVnhJjyHz36r8hfM7XewPqlbwC9M8rcwPcqFlFkLA=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1600,7 +1600,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y+jEre/gkj1JBHdcha+alYroG3UI4VxXvHBJyUoHO3M=
+			wSm5a3qJl9veKKaT0Kkb0sW6j+Ekg1a4RmoD73vIj/w=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
