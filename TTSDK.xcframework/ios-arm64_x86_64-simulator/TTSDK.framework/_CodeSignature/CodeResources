@@ -526,7 +526,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		yhYzCtE+xdwTjMY9pUxyYTf4tzk=
+		YQQvXNEElftAp0hcJyjTDHsLP9c=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -670,7 +670,43 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yJMT8Js25VIbfXF/UW31g7vcMhE=
+			KjXDUHRIfHnN+bD6HVo5iHqVW48=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/TTCamera.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JbOZhsyeqjirCpoo2ZpemLgtrek=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/TTEtc.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cqSlIcPfaEARduFvrpJmzxR8Cf4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/TTGuide.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z8h7uiZBVbnTzoK6UTUaFglsa2Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/TTPopup.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BlMWCiGut5KBjrQ2lomsozgpvU4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1766,7 +1802,43 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8jpToV24fEni1NtkAdeQuwDiv/FosgrvpKAzpdIHW+w=
+			Wfx2/jJ1X4nrx4znEy9BQRSP8o/Aaq2PDcPY7CGLgkQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/TTCamera.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U7jMCVaCPZShCFWD6mobAnyqt0FdiO7pI4L8D5Glow8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/TTEtc.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NkPQExbtxdDxPy6ZrCeOLJuC3sr/5DVD0VwEpIfNVSw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/TTGuide.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8nmncEWkat0Jadl/IrLvhcPX9oz4mF6LBY5cTiwlzv8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/TTPopup.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4d/SgtZSOlCAoIdZZ0Nkbc7ELH22Wl9B1kedPR+hhrQ=
 			</data>
 			<key>optional</key>
 			<true/>
