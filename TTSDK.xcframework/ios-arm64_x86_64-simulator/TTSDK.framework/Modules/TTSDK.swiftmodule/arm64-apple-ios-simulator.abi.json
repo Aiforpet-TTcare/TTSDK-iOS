@@ -11621,77 +11621,77 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "Array",
-      "offset": 4817,
+      "offset": 5036,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4867,
+      "offset": 5086,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 4977,
+      "offset": 5196,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5023,
+      "offset": 5242,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "StringLiteral",
-      "offset": 5510,
+      "offset": 5729,
       "length": 13,
       "value": "\"cameraQueue\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 5905,
+      "offset": 6124,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 5995,
+      "offset": 6214,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 6086,
+      "offset": 6305,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 6128,
+      "offset": 6347,
       "length": 4,
       "value": "0.01"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 6183,
+      "offset": 6402,
       "length": 3,
       "value": "0.1"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 6233,
+      "offset": 6452,
       "length": 3,
       "value": "0.1"
     },
