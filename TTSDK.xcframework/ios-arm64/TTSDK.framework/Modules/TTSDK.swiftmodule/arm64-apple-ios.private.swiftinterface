@@ -25,6 +25,7 @@ import WebKit
 import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
+import simd
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class TTProgressViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @objc deinit
@@ -134,7 +135,7 @@ extension TTSDK.TTManager {
   public static func close()
   public static func eye(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   public static func tooth(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, isAuto: Swift.Bool = false, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, isMeasurableDistance: Swift.Bool = false, isCameraDistance: Swift.Bool = false, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   public static func joint(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   public static func guideViewController(petType: TTSDK.TTPetType, cameraType: TTSDK.TTCameraType) -> UIKit.UIViewController
   public static func guideViewController(cameraType: TTSDK.TTCameraType, guideUrl: Foundation.URL?) -> UIKit.UIViewController
