@@ -120,6 +120,7 @@ public enum TTCameraType : Swift.CaseIterable {
   public static var refreshToken: Swift.String? {
     get
   }
+  public static var showGovCertMark: Swift.Bool
   public static func configure(authFileData: Foundation.Data)
   public static func setAPNS(token: Swift.String?)
   public static func configure(license: TTSDK.TTLicense)
@@ -133,13 +134,13 @@ public enum TTCameraType : Swift.CaseIterable {
 extension TTSDK.TTManager {
   public static func setLog(isOn: Swift.Bool = true)
   public static func close()
-  public static func eye(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func tooth(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, isMeasurableDistance: Swift.Bool = false, isCameraDistance: Swift.Bool = false, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
-  public static func joint(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func eye(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, showGovCertMark: Swift.Bool? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func tooth(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, showGovCertMark: Swift.Bool? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func skin(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, showGovCertMark: Swift.Bool? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, isMeasurableDistance: Swift.Bool = false, isCameraDistance: Swift.Bool = false, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func joint(petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, guideUrl: Swift.String? = nil, showGovCertMark: Swift.Bool? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   public static func guideViewController(petType: TTSDK.TTPetType, cameraType: TTSDK.TTCameraType) -> UIKit.UIViewController
   public static func guideViewController(cameraType: TTSDK.TTCameraType, guideUrl: Foundation.URL?) -> UIKit.UIViewController
-  public static func showGuideFirst(cameraType: TTSDK.TTCameraType, petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, isAuto: Swift.Bool = false, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
+  public static func showGuideFirst(cameraType: TTSDK.TTCameraType, petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, showGovCertMark: Swift.Bool? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, isMeasurableDistance: Swift.Bool = false, isCameraDistance: Swift.Bool = false, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   public static func clearUserDefaults()
 }
 public enum TTPetType : Swift.String, Swift.Hashable, Swift.Codable, Swift.CaseIterable {
@@ -204,11 +205,14 @@ public struct TTPosition : Swift.Codable {
   public init(from decoder: any Swift.Decoder) throws
 }
 public struct TTLicense : Swift.Codable {
-  public init(serviceRegion: Swift.String? = nil, serviceHost: Swift.String? = nil, clientID: Swift.String? = nil, clientKeyID: Swift.String? = nil, clientKeySecret: Swift.String? = nil, clientKey: Swift.String? = nil, accessToken: Swift.String? = nil)
+  public init(serviceRegion: Swift.String? = nil, serviceHost: Swift.String? = nil, clientID: Swift.String? = nil, clientKeyID: Swift.String? = nil, clientKeySecret: Swift.String? = nil, clientKey: Swift.String? = nil, accessToken: Swift.String? = nil, accountId: Swift.String? = nil, fcmToken: Swift.String? = nil, showGovCertMark: Swift.Bool? = nil)
   public var serviceRegion: Swift.String?
   public var serviceHost: Swift.String?
   public var clientID: Swift.String?, clientKeyID: Swift.String?, clientKeySecret: Swift.String?, clientKey: Swift.String?
   public var accessToken: Swift.String?
+  public var accountID: Swift.String?
+  public var fcmToken: Swift.String?
+  public var showGovCertMark: Swift.Bool?
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
