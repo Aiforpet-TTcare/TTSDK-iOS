@@ -98,6 +98,7 @@ public enum TTCameraType : Swift.CaseIterable {
   case tooth
   case skin
   case joint
+  public static var identifier: Swift.String
   public static func == (a: TTSDK.TTCameraType, b: TTSDK.TTCameraType) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public typealias AllCases = [TTSDK.TTCameraType]
