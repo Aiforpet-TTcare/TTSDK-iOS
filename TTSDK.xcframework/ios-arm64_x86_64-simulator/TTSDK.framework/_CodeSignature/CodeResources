@@ -530,7 +530,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		53QS1STh+9zRLeOhaaI2a5eZjqQ=
+		HxTWpzTcjK88JpBI+p3IXfmOktc=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -550,7 +550,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		53QS1STh+9zRLeOhaaI2a5eZjqQ=
+		HxTWpzTcjK88JpBI+p3IXfmOktc=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -1628,7 +1628,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z0ip9No/ZSUJD/6taeJPNVPE9ynjNjVykBbtkD7OccE=
+			ADNOH1gKRPxVvv9aWflgwekO5Lq8nQbWL4/NR2O0Otk=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -1663,7 +1663,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z0ip9No/ZSUJD/6taeJPNVPE9ynjNjVykBbtkD7OccE=
+			ADNOH1gKRPxVvv9aWflgwekO5Lq8nQbWL4/NR2O0Otk=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
