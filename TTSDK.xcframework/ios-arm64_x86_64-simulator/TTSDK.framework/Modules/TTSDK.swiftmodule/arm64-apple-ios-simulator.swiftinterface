@@ -14,6 +14,7 @@ import CoreMotion
 import CoreVideo
 import DeveloperToolsSupport
 import Foundation
+import Photos
 import SceneKit
 import Swift
 import SwiftUI
@@ -113,6 +114,7 @@ public enum TTCameraType : Swift.CaseIterable {
   public static var isHiddenSkeleton: Swift.Bool
   public static var isHapticEnabled: Swift.Bool
   public static var isAnimationEnabled: Swift.Bool
+  public static var albumName: Swift.String?
   public static var hostURL: Foundation.URL?
   public static var license: TTSDK.TTLicense?
   public static var accessToken: Swift.String? {
