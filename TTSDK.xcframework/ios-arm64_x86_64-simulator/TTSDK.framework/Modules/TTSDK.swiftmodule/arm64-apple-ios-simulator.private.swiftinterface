@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
 // swift-module-flags: -target arm64-apple-ios12.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name TTSDK
 import ARKit
 import AVFoundation
@@ -27,40 +27,40 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 import simd
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class TTProgressViewController : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency public class TTProgressViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidLoad()
   @objc deinit
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
 }
-@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class TTGuideViewController : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
+@objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor @preconcurrency public class TTGuideViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
     @objc get
   }
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public var preferredInterfaceOrientationForPresentation: UIKit.UIInterfaceOrientation {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public var preferredInterfaceOrientationForPresentation: UIKit.UIInterfaceOrientation {
     @objc get
   }
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public var shouldAutorotate: Swift.Bool {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public var shouldAutorotate: Swift.Bool {
     @objc get
   }
   @objc deinit
 }
 extension TTSDK.TTGuideViewController : UIKit.UICollectionViewDelegate, UIKit.UICollectionViewDataSource, UIKit.UICollectionViewDelegateFlowLayout {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, cellForItemAt indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewCell
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, sizeForItemAt indexPath: Foundation.IndexPath) -> CoreFoundation.CGSize
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func scrollViewDidScroll(_ scrollView: UIKit.UIScrollView)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, cellForItemAt indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewCell
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, sizeForItemAt indexPath: Foundation.IndexPath) -> CoreFoundation.CGSize
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func scrollViewDidScroll(_ scrollView: UIKit.UIScrollView)
 }
 extension TTSDK.TTGuideViewController {
-  @_Concurrency.MainActor(unsafe) public static func instanceForDogEye() -> TTSDK.TTGuideViewController
-  @_Concurrency.MainActor(unsafe) public static func instanceForDogTooth() -> TTSDK.TTGuideViewController
-  @_Concurrency.MainActor(unsafe) public static func instanceForSkin() -> TTSDK.TTGuideViewController
-  @_Concurrency.MainActor(unsafe) public static func instanceForJoint() -> TTSDK.TTGuideViewController
-  @_Concurrency.MainActor(unsafe) public static func instanceForCatEye() -> TTSDK.TTGuideViewController
-  @_Concurrency.MainActor(unsafe) public static func instanceForCatTooth() -> TTSDK.TTGuideViewController
-  @_Concurrency.MainActor(unsafe) public static func instance(petType: TTSDK.TTPetType, cameraType: TTSDK.TTCameraType) -> TTSDK.TTGuideViewController
+  @_Concurrency.MainActor @preconcurrency public static func instanceForDogEye() -> TTSDK.TTGuideViewController
+  @_Concurrency.MainActor @preconcurrency public static func instanceForDogTooth() -> TTSDK.TTGuideViewController
+  @_Concurrency.MainActor @preconcurrency public static func instanceForSkin() -> TTSDK.TTGuideViewController
+  @_Concurrency.MainActor @preconcurrency public static func instanceForJoint() -> TTSDK.TTGuideViewController
+  @_Concurrency.MainActor @preconcurrency public static func instanceForCatEye() -> TTSDK.TTGuideViewController
+  @_Concurrency.MainActor @preconcurrency public static func instanceForCatTooth() -> TTSDK.TTGuideViewController
+  @_Concurrency.MainActor @preconcurrency public static func instance(petType: TTSDK.TTPetType, cameraType: TTSDK.TTCameraType) -> TTSDK.TTGuideViewController
 }
 extension TTSDK.TTGuideViewController : WebKit.WKUIDelegate, WebKit.WKNavigationDelegate {
 }
@@ -103,7 +103,7 @@ public enum TTCameraType : Swift.CaseIterable {
   public static func == (a: TTSDK.TTCameraType, b: TTSDK.TTCameraType) -> Swift.Bool
   public func hash(into hasher: inout Swift.Hasher)
   public typealias AllCases = [TTSDK.TTCameraType]
-  public static var allCases: [TTSDK.TTCameraType] {
+  nonisolated public static var allCases: [TTSDK.TTCameraType] {
     get
   }
   public var hashValue: Swift.Int {
@@ -155,7 +155,7 @@ public enum TTPetType : Swift.String, Swift.Hashable, Swift.Codable, Swift.CaseI
   public init?(rawValue: Swift.String)
   public typealias AllCases = [TTSDK.TTPetType]
   public typealias RawValue = Swift.String
-  public static var allCases: [TTSDK.TTPetType] {
+  nonisolated public static var allCases: [TTSDK.TTPetType] {
     get
   }
   public var rawValue: Swift.String {
@@ -195,16 +195,16 @@ public enum TTPositionCode : Swift.String, Swift.Codable {
     get
   }
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class TTGalleryViewController : UIKit.UIViewController, UIKit.UIScrollViewDelegate, UIKit.UICollectionViewDelegate, UIKit.UICollectionViewDataSource, UIKit.UICollectionViewDelegateFlowLayout {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency public class TTGalleryViewController : UIKit.UIViewController, UIKit.UIScrollViewDelegate, UIKit.UICollectionViewDelegate, UIKit.UICollectionViewDataSource, UIKit.UICollectionViewDelegateFlowLayout {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidLoad()
   @objc deinit
-  @_Concurrency.MainActor(unsafe) @objc public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
-  @_Concurrency.MainActor(unsafe) @objc public func collectionView(_ collectionView: UIKit.UICollectionView, cellForItemAt indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewCell
-  @_Concurrency.MainActor(unsafe) @objc public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, sizeForItemAt indexPath: Foundation.IndexPath) -> CoreFoundation.CGSize
-  @_Concurrency.MainActor(unsafe) @objc public func collectionView(_ collectionView: UIKit.UICollectionView, didEndDisplaying cell: UIKit.UICollectionViewCell, forItemAt indexPath: Foundation.IndexPath)
-  @_Concurrency.MainActor(unsafe) @objc public func scrollViewDidEndDecelerating(_ scrollView: UIKit.UIScrollView)
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @_Concurrency.MainActor @preconcurrency @objc public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor @preconcurrency @objc public func collectionView(_ collectionView: UIKit.UICollectionView, cellForItemAt indexPath: Foundation.IndexPath) -> UIKit.UICollectionViewCell
+  @_Concurrency.MainActor @preconcurrency @objc public func collectionView(_ collectionView: UIKit.UICollectionView, layout collectionViewLayout: UIKit.UICollectionViewLayout, sizeForItemAt indexPath: Foundation.IndexPath) -> CoreFoundation.CGSize
+  @_Concurrency.MainActor @preconcurrency @objc public func collectionView(_ collectionView: UIKit.UICollectionView, didEndDisplaying cell: UIKit.UICollectionViewCell, forItemAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor @preconcurrency @objc public func scrollViewDidEndDecelerating(_ scrollView: UIKit.UIScrollView)
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
 }
 public protocol TTAnalysisTracker {
   func trackEvent(eventName: Swift.String, properties: [Swift.String : Swift.String])
@@ -234,57 +234,53 @@ public protocol TTResultViewCotrollable : UIKit.UIViewController {
   func close()
   func back()
 }
-@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class TTCameraGuideViewController : UIKit.UIViewController {
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency public class TTCameraGuideViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public var supportedInterfaceOrientations: UIKit.UIInterfaceOrientationMask {
     @objc get
   }
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public var preferredInterfaceOrientationForPresentation: UIKit.UIInterfaceOrientation {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public var preferredInterfaceOrientationForPresentation: UIKit.UIInterfaceOrientation {
     @objc get
   }
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public var shouldAutorotate: Swift.Bool {
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public var shouldAutorotate: Swift.Bool {
     @objc get
   }
-  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
-  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @_Concurrency.MainActor @preconcurrency @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
   @objc deinit
 }
 extension TTSDK.TTCameraGuideViewController : WebKit.WKNavigationDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didStartProvisionalNavigation navigation: WebKit.WKNavigation!)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didReceiveServerRedirectForProvisionalNavigation navigation: WebKit.WKNavigation!)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didFailProvisionalNavigation navigation: WebKit.WKNavigation!, withError error: any Swift.Error)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didCommit navigation: WebKit.WKNavigation!)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didFinish navigation: WebKit.WKNavigation!)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, didFail navigation: WebKit.WKNavigation!, withError error: any Swift.Error)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webViewWebContentProcessDidTerminate(_ webView: WebKit.WKWebView)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, didStartProvisionalNavigation navigation: WebKit.WKNavigation!)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, didReceiveServerRedirectForProvisionalNavigation navigation: WebKit.WKNavigation!)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, didFailProvisionalNavigation navigation: WebKit.WKNavigation!, withError error: any Swift.Error)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, didCommit navigation: WebKit.WKNavigation!)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, didFinish navigation: WebKit.WKNavigation!)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, didFail navigation: WebKit.WKNavigation!, withError error: any Swift.Error)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webViewWebContentProcessDidTerminate(_ webView: WebKit.WKWebView)
   @available(iOS 14.5, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, navigationAction: WebKit.WKNavigationAction, didBecome download: WebKit.WKDownload)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, navigationAction: WebKit.WKNavigationAction, didBecome download: WebKit.WKDownload)
   @available(iOS 14.5, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, navigationResponse: WebKit.WKNavigationResponse, didBecome download: WebKit.WKDownload)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, navigationResponse: WebKit.WKNavigationResponse, didBecome download: WebKit.WKDownload)
 }
 extension TTSDK.TTCameraGuideViewController : WebKit.WKUIDelegate {
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, createWebViewWith configuration: WebKit.WKWebViewConfiguration, for navigationAction: WebKit.WKNavigationAction, windowFeatures: WebKit.WKWindowFeatures) -> WebKit.WKWebView?
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webViewDidClose(_ webView: WebKit.WKWebView)
-  #if compiler(>=5.3) && $AsyncAwait
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, createWebViewWith configuration: WebKit.WKWebViewConfiguration, for navigationAction: WebKit.WKNavigationAction, windowFeatures: WebKit.WKWindowFeatures) -> WebKit.WKWebView?
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webViewDidClose(_ webView: WebKit.WKWebView)
   @available(iOS 15.0, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, decideMediaCapturePermissionsFor origin: WebKit.WKSecurityOrigin, initiatedBy frame: WebKit.WKFrameInfo, type: WebKit.WKMediaCaptureType) async -> WebKit.WKPermissionDecision
-  #endif
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, decideMediaCapturePermissionsFor origin: WebKit.WKSecurityOrigin, initiatedBy frame: WebKit.WKFrameInfo, type: WebKit.WKMediaCaptureType) async -> WebKit.WKPermissionDecision
   @available(iOS 15.0, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, requestDeviceOrientationAndMotionPermissionFor origin: WebKit.WKSecurityOrigin, initiatedByFrame frame: WebKit.WKFrameInfo, decisionHandler: @escaping (WebKit.WKPermissionDecision) -> Swift.Void)
-  #if compiler(>=5.3) && $AsyncAwait
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, requestDeviceOrientationAndMotionPermissionFor origin: WebKit.WKSecurityOrigin, initiatedByFrame frame: WebKit.WKFrameInfo, decisionHandler: @escaping (WebKit.WKPermissionDecision) -> Swift.Void)
   @available(iOS 13.0, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, contextMenuConfigurationFor elementInfo: WebKit.WKContextMenuElementInfo) async -> UIKit.UIContextMenuConfiguration?
-  #endif
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, contextMenuConfigurationFor elementInfo: WebKit.WKContextMenuElementInfo) async -> UIKit.UIContextMenuConfiguration?
   @available(iOS 13.0, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, contextMenuWillPresentForElement elementInfo: WebKit.WKContextMenuElementInfo)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, contextMenuWillPresentForElement elementInfo: WebKit.WKContextMenuElementInfo)
   @available(iOS 13.0, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, contextMenuForElement elementInfo: WebKit.WKContextMenuElementInfo, willCommitWithAnimator animator: any UIKit.UIContextMenuInteractionCommitAnimating)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, contextMenuForElement elementInfo: WebKit.WKContextMenuElementInfo, willCommitWithAnimator animator: any UIKit.UIContextMenuInteractionCommitAnimating)
   @available(iOS 13.0, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, contextMenuDidEndForElement elementInfo: WebKit.WKContextMenuElementInfo)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, contextMenuDidEndForElement elementInfo: WebKit.WKContextMenuElementInfo)
   @available(iOS 16.4, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, willPresentEditMenuWithAnimator animator: any UIKit.UIEditMenuInteractionAnimating)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, willPresentEditMenuWithAnimator animator: any UIKit.UIEditMenuInteractionAnimating)
   @available(iOS 16.4, *)
-  @_Concurrency.MainActor(unsafe) @objc dynamic public func webView(_ webView: WebKit.WKWebView, willDismissEditMenuWithAnimator animator: any UIKit.UIEditMenuInteractionAnimating)
+  @_Concurrency.MainActor @preconcurrency @objc dynamic public func webView(_ webView: WebKit.WKWebView, willDismissEditMenuWithAnimator animator: any UIKit.UIEditMenuInteractionAnimating)
 }
 public struct TTThumbnail : Swift.Codable {
   public func encode(to encoder: any Swift.Encoder) throws

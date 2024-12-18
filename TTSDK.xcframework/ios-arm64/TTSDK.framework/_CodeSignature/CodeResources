@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		3b4xj9QXgRdcNu7VoNU4ufc6AuI=
+		w1qD6FvdvkZh0HPJe2BF8noejag=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
 		<data>
@@ -526,27 +526,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		YiwxoJViAjyOz83rMbkLZWV5vzY=
+		3cTHzG5K/i2HGEv2KtPMR3EI5P4=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		czdxIU1lsUF4AlMc1R4CYrZpoEI=
+		RezrnUO9A2H2iZgnCHW7nomdrWU=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		UowLKidhtWUPiiKK0H12HLsCUog=
+		quipqwfrx8wd/W/UKpCrySiWzMA=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		o2HN09YDH3+YaQITcCINYjC+JZc=
+		1m11DATzqb96rmhbT9/U+E5aAtI=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		UowLKidhtWUPiiKK0H12HLsCUog=
+		quipqwfrx8wd/W/UKpCrySiWzMA=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		O0BLHOCjZT5A2qrqI4eWcpRIwH8=
+		3j6tFzspB1DDD2xjaasLBMzQxOM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -698,7 +698,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zsQ7NAaoGl4W0am3sh2xAj4YDDQF/q6RoYezC6AK0cA=
+			SOsCskBwNWLbHCWtEQPDhk2H3TBInY9OldG4tQLh2s4=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
@@ -1608,35 +1608,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uBPVHF/suKeuLfJQ7b/GpjjhI340DQHcyn1QRI1PmtY=
+			9VWNGnzE/wo+uNsfxOG9erfw+Nr58LWt+g5aeBba7S4=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DNYbnqmNExxMmHqiZXps5dUcue64MYJwmwe2Rq2dJXE=
+			pooDNJGG5A6UboyKTv1H3HGGiJCDIPsTdx0Y7tAKtAg=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IRINX1gVHBp2jFoC4n6xQZiqwPVH5QwkRQuNbyG+rzc=
+			MXAVKw0b22lhRT5qmJKgXOeAuTX7/Z9pBIc0L8LtL6c=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DNYbnqmNExxMmHqiZXps5dUcue64MYJwmwe2Rq2dJXE=
+			pooDNJGG5A6UboyKTv1H3HGGiJCDIPsTdx0Y7tAKtAg=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lPWb9HexN22VmXAsVdynBZxCLlT+KYJfvluwflOtGn8=
+			6ygp1y4qEKuJJYR0R/LnfHY78BYjg8cUWhFjZboXRes=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

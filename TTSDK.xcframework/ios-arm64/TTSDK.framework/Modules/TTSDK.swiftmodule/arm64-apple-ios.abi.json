@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "TTSDK",
+    "printedName": "TTSDK",
     "children": [
       {
         "kind": "Import",
@@ -164,6 +164,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -220,6 +221,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -261,6 +263,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Required"
             ],
@@ -272,6 +275,7 @@
         "mangledName": "$s5TTSDK24TTProgressViewControllerC",
         "moduleName": "TTSDK",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjC"
@@ -284,6 +288,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -411,6 +429,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -443,6 +462,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -470,6 +490,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -522,6 +543,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -574,6 +596,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -655,6 +678,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -692,6 +716,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -730,6 +755,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -774,6 +800,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -805,6 +832,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -829,6 +857,7 @@
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "Final",
               "AccessControl"
@@ -854,6 +883,7 @@
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "Final",
               "AccessControl"
@@ -879,6 +909,7 @@
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "Final",
               "AccessControl"
@@ -904,6 +935,7 @@
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "Final",
               "AccessControl"
@@ -929,6 +961,7 @@
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "Final",
               "AccessControl"
@@ -954,6 +987,7 @@
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "Final",
               "AccessControl"
@@ -991,6 +1025,7 @@
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
+              "Preconcurrency",
               "Custom",
               "Final",
               "AccessControl"
@@ -1004,6 +1039,7 @@
         "mangledName": "$s5TTSDK21TTGuideViewControllerC",
         "moduleName": "TTSDK",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjC"
@@ -1016,6 +1052,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1363,6 +1413,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -1758,6 +1822,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -1859,6 +1937,22 @@
         "sugared_genericSig": "<Self : UIKit.UIViewController>",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -2253,6 +2347,9 @@
             "moduleName": "TTSDK",
             "static": true,
             "implicit": true,
+            "declAttributes": [
+              "Nonisolated"
+            ],
             "accessors": [
               {
                 "kind": "Accessor",
@@ -2293,6 +2390,20 @@
           "AccessControl"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -5825,7 +5936,23 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       },
       {
         "kind": "Import",
@@ -6148,6 +6275,9 @@
             "moduleName": "TTSDK",
             "static": true,
             "implicit": true,
+            "declAttributes": [
+              "Nonisolated"
+            ],
             "accessors": [
               {
                 "kind": "Accessor",
@@ -6189,6 +6319,20 @@
         ],
         "enumRawTypeName": "String",
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -6532,6 +6676,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -6722,6 +6880,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -7335,6 +7507,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -7497,6 +7683,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -7534,6 +7721,7 @@
             "objc_name": "collectionView:numberOfItemsInSection:",
             "declAttributes": [
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -7570,6 +7758,7 @@
             "objc_name": "collectionView:cellForItemAtIndexPath:",
             "declAttributes": [
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -7612,6 +7801,7 @@
             "objc_name": "collectionView:layout:sizeForItemAtIndexPath:",
             "declAttributes": [
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -7653,6 +7843,7 @@
             "objc_name": "collectionView:didEndDisplayingCell:forItemAtIndexPath:",
             "declAttributes": [
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -7682,6 +7873,7 @@
             "objc_name": "scrollViewDidEndDecelerating:",
             "declAttributes": [
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -7737,6 +7929,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -7778,6 +7971,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Required"
             ],
@@ -7789,6 +7983,7 @@
         "mangledName": "$s5TTSDK23TTGalleryViewControllerC",
         "moduleName": "TTSDK",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjC"
@@ -7801,6 +7996,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -7985,6 +8194,22 @@
         "moduleName": "TTSDK",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -8123,6 +8348,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -9657,6 +9896,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -10148,6 +10401,22 @@
         "sugared_genericSig": "<Self : UIKit.UIViewController>",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          }
         ]
       },
       {
@@ -10347,6 +10616,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -10374,6 +10644,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -10426,6 +10697,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -10478,6 +10750,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override",
               "AccessControl"
@@ -10559,6 +10832,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Override"
             ],
@@ -10600,6 +10874,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "Required"
             ],
@@ -10644,6 +10919,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -10689,6 +10965,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -10740,6 +11017,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -10785,6 +11063,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -10830,6 +11109,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -10881,6 +11161,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -10912,6 +11193,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -10956,6 +11238,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11001,6 +11284,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11060,6 +11344,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -11091,6 +11376,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl"
             ],
@@ -11142,6 +11428,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11205,6 +11492,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11253,6 +11541,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11292,6 +11581,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11337,6 +11627,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11376,6 +11667,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11415,6 +11707,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11454,6 +11747,7 @@
             "declAttributes": [
               "Dynamic",
               "ObjC",
+              "Preconcurrency",
               "Custom",
               "AccessControl",
               "Available"
@@ -11467,6 +11761,7 @@
         "mangledName": "$s5TTSDK27TTCameraGuideViewControllerC",
         "moduleName": "TTSDK",
         "declAttributes": [
+          "Preconcurrency",
           "Custom",
           "AccessControl",
           "ObjC"
@@ -11479,6 +11774,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -11649,6 +11958,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -11803,6 +12126,20 @@
           "RawDocComment"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Decodable",
@@ -12002,34 +12339,6 @@
       "value": "\"DELETE\""
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Network\/TTAPIService.swift",
-      "kind": "StringLiteral",
-      "offset": 138,
-      "length": 5,
-      "value": "\"GET\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Network\/TTAPIService.swift",
-      "kind": "StringLiteral",
-      "offset": 160,
-      "length": 6,
-      "value": "\"POST\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Network\/TTAPIService.swift",
-      "kind": "StringLiteral",
-      "offset": 182,
-      "length": 5,
-      "value": "\"PUT\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Network\/TTAPIService.swift",
-      "kind": "StringLiteral",
-      "offset": 206,
-      "length": 8,
-      "value": "\"DELETE\""
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTPromise.swift",
       "kind": "BooleanLiteral",
       "offset": 508,
@@ -12047,34 +12356,6 @@
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTDetection.swift",
       "kind": "StringLiteral",
       "offset": 170,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTDetection.swift",
-      "kind": "StringLiteral",
-      "offset": 142,
-      "length": 3,
-      "value": "\"0\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTDetection.swift",
-      "kind": "StringLiteral",
-      "offset": 170,
-      "length": 3,
-      "value": "\"1\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTDetection.swift",
-      "kind": "StringLiteral",
-      "offset": 242,
-      "length": 3,
-      "value": "\"0\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTDetection.swift",
-      "kind": "StringLiteral",
-      "offset": 279,
       "length": 3,
       "value": "\"1\""
     },
@@ -12373,13 +12654,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 78,
-      "length": 15,
-      "value": "\"TTSDK.TTCameraManager\""
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTCircularProgressView.swift",
       "kind": "IntegerLiteral",
       "offset": 683,
@@ -12464,60 +12738,459 @@
       "value": "\"Equal\""
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropToothV2.swift",
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 152,
+      "offset": 1210,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 1253,
+      "length": 23,
+      "value": "\"Not enough detections\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1284,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1608,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 1747,
+      "length": 23,
+      "value": "\"BoundingBox not found\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1778,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "FloatLiteral",
+      "offset": 2461,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "FloatLiteral",
+      "offset": 2498,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "FloatLiteral",
+      "offset": 2538,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "FloatLiteral",
+      "offset": 2578,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2624,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2663,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 2697,
+      "length": 7,
+      "value": "\"Equal\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 2740,
+      "length": 7,
+      "value": "\"Equal\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "Array",
+      "offset": 2782,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2997,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3083,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3145,
+      "length": 23,
+      "value": "\"BoundingBox not found\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3176,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3714,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropToothV2.swift",
-      "kind": "IntegerLiteral",
-      "offset": 163,
-      "length": 3,
-      "value": "1"
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3718,
+      "length": 6,
+      "value": "\"LTOR\""
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropToothV2.swift",
-      "kind": "IntegerLiteral",
-      "offset": 176,
-      "length": 3,
-      "value": "2"
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3727,
+      "length": 6,
+      "value": "\"RTOL\""
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropToothV2.swift",
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 189,
-      "length": 2,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropToothV2.swift",
-      "kind": "IntegerLiteral",
-      "offset": 152,
+      "offset": 3916,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropToothV2.swift",
-      "kind": "IntegerLiteral",
-      "offset": 163,
-      "length": 3,
-      "value": "1"
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3920,
+      "length": 6,
+      "value": "\"LTOR\""
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropToothV2.swift",
-      "kind": "IntegerLiteral",
-      "offset": 176,
-      "length": 3,
-      "value": "2"
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 3929,
+      "length": 6,
+      "value": "\"RTOL\""
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropToothV2.swift",
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
       "kind": "IntegerLiteral",
-      "offset": 189,
-      "length": 2,
+      "offset": 4217,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4345,
+      "length": 1,
       "value": "3"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4440,
+      "length": 17,
+      "value": "\"Wrong Direction\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4483,
+      "length": 17,
+      "value": "\"Wrong Direction\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4564,
+      "length": 17,
+      "value": "\"Wrong Direction\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4589,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4745,
+      "length": 13,
+      "value": "\"Wrong Width\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4784,
+      "length": 13,
+      "value": "\"Wrong Width\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 4861,
+      "length": 13,
+      "value": "\"Wrong Width\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4882,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5044,
+      "length": 14,
+      "value": "\"Wrong Height\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5084,
+      "length": 14,
+      "value": "\"Wrong Height\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5162,
+      "length": 14,
+      "value": "\"Wrong Height\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5184,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5366,
+      "length": 14,
+      "value": "\"Wrong deltaX\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5406,
+      "length": 14,
+      "value": "\"Wrong deltaX\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5484,
+      "length": 14,
+      "value": "\"Wrong deltaX\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5506,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5690,
+      "length": 14,
+      "value": "\"Wrong deltaY\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5730,
+      "length": 14,
+      "value": "\"Wrong deltaY\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5808,
+      "length": 14,
+      "value": "\"Wrong deltaY\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5830,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5942,
+      "length": 14,
+      "value": "\"Wrong Degree\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 5982,
+      "length": 14,
+      "value": "\"Wrong Degree\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6060,
+      "length": 14,
+      "value": "\"Wrong Degree\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6082,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6145,
+      "length": 38,
+      "value": "\"jointDetections = \""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6182,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6347,
+      "length": 13,
+      "value": "\"Wrong Width\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6386,
+      "length": 13,
+      "value": "\"Wrong Width\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6463,
+      "length": 13,
+      "value": "\"Wrong Width\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6484,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6646,
+      "length": 14,
+      "value": "\"Wrong Height\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6686,
+      "length": 14,
+      "value": "\"Wrong Height\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6764,
+      "length": 14,
+      "value": "\"Wrong Height\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6786,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6849,
+      "length": 38,
+      "value": "\"jointDetections = \""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6886,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6929,
+      "length": 32,
+      "value": "\"Joint errorCase = \""
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTJointProcessor.swift",
+      "kind": "StringLiteral",
+      "offset": 6960,
+      "length": 2,
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropToothV2.swift",
@@ -12584,10 +13257,10 @@
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Manual\/TTGuideViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 120,
-      "length": 21,
-      "value": "\"TTSDK.TTGuideViewController\""
+      "kind": "BooleanLiteral",
+      "offset": 8291,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Manual\/TTGuideViewController.swift",
@@ -12639,27 +13312,6 @@
       "value": "\"VIDEO\""
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTFileType.swift",
-      "kind": "StringLiteral",
-      "offset": 133,
-      "length": 7,
-      "value": "\"IMAGE\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTFileType.swift",
-      "kind": "StringLiteral",
-      "offset": 158,
-      "length": 7,
-      "value": "\"VIDEO\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Etc\/TTGalleryViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 96,
-      "length": 18,
-      "value": "\"TTSDK.TTGalleryViewModel\""
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Overlay\/TTOverlaySkinViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 5574,
@@ -12700,6 +13352,20 @@
       "offset": 7961,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Popup\/TTPopupViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 9777,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Popup\/TTPopupViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10088,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Popup\/TTPopupAttributes.swift",
@@ -12791,13 +13457,6 @@
       "offset": 481,
       "length": 2,
       "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Manual\/TTGuideViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 380,
-      "length": 16,
-      "value": "\"TTSDK.TTGuideViewModel\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTSkeletonView.swift",
@@ -12982,25 +13641,11 @@
       "value": "0.0"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Etc\/TTProgressViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 103,
-      "length": 19,
-      "value": "\"TTSDK.TTProgressViewModel\""
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupCheckedDuplicationViewController.swift",
       "kind": "FloatLiteral",
       "offset": 412,
       "length": 4,
       "value": "25.0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Toast\/TTToastView.swift",
-      "kind": "StringLiteral",
-      "offset": 92,
-      "length": 11,
-      "value": "\"TTSDK.TTToastView\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
@@ -13048,6 +13693,20 @@
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
       "offset": 2578,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16537,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16848,
       "length": 5,
       "value": "false"
     },
@@ -13248,97 +13907,6 @@
       "value": "0.1"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTUltraCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 190,
-      "length": 20,
-      "value": "\"TTSDK.TTUltraCameraManager\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 128,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 139,
-      "length": 8,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 157,
-      "length": 4,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 171,
-      "length": 3,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 184,
-      "length": 3,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 197,
-      "length": 2,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 128,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 139,
-      "length": 8,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 157,
-      "length": 4,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 171,
-      "length": 3,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 184,
-      "length": 3,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
-      "kind": "IntegerLiteral",
-      "offset": 197,
-      "length": 2,
-      "value": "5"
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurRed.swift",
       "kind": "IntegerLiteral",
       "offset": 128,
@@ -13386,6 +13954,13 @@
       "offset": 276,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTNavigationController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1097,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/UploadProgressDogDefault.swift",
@@ -13584,6 +14159,104 @@
       "value": "\"{\"ddd\":0,\"h\":104,\"w\":104,\"meta\":{\"g\":\"LottieFiles Figma v36\"},\"layers\":[{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[3.5,2],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[4.5,2],\"t\":30},{\"s\":[3.5,2],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52.5,69],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52.5,69],\"t\":30},{\"s\":[52.5,69],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,1.66],[1.94,0],[0,-1.66],[-1.94,0]],\"o\":[[1.94,0],[0,-1.66],[-1.94,0],[0,1.66],[0,0]],\"v\":[[3.5,4],[7,1],[3.5,0.25],[0,1],[3.5,4]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,1.66],[2.49,0],[0,-1.66],[-2.49,0]],\"o\":[[2.49,0],[0,-1.66],[-2.49,0],[0,1.66],[0,0]],\"v\":[[4.5,4],[9,1],[4.5,0.25],[0,1],[4.5,4]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0,1.66],[1.94,0],[0,-1.66],[-1.94,0]],\"o\":[[1.94,0],[0,-1.66],[-1.94,0],[0,1.66],[0,0]],\"v\":[[3.5,4],[7,1],[3.5,0.25],[0,1],[3.5,4]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,0.702,0.6314],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,0.702,0.6314],\"t\":30},{\"s\":[1,0.702,0.6314],\"t\":60}]},\"r\":2,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":1},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[2.35,2.35],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[2.5,1.5],\"t\":30},{\"s\":[2.35,2.35],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[61.27,52.93],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[61.5,53.5],\"t\":30},{\"s\":[61.27,52.93],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[1.3,0],[0,1.3],[-1.3,0],[0,-1.3]],\"o\":[[0,1.3],[-1.3,0],[0,-1.3],[1.3,0],[0,0]],\"v\":[[4.7,2.35],[2.35,4.7],[0,2.35],[2.35,0],[4.7,2.35]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[1.38,0],[0,1.41],[-1.38,0],[0,-1.41]],\"o\":[[0,1.41],[-1.38,0],[0,-1.41],[1.38,0],[0,0]],\"v\":[[5,2.56],[2.5,1.55],[0,2.56],[2.5,0],[5,2.56]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[1.3,0],[0,1.3],[-1.3,0],[0,-1.3]],\"o\":[[0,1.3],[-1.3,0],[0,-1.3],[1.3,0],[0,0]],\"v\":[[4.7,2.35],[2.35,4.7],[0,2.35],[2.35,0],[4.7,2.35]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0,0,0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0,0,0],\"t\":30},{\"s\":[0,0,0],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":2},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[2.35,2.35],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[2.5,1.5],\"t\":30},{\"s\":[2.35,2.35],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[42.05,52.93],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[42.5,53.5],\"t\":30},{\"s\":[42.05,52.93],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[1.3,0],[0,1.3],[-1.3,0],[0,-1.3]],\"o\":[[0,1.3],[-1.3,0],[0,-1.3],[1.3,0],[0,0]],\"v\":[[4.7,2.35],[2.35,4.7],[0,2.35],[2.35,0],[4.7,2.35]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[1.38,0],[0,1.41],[-1.38,0],[0,-1.41]],\"o\":[[0,1.41],[-1.38,0],[0,-1.41],[1.38,0],[0,0]],\"v\":[[5,2.56],[2.5,1.55],[0,2.56],[2.5,0],[5,2.56]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[1.3,0],[0,1.3],[-1.3,0],[0,-1.3]],\"o\":[[0,1.3],[-1.3,0],[0,-1.3],[1.3,0],[0,0]],\"v\":[[4.7,2.35],[2.35,4.7],[0,2.35],[2.35,0],[4.7,2.35]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0,0,0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0,0,0],\"t\":30},{\"s\":[0,0,0],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":3},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,1],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,1],\"t\":30},{\"s\":[1,1],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[35.92,54.81],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[35.92,54.81],\"t\":30},{\"s\":[35.92,54.81],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.55,0],[0,0.55],[-0.55,0],[0,-0.55]],\"o\":[[0,0.55],[-0.55,0],[0,-0.55],[0.55,0],[0,0]],\"v\":[[2,1],[1,2],[0,1],[1,0],[2,1]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.55,0],[0,0.55],[-0.55,0],[0,-0.55]],\"o\":[[0,0.55],[-0.55,0],[0,-0.55],[0.55,0],[0,0]],\"v\":[[2,1],[1,2],[0,1],[1,0],[2,1]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0.55,0],[0,0.55],[-0.55,0],[0,-0.55]],\"o\":[[0,0.55],[-0.55,0],[0,-0.55],[0.55,0],[0,0]],\"v\":[[2,1],[1,2],[0,1],[1,0],[2,1]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9961,0.8235,0.6353],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9961,0.8235,0.6353],\"t\":30},{\"s\":[0.9961,0.8235,0.6353],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":4},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,1],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,1],\"t\":30},{\"s\":[1,1],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[67.92,54.81],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[67.92,54.81],\"t\":30},{\"s\":[67.92,54.81],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.55,0],[0,0.55],[-0.55,0],[0,-0.55]],\"o\":[[0,0.55],[-0.55,0],[0,-0.55],[0.55,0],[0,0]],\"v\":[[2,1],[1,2],[0,1],[1,0],[2,1]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.55,0],[0,0.55],[-0.55,0],[0,-0.55]],\"o\":[[0,0.55],[-0.55,0],[0,-0.55],[0.55,0],[0,0]],\"v\":[[2,1],[1,2],[0,1],[1,0],[2,1]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0.55,0],[0,0.55],[-0.55,0],[0,-0.55]],\"o\":[[0,0.55],[-0.55,0],[0,-0.55],[0.55,0],[0,0]],\"v\":[[2,1],[1,2],[0,1],[1,0],[2,1]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9961,0.8235,0.6353],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9961,0.8235,0.6353],\"t\":30},{\"s\":[0.9961,0.8235,0.6353],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":5},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1.55,1.98],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1.55,1.98],\"t\":30},{\"s\":[1.55,1.98],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[36.04,51.24],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[36.04,51.24],\"t\":30},{\"s\":[36.04,51.24],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.01,0],[-0.03,0.55],[-0.92,0.71],[-0.34,-0.44],[0.44,-0.33],[0.01,-0.3],[0.53,0]],\"o\":[[0,0],[-0.55,-0.03],[0.05,-1.05],[0.44,-0.34],[0.34,0.44],[-0.61,0.47],[-0.03,0.53],[0,0]],\"v\":[[1,3.95],[0.95,3.95],[0,2.9],[1.49,0.21],[2.89,0.39],[2.71,1.79],[2,3],[1,3.95]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.01,0],[-0.03,0.55],[-0.92,0.71],[-0.34,-0.44],[0.44,-0.33],[0.01,-0.3],[0.53,0]],\"o\":[[0,0],[-0.55,-0.03],[0.05,-1.05],[0.44,-0.34],[0.34,0.44],[-0.61,0.47],[-0.03,0.53],[0,0]],\"v\":[[1,3.95],[0.95,3.95],[0,2.9],[1.49,0.21],[2.89,0.39],[2.71,1.79],[2,3],[1,3.95]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0.01,0],[-0.03,0.55],[-0.92,0.71],[-0.34,-0.44],[0.44,-0.33],[0.01,-0.3],[0.53,0]],\"o\":[[0,0],[-0.55,-0.03],[0.05,-1.05],[0.44,-0.34],[0.34,0.44],[-0.61,0.47],[-0.03,0.53],[0,0]],\"v\":[[1,3.95],[0.95,3.95],[0,2.9],[1.49,0.21],[2.89,0.39],[2.71,1.79],[2,3],[1,3.95]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9961,0.8235,0.6353],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9961,0.8235,0.6353],\"t\":30},{\"s\":[0.9961,0.8235,0.6353],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":6},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1.55,1.98],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1.55,1.98],\"t\":30},{\"s\":[1.55,1.98],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[67.96,51.24],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[67.96,51.24],\"t\":30},{\"s\":[67.96,51.24],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.03,0.54],[0.6,0.47],[-0.34,0.44],[-0.43,-0.34],[-0.05,-1.05],[0.55,-0.03],[0.01,0]],\"o\":[[-0.53,0],[-0.02,-0.29],[-0.44,-0.34],[0.34,-0.44],[0.92,0.71],[0.03,0.55],[-0.02,0],[0,0]],\"v\":[[2.1,3.95],[1.1,3],[0.39,1.79],[0.21,0.39],[1.61,0.21],[3.1,2.9],[2.15,3.95],[2.1,3.95]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.03,0.54],[0.6,0.47],[-0.34,0.44],[-0.43,-0.34],[-0.05,-1.05],[0.55,-0.03],[0.01,0]],\"o\":[[-0.53,0],[-0.02,-0.29],[-0.44,-0.34],[0.34,-0.44],[0.92,0.71],[0.03,0.55],[-0.02,0],[0,0]],\"v\":[[2.1,3.95],[1.1,3],[0.39,1.79],[0.21,0.39],[1.61,0.21],[3.1,2.9],[2.15,3.95],[2.1,3.95]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0.03,0.54],[0.6,0.47],[-0.34,0.44],[-0.43,-0.34],[-0.05,-1.05],[0.55,-0.03],[0.01,0]],\"o\":[[-0.53,0],[-0.02,-0.29],[-0.44,-0.34],[0.34,-0.44],[0.92,0.71],[0.03,0.55],[-0.02,0],[0,0]],\"v\":[[2.1,3.95],[1.1,3],[0.39,1.79],[0.21,0.39],[1.61,0.21],[3.1,2.9],[2.15,3.95],[2.1,3.95]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9961,0.8235,0.6353],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9961,0.8235,0.6353],\"t\":30},{\"s\":[0.9961,0.8235,0.6353],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":7},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[20.5,8],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[20.5,8],\"t\":30},{\"s\":[20.5,8],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52.01,53.2],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52.02,54.2],\"t\":30},{\"s\":[52.01,53.2],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[1.04,-3.3],[2.74,-0.61],[3.84,0],[0,-4.41],[-4.69,0],[0,4.41],[0.07,0.43],[-2.23,-0.58],[0,-0.45],[-4.69,0],[0,4.41],[4.69,0],[0,0]],\"o\":[[-3.84,0],[-2.38,-0.61],[-1.05,-3.3],[-4.69,0],[0,4.41],[4.69,0],[0,-0.45],[2.59,-0.58],[-0.08,0.43],[0,4.41],[4.69,0],[0,-4.41],[0,0],[0,0]],\"v\":[[32.49,0],[24.35,5.72],[16.64,5.72],[8.5,0],[0,8],[8.5,16],[17,8],[16.88,6.69],[24.13,6.69],[24.01,8],[32.51,16],[41.01,8],[32.51,0],[32.49,0]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[1.04,-3.3],[2.74,-0.61],[3.84,0],[0,-4.41],[-4.69,0],[0,4.41],[0.07,0.43],[-2.23,-0.58],[0,-0.45],[-4.69,0],[0,4.41],[4.69,0],[0,0]],\"o\":[[-3.84,0],[-2.38,-0.61],[-1.05,-3.3],[-4.69,0],[0,4.41],[4.69,0],[0,-0.45],[2.59,-0.58],[-0.08,0.43],[0,4.41],[4.69,0],[0,-4.41],[0,0],[0,0]],\"v\":[[32.49,0],[24.35,5.72],[16.64,5.72],[8.5,0],[0,8],[8.5,16],[17,8],[16.88,6.69],[24.13,6.69],[24.01,8],[32.51,16],[41.01,8],[32.51,0],[32.49,0]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[1.04,-3.3],[2.74,-0.61],[3.84,0],[0,-4.41],[-4.69,0],[0,4.41],[0.07,0.43],[-2.23,-0.58],[0,-0.45],[-4.69,0],[0,4.41],[4.69,0],[0,0]],\"o\":[[-3.84,0],[-2.38,-0.61],[-1.05,-3.3],[-4.69,0],[0,4.41],[4.69,0],[0,-0.45],[2.59,-0.58],[-0.08,0.43],[0,4.41],[4.69,0],[0,-4.41],[0,0],[0,0]],\"v\":[[32.49,0],[24.35,5.72],[16.64,5.72],[8.5,0],[0,8],[8.5,16],[17,8],[16.88,6.69],[24.13,6.69],[24.01,8],[32.51,16],[41.01,8],[32.51,0],[32.49,0]]}],\"t\":60}]}},{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,3.86],[-4.14,0],[0,-3.86],[4.14,0]],\"o\":[[-4.14,0],[0,-3.86],[4.14,0],[0,3.86],[0,0]],\"v\":[[8.49,15],[0.99,8],[8.49,1],[15.99,8],[8.49,15]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,3.86],[-4.14,0],[0,-3.86],[4.14,0]],\"o\":[[-4.14,0],[0,-3.86],[4.14,0],[0,3.86],[0,0]],\"v\":[[8.49,15],[0.99,8],[8.49,1],[15.99,8],[8.49,15]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0,3.86],[-4.14,0],[0,-3.86],[4.14,0]],\"o\":[[-4.14,0],[0,-3.86],[4.14,0],[0,3.86],[0,0]],\"v\":[[8.49,15],[0.99,8],[8.49,1],[15.99,8],[8.49,15]]}],\"t\":60}]}},{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,3.86],[-4.14,0],[0,-3.86],[4.14,0]],\"o\":[[-4.14,0],[0,-3.86],[4.14,0],[0,3.86],[0,0]],\"v\":[[32.49,15],[24.99,8],[32.49,1],[39.99,8],[32.49,15]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,3.86],[-4.14,0],[0,-3.86],[4.14,0]],\"o\":[[-4.14,0],[0,-3.86],[4.14,0],[0,3.86],[0,0]],\"v\":[[32.49,15],[24.99,8],[32.49,1],[39.99,8],[32.49,15]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0,3.86],[-4.14,0],[0,-3.86],[4.14,0]],\"o\":[[-4.14,0],[0,-3.86],[4.14,0],[0,3.86],[0,0]],\"v\":[[32.49,15],[24.99,8],[32.49,1],[39.99,8],[32.49,15]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.0667,0.0667,0.0667],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.0667,0.0667,0.0667],\"t\":30},{\"s\":[0.0667,0.0667,0.0667],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":8},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.36,1.99],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.36,1.99],\"t\":30},{\"s\":[5.36,1.99],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[35.2,69.01],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[35.2,69.01],\"t\":30},{\"s\":[35.2,69.01],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[5.4,-0.5]],\"o\":[[0,0],[0,0]],\"v\":[[10.73,0],[0,3.99]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[4.66,-3.5]],\"o\":[[0,0],[0,0]],\"v\":[[10.73,0],[0,3.99]]}],\"t\":30},{\"s\":[{\"c\":false,\"i\":[[0,0],[5.4,-0.5]],\"o\":[[0,0],[0,0]],\"v\":[[10.73,0],[0,3.99]]}],\"t\":60}]}},{\"ty\":\"st\",\"lc\":2,\"lj\":1,\"ml\":10,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]},\"w\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":30},{\"s\":[1],\"t\":60}]},\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":30},{\"s\":[0.8471,0.6,0.3804],\"t\":60}]}}],\"ind\":9},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.68,0.72],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.77,0.3],\"t\":30},{\"s\":[5.68,0.72],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[34.34,63.86],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[34.26,63.46],\"t\":30},{\"s\":[34.34,63.86],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[5.88,-1.72]],\"o\":[[0,0],[0,0]],\"v\":[[11.37,0.02],[0,1.44]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[6,1.34]],\"o\":[[0,0],[0,0]],\"v\":[[11.53,0],[0,0]]}],\"t\":30},{\"s\":[{\"c\":false,\"i\":[[0,0],[5.88,-1.72]],\"o\":[[0,0],[0,0]],\"v\":[[11.37,0.02],[0,1.44]]}],\"t\":60}]}},{\"ty\":\"st\",\"lc\":2,\"lj\":1,\"ml\":10,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]},\"w\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":30},{\"s\":[1],\"t\":60}]},\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":30},{\"s\":[0.8471,0.6,0.3804],\"t\":60}]}}],\"ind\":10},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.72,0.83],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.72,0.59],\"t\":30},{\"s\":[5.72,0.83],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[34.85,58.8],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[34.85,59.04],\"t\":30},{\"s\":[34.85,58.8],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[6.97,-1.57]],\"o\":[[0,0],[0,0]],\"v\":[[11.43,1.66],[0,0.48]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[5.86,1.18]],\"o\":[[0,0],[0,0]],\"v\":[[11.43,1.18],[0,0]]}],\"t\":30},{\"s\":[{\"c\":false,\"i\":[[0,0],[6.97,-1.57]],\"o\":[[0,0],[0,0]],\"v\":[[11.43,1.66],[0,0.48]]}],\"t\":60}]}},{\"ty\":\"st\",\"lc\":2,\"lj\":1,\"ml\":10,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]},\"w\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":30},{\"s\":[1],\"t\":60}]},\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":30},{\"s\":[0.8471,0.6,0.3804],\"t\":60}]}}],\"ind\":11},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.36,2],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.36,2],\"t\":30},{\"s\":[5.36,2],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[68.07,68.99],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[68.07,68.99],\"t\":30},{\"s\":[68.07,68.99],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[-5.4,-0.5]],\"o\":[[0,0],[0,0]],\"v\":[[0,0],[10.73,3.99]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[-4.43,-3.48]],\"o\":[[0,0],[0,0]],\"v\":[[0,0],[10.73,3.99]]}],\"t\":30},{\"s\":[{\"c\":false,\"i\":[[0,0],[-5.4,-0.5]],\"o\":[[0,0],[0,0]],\"v\":[[0,0],[10.73,3.99]]}],\"t\":60}]}},{\"ty\":\"st\",\"lc\":2,\"lj\":1,\"ml\":10,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]},\"w\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":30},{\"s\":[1],\"t\":60}]},\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":30},{\"s\":[0.8471,0.6,0.3804],\"t\":60}]}}],\"ind\":12},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.68,0.72],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.63,0.48],\"t\":30},{\"s\":[5.68,0.72],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[68.92,63.83],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[68.86,63.61],\"t\":30},{\"s\":[68.92,63.83],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[-5.88,-1.72]],\"o\":[[0,0],[0,0]],\"v\":[[0,0.02],[11.37,1.44]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[-5.5,1.5]],\"o\":[[0,0],[0,0]],\"v\":[[0,0],[11.27,0.37]]}],\"t\":30},{\"s\":[{\"c\":false,\"i\":[[0,0],[-5.88,-1.72]],\"o\":[[0,0],[0,0]],\"v\":[[0,0.02],[11.37,1.44]]}],\"t\":60}]}},{\"ty\":\"st\",\"lc\":2,\"lj\":1,\"ml\":10,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]},\"w\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":30},{\"s\":[1],\"t\":60}]},\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":30},{\"s\":[0.8471,0.6,0.3804],\"t\":60}]}}],\"ind\":13},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.71,0.83],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[5.71,0.61],\"t\":30},{\"s\":[5.71,0.83],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[68.42,58.77],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[68.42,59.03],\"t\":30},{\"s\":[68.42,58.77],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[-6.97,-1.57]],\"o\":[[0,0],[0,0]],\"v\":[[0,1.66],[11.43,0.48]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":false,\"i\":[[0,0],[-6.63,1.58]],\"o\":[[0,0],[0,0]],\"v\":[[0,1.18],[11.43,0]]}],\"t\":30},{\"s\":[{\"c\":false,\"i\":[[0,0],[-6.97,-1.57]],\"o\":[[0,0],[0,0]],\"v\":[[0,1.66],[11.43,0.48]]}],\"t\":60}]}},{\"ty\":\"st\",\"lc\":2,\"lj\":1,\"ml\":10,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]},\"w\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1],\"t\":30},{\"s\":[1],\"t\":60}]},\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":30},{\"s\":[0.8471,0.6,0.3804],\"t\":60}]}}],\"ind\":14},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[2.95,2.07],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[2.95,2.07],\"t\":30},{\"s\":[2.95,2.07],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52.04,57.52],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52.04,58.52],\"t\":30},{\"s\":[52.04,57.52],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[1.59,0],[0.51,1.62],[-1.59,0],[0.56,-1.29]],\"o\":[[-0.7,1.62],[-1.59,0],[-0.41,-1.33],[1.59,0],[0,0]],\"v\":[[5.8,1.66],[2.93,4.15],[0.06,1.66],[2.93,0],[5.8,1.66]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[1.59,0],[0.51,1.62],[-1.59,0],[0.56,-1.29]],\"o\":[[-0.7,1.62],[-1.59,0],[-0.41,-1.33],[1.59,0],[0,0]],\"v\":[[5.8,1.66],[2.93,4.15],[0.06,1.66],[2.93,0],[5.8,1.66]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[1.59,0],[0.51,1.62],[-1.59,0],[0.56,-1.29]],\"o\":[[-0.7,1.62],[-1.59,0],[-0.41,-1.33],[1.59,0],[0,0]],\"v\":[[5.8,1.66],[2.93,4.15],[0.06,1.66],[2.93,0],[5.8,1.66]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.0667,0.0667,0.0667],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.0667,0.0667,0.0667],\"t\":30},{\"s\":[0.0667,0.0667,0.0667],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":15},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[9.41,6.23],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[9.41,6.23],\"t\":30},{\"s\":[9.41,6.23],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.92,62.39],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.92,63.39],\"t\":30},{\"s\":[51.92,62.39],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,-2.94],[3.25,0],[0.98,0.74],[1.33,0],[0,3.25],[-2.54,0.65],[-5.5,-1.57],[0,0]],\"o\":[[3.14,0.78],[0,3.25],[-1.33,0],[-0.98,0.74],[-3.25,0],[0,-2.74],[0.03,0],[0,0],[0,0]],\"v\":[[14.11,0.7],[18.82,6.58],[12.94,12.46],[9.41,11.28],[5.88,12.46],[0,6.58],[4.71,0.7],[14.13,0.7],[14.11,0.7]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,-2.94],[3.25,0],[0.98,0.74],[1.33,0],[0,3.25],[-2.54,0.65],[-5.5,-1.57],[0,0]],\"o\":[[3.14,0.78],[0,3.25],[-1.33,0],[-0.98,0.74],[-3.25,0],[0,-2.74],[0.03,0],[0,0],[0,0]],\"v\":[[14.11,0.7],[18.82,6.58],[12.94,12.46],[9.41,11.28],[5.88,12.46],[0,6.58],[4.71,0.7],[14.13,0.7],[14.11,0.7]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0,-2.94],[3.25,0],[0.98,0.74],[1.33,0],[0,3.25],[-2.54,0.65],[-5.5,-1.57],[0,0]],\"o\":[[3.14,0.78],[0,3.25],[-1.33,0],[-0.98,0.74],[-3.25,0],[0,-2.74],[0.03,0],[0,0],[0,0]],\"v\":[[14.11,0.7],[18.82,6.58],[12.94,12.46],[9.41,11.28],[5.88,12.46],[0,6.58],[4.71,0.7],[14.13,0.7],[14.11,0.7]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9569,0.9569,0.9569],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9569,0.9569,0.9569],\"t\":30},{\"s\":[0.9569,0.9569,0.9569],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":16},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[24.02,11.47],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[24.02,11.47],\"t\":30},{\"s\":[24.02,11.47],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.84,72.85],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.84,73.85],\"t\":30},{\"s\":[51.84,72.85],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[2.37,-8.13],[-9.12,0],[-6.08,5.39],[11.93,-0.26],[0,0]],\"o\":[[-11.81,0.26],[6.08,5.42],[9.12,0],[-2.46,-9.22],[0,0],[0,0]],\"v\":[[24.03,0.01],[0,14.35],[24.04,22.95],[48.04,14.39],[24.04,0.01],[24.03,0.01]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[2.37,-8.13],[-9.12,0],[-6.08,5.39],[11.93,-0.26],[0,0]],\"o\":[[-11.81,0.26],[6.08,5.42],[9.12,0],[-2.46,-9.22],[0,0],[0,0]],\"v\":[[24.03,0.01],[0,14.35],[24.04,22.95],[48.04,14.39],[24.04,0.01],[24.03,0.01]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[2.37,-8.13],[-9.12,0],[-6.08,5.39],[11.93,-0.26],[0,0]],\"o\":[[-11.81,0.26],[6.08,5.42],[9.12,0],[-2.46,-9.22],[0,0],[0,0]],\"v\":[[24.03,0.01],[0,14.35],[24.04,22.95],[48.04,14.39],[24.04,0.01],[24.03,0.01]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,1,1],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,1,1],\"t\":30},{\"s\":[1,1,1],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":17},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1.57,2.86],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1.57,2.86],\"t\":30},{\"s\":[1.57,2.86],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[44.29,30.45],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[44.29,31.45],\"t\":30},{\"s\":[44.29,30.45],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,3.46],[0,0],[0.02,0],[0.15,-0.03],[0.01,0.01],[0,0],[-0.9,0]],\"o\":[[0.9,0],[0,0],[0,0],[-0.15,0.03],[0,0],[-1.04,0.2],[0,3.47],[0,0]],\"v\":[[1.76,5.73],[3.14,0.71],[3.14,0],[3.08,0],[2.62,0.08],[2.61,0.06],[0,0.86],[1.76,5.73]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,3.46],[0,0],[0.02,0],[0.15,-0.03],[0.01,0.01],[0,0],[-0.9,0]],\"o\":[[0.9,0],[0,0],[0,0],[-0.15,0.03],[0,0],[-1.04,0.2],[0,3.47],[0,0]],\"v\":[[1.76,5.73],[3.14,0.71],[3.14,0],[3.08,0],[2.62,0.08],[2.61,0.06],[0,0.86],[1.76,5.73]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0,3.46],[0,0],[0.02,0],[0.15,-0.03],[0.01,0.01],[0,0],[-0.9,0]],\"o\":[[0.9,0],[0,0],[0,0],[-0.15,0.03],[0,0],[-1.04,0.2],[0,3.47],[0,0]],\"v\":[[1.76,5.73],[3.14,0.71],[3.14,0],[3.08,0],[2.62,0.08],[2.61,0.06],[0,0.86],[1.76,5.73]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":30},{\"s\":[0.8471,0.6,0.3804],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":18},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1.79,3.01],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1.79,3.01],\"t\":30},{\"s\":[1.79,3.01],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[57.86,30.31],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[57.86,31.31],\"t\":30},{\"s\":[57.86,30.31],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,-0.02],[-0.9,0],[0.71,3.26],[0.56,0.15],[0.76,0.09],[0,0]],\"o\":[[0,0],[0,3.47],[0.9,0],[-0.05,-0.25],[-0.73,-0.14],[0,0],[0,0]],\"v\":[[0,0],[0,0.04],[1.76,6.01],[3.4,0.99],[2.26,0.36],[0.01,0.01],[0,0]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0,-0.02],[-0.9,0],[0.71,3.26],[0.56,0.15],[0.76,0.09],[0,0]],\"o\":[[0,0],[0,3.47],[0.9,0],[-0.05,-0.25],[-0.73,-0.14],[0,0],[0,0]],\"v\":[[0,0],[0,0.04],[1.76,6.01],[3.4,0.99],[2.26,0.36],[0.01,0.01],[0,0]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0,-0.02],[-0.9,0],[0.71,3.26],[0.56,0.15],[0.76,0.09],[0,0]],\"o\":[[0,0],[0,3.47],[0.9,0],[-0.05,-0.25],[-0.73,-0.14],[0,0],[0,0]],\"v\":[[0,0],[0,0.04],[1.76,6.01],[3.4,0.99],[2.26,0.36],[0.01,0.01],[0,0]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":30},{\"s\":[0.8471,0.6,0.3804],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":19},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[2.93,4.7],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[2.93,4.7],\"t\":30},{\"s\":[2.93,4.7],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.16,31.75],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.15,32.75],\"t\":30},{\"s\":[51.16,31.75],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.03,0.3],[0.74,0],[1.17,-0.12],[0,-0.39],[-1.18,0],[0,4.55],[0,0]],\"o\":[[0,-0.45],[-0.72,-0.05],[-1.23,0],[-0.02,0.28],[0,4.55],[1.18,0],[0,0],[0,0]],\"v\":[[5.87,1.18],[5.82,0.08],[3.64,0],[0.04,0.19],[0,1.17],[2.93,9.41],[5.86,1.17],[5.87,1.18]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[0.03,0.3],[0.74,0],[1.17,-0.12],[0,-0.39],[-1.18,0],[0,4.55],[0,0]],\"o\":[[0,-0.45],[-0.72,-0.05],[-1.23,0],[-0.02,0.28],[0,4.55],[1.18,0],[0,0],[0,0]],\"v\":[[5.87,1.18],[5.82,0.08],[3.64,0],[0.04,0.19],[0,1.17],[2.93,9.41],[5.86,1.17],[5.87,1.18]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[0.03,0.3],[0.74,0],[1.17,-0.12],[0,-0.39],[-1.18,0],[0,4.55],[0,0]],\"o\":[[0,-0.45],[-0.72,-0.05],[-1.23,0],[-0.02,0.28],[0,4.55],[1.18,0],[0,0],[0,0]],\"v\":[[5.87,1.18],[5.82,0.08],[3.64,0],[0.04,0.19],[0,1.17],[2.93,9.41],[5.86,1.17],[5.87,1.18]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.8471,0.6,0.3804],\"t\":30},{\"s\":[0.8471,0.6,0.3804],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":20},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[7.04,7.2],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[7.04,7.2],\"t\":30},{\"s\":[7.04,7.2],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[67.07,27.94],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[67.07,28.94],\"t\":30},{\"s\":[67.07,27.94],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[-3.61,0.62],[-0.02,0],[-0.75,-5.26],[-0.15,-6.2],[0.49,0.42],[5.53,1.43],[-0.28,0.43],[0,0]],\"o\":[[1.19,-1.78],[0.02,0],[0.36,-0.05],[0,0],[0.02,0.64],[-2.13,-1.83],[-0.5,-0.13],[0,0],[0,0]],\"v\":[[0.11,6.31],[7.89,0.03],[7.94,0.03],[13.41,4.74],[14.08,13.64],[12.86,14.22],[0.57,7.43],[0.12,6.31],[0.11,6.31]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[-3.61,0.62],[-0.02,0],[-0.75,-5.26],[-0.15,-6.2],[0.49,0.42],[5.53,1.43],[-0.28,0.43],[0,0]],\"o\":[[1.19,-1.78],[0.02,0],[0.36,-0.05],[0,0],[0.02,0.64],[-2.13,-1.83],[-0.5,-0.13],[0,0],[0,0]],\"v\":[[0.11,6.31],[7.89,0.03],[7.94,0.03],[13.41,4.74],[14.08,13.64],[12.86,14.22],[0.57,7.43],[0.12,6.31],[0.11,6.31]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[-3.61,0.62],[-0.02,0],[-0.75,-5.26],[-0.15,-6.2],[0.49,0.42],[5.53,1.43],[-0.28,0.43],[0,0]],\"o\":[[1.19,-1.78],[0.02,0],[0.36,-0.05],[0,0],[0.02,0.64],[-2.13,-1.83],[-0.5,-0.13],[0,0],[0,0]],\"v\":[[0.11,6.31],[7.89,0.03],[7.94,0.03],[13.41,4.74],[14.08,13.64],[12.86,14.22],[0.57,7.43],[0.12,6.31],[0.11,6.31]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,0.5922,0.4824],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,0.5922,0.4824],\"t\":30},{\"s\":[1,0.5922,0.4824],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":21},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[7.05,7.22],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[7.05,7.22],\"t\":30},{\"s\":[7.05,7.22],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[36.36,27.95],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[36.36,28.95],\"t\":30},{\"s\":[36.36,27.95],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[3.62,0.61],[0.02,0],[0.75,-5.27],[0.15,-6.22],[-0.47,0.41],[-5.57,1.44],[0.28,0.42],[0,0]],\"o\":[[-1.19,-1.77],[-0.02,0],[-0.35,-0.05],[0,0],[-0.02,0.62],[2.11,-1.82],[0.49,-0.13],[0,0],[0,0]],\"v\":[[13.98,6.33],[6.19,0.04],[6.14,0.04],[0.67,4.75],[0,13.69],[1.19,14.26],[13.53,7.44],[13.97,6.34],[13.98,6.33]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[3.62,0.61],[0.02,0],[0.75,-5.27],[0.15,-6.22],[-0.47,0.41],[-5.57,1.44],[0.28,0.42],[0,0]],\"o\":[[-1.19,-1.77],[-0.02,0],[-0.35,-0.05],[0,0],[-0.02,0.62],[2.11,-1.82],[0.49,-0.13],[0,0],[0,0]],\"v\":[[13.98,6.33],[6.19,0.04],[6.14,0.04],[0.67,4.75],[0,13.69],[1.19,14.26],[13.53,7.44],[13.97,6.34],[13.98,6.33]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[3.62,0.61],[0.02,0],[0.75,-5.27],[0.15,-6.22],[-0.47,0.41],[-5.57,1.44],[0.28,0.42],[0,0]],\"o\":[[-1.19,-1.77],[-0.02,0],[-0.35,-0.05],[0,0],[-0.02,0.62],[2.11,-1.82],[0.49,-0.13],[0,0],[0,0]],\"v\":[[13.98,6.33],[6.19,0.04],[6.14,0.04],[0.67,4.75],[0,13.69],[1.19,14.26],[13.53,7.44],[13.97,6.34],[13.98,6.33]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,0.5922,0.4824],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[1,0.5922,0.4824],\"t\":30},{\"s\":[1,0.5922,0.4824],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":22},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[32,32.93],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[32,32.93],\"t\":30},{\"s\":[32,32.93],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.86,51.39],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.86,52.39],\"t\":30},{\"s\":[51.86,51.39],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[2.83,4.28],[0,0],[0,0],[1.12,-1.7],[2.25,0],[2.07,-0.41],[3.51,2.34],[3.14,-7.06],[-0.42,-9.18],[0.74,-5.3],[-17.55,0],[2.35,16.87],[0,0]],\"o\":[[-0.74,-5.3],[0.4,-9.18],[-3.14,-7.06],[-3.51,2.34],[-2.06,-0.41],[-2.25,0],[-1.19,-1.7],[0,0],[0,0],[-2.83,4.29],[-2.35,16.87],[17.55,0],[0,0],[0,0]],\"v\":[[63.77,37.23],[58.33,22.65],[55.14,3.89],[45.72,1.54],[38.46,9.22],[31.99,8.6],[25.48,9.23],[17.98,1.54],[8.56,3.89],[5.66,22.65],[0.22,37.23],[32,65.87],[63.78,37.23],[63.77,37.23]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[2.83,4.28],[0,0],[0,0],[1.12,-1.7],[2.25,0],[2.07,-0.41],[3.51,2.34],[3.14,-7.06],[-0.42,-9.18],[0.74,-5.3],[-17.55,0],[2.35,16.87],[0,0]],\"o\":[[-0.74,-5.3],[0.4,-9.18],[-3.14,-7.06],[-3.51,2.34],[-2.06,-0.41],[-2.25,0],[-1.19,-1.7],[0,0],[0,0],[-2.83,4.29],[-2.35,16.87],[17.55,0],[0,0],[0,0]],\"v\":[[63.77,37.23],[58.33,22.65],[55.14,3.89],[45.72,1.54],[38.46,9.22],[31.99,8.6],[25.48,9.23],[17.98,1.54],[8.56,3.89],[5.66,22.65],[0.22,37.23],[32,65.87],[63.78,37.23],[63.77,37.23]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[2.83,4.28],[0,0],[0,0],[1.12,-1.7],[2.25,0],[2.07,-0.41],[3.51,2.34],[3.14,-7.06],[-0.42,-9.18],[0.74,-5.3],[-17.55,0],[2.35,16.87],[0,0]],\"o\":[[-0.74,-5.3],[0.4,-9.18],[-3.14,-7.06],[-3.51,2.34],[-2.06,-0.41],[-2.25,0],[-1.19,-1.7],[0,0],[0,0],[-2.83,4.29],[-2.35,16.87],[17.55,0],[0,0],[0,0]],\"v\":[[63.77,37.23],[58.33,22.65],[55.14,3.89],[45.72,1.54],[38.46,9.22],[31.99,8.6],[25.48,9.23],[17.98,1.54],[8.56,3.89],[5.66,22.65],[0.22,37.23],[32,65.87],[63.78,37.23],[63.77,37.23]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9176,0.7294,0.5255],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9176,0.7294,0.5255],\"t\":30},{\"s\":[0.9176,0.7294,0.5255],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":23},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[32,32.93],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[32,32.93],\"t\":30},{\"s\":[32,32.93],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.86,53.39],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[51.86,53.39],\"t\":30},{\"s\":[51.86,53.39],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[2.83,4.28],[0,0],[0,0],[1.12,-1.7],[2.25,0],[2.07,-0.41],[3.51,2.34],[3.14,-7.06],[-0.42,-9.18],[0.74,-5.3],[-17.55,0],[2.35,16.87],[0,0]],\"o\":[[-0.74,-5.3],[0.4,-9.18],[-3.14,-7.06],[-3.51,2.34],[-2.06,-0.41],[-2.25,0],[-1.19,-1.7],[0,0],[0,0],[-2.83,4.29],[-2.35,16.87],[17.55,0],[0,0],[0,0]],\"v\":[[63.77,37.23],[58.33,22.65],[55.14,3.89],[45.72,1.54],[38.46,9.22],[31.99,8.6],[25.48,9.23],[17.98,1.54],[8.56,3.89],[5.66,22.65],[0.22,37.23],[32,65.87],[63.78,37.23],[63.77,37.23]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[2.83,4.28],[0,0],[0,0],[1.12,-1.7],[2.25,0],[2.07,-0.41],[3.51,2.34],[3.14,-7.06],[-0.42,-9.18],[0.74,-5.3],[-17.55,0],[2.35,16.87],[0,0]],\"o\":[[-0.74,-5.3],[0.4,-9.18],[-3.14,-7.06],[-3.51,2.34],[-2.06,-0.41],[-2.25,0],[-1.19,-1.7],[0,0],[0,0],[-2.83,4.29],[-2.35,16.87],[17.55,0],[0,0],[0,0]],\"v\":[[63.77,37.23],[58.33,22.65],[55.14,3.89],[45.72,1.54],[38.46,9.22],[31.99,8.6],[25.48,9.23],[17.98,1.54],[8.56,3.89],[5.66,22.65],[0.22,37.23],[32,65.87],[63.78,37.23],[63.77,37.23]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[2.83,4.28],[0,0],[0,0],[1.12,-1.7],[2.25,0],[2.07,-0.41],[3.51,2.34],[3.14,-7.06],[-0.42,-9.18],[0.74,-5.3],[-17.55,0],[2.35,16.87],[0,0]],\"o\":[[-0.74,-5.3],[0.4,-9.18],[-3.14,-7.06],[-3.51,2.34],[-2.06,-0.41],[-2.25,0],[-1.19,-1.7],[0,0],[0,0],[-2.83,4.29],[-2.35,16.87],[17.55,0],[0,0],[0,0]],\"v\":[[63.77,37.23],[58.33,22.65],[55.14,3.89],[45.72,1.54],[38.46,9.22],[31.99,8.6],[25.48,9.23],[17.98,1.54],[8.56,3.89],[5.66,22.65],[0.22,37.23],[32,65.87],[63.78,37.23],[63.77,37.23]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9176,0.9176,0.9176],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9176,0.9176,0.9176],\"t\":30},{\"s\":[0.9176,0.9176,0.9176],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":24},{\"ty\":4,\"sr\":1,\"st\":0,\"op\":61,\"ip\":0,\"hasMask\":false,\"ao\":0,\"ks\":{\"a\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52,52],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52,52],\"t\":30},{\"s\":[52,52],\"t\":60}]},\"s\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100,100],\"t\":30},{\"s\":[100,100],\"t\":60}]},\"p\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52,52],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[52,52],\"t\":30},{\"s\":[52,52],\"t\":60}]},\"r\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0],\"t\":30},{\"s\":[0],\"t\":60}]},\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}},\"shapes\":[{\"ty\":\"sh\",\"d\":1,\"ks\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[28.72,0],[0,28.72],[-28.72,0],[0,-28.72]],\"o\":[[0,28.72],[-28.72,0],[0,-28.72],[28.72,0],[0,0]],\"v\":[[104,52],[52,104],[0,52],[52,0],[104,52]]}],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[{\"c\":true,\"i\":[[0,0],[28.72,0],[0,28.72],[-28.72,0],[0,-28.72]],\"o\":[[0,28.72],[-28.72,0],[0,-28.72],[28.72,0],[0,0]],\"v\":[[104,52],[52,104],[0,52],[52,0],[104,52]]}],\"t\":30},{\"s\":[{\"c\":true,\"i\":[[0,0],[28.72,0],[0,28.72],[-28.72,0],[0,-28.72]],\"o\":[[0,28.72],[-28.72,0],[0,-28.72],[28.72,0],[0,0]],\"v\":[[104,52],[52,104],[0,52],[52,0],[104,52]]}],\"t\":60}]}},{\"ty\":\"fl\",\"c\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9608,0.9608,0.9608],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[0.9608,0.9608,0.9608],\"t\":30},{\"s\":[0.9608,0.9608,0.9608],\"t\":60}]},\"r\":1,\"o\":{\"a\":1,\"k\":[{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":0},{\"o\":{\"x\":0,\"y\":0},\"i\":{\"x\":0.58,\"y\":1},\"s\":[100],\"t\":30},{\"s\":[100],\"t\":60}]}}],\"ind\":25}],\"v\":\"5.7.0\",\"fr\":30,\"op\":60,\"ip\":0,\"assets\":[]}\""
     },
     {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 35421,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "FloatLiteral",
+      "offset": 35424,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 35438,
+      "length": 3,
+      "value": "149"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "FloatLiteral",
+      "offset": 35442,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 35455,
+      "length": 3,
+      "value": "243"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "FloatLiteral",
+      "offset": 35459,
+      "length": 5,
+      "value": "255.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "FloatLiteral",
+      "offset": 35473,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 35710,
+      "length": 2,
+      "value": "89"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 35713,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 35725,
+      "length": 3,
+      "value": "184"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 35729,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 35740,
+      "length": 3,
+      "value": "252"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 35744,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIColor+Additions.swift",
+      "kind": "FloatLiteral",
+      "offset": 35756,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Tooth\/TTGuideToothPopupSelectPartsViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1549,
@@ -13710,34 +14383,6 @@
       "value": "true"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Etc\/TTLottiePlayerController.swift",
-      "kind": "StringLiteral",
-      "offset": 117,
-      "length": 24,
-      "value": "\"TTSDK.TTLottiePlayerController\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Etc\/TTLottiePlayerController.swift",
-      "kind": "StringLiteral",
-      "offset": 387858,
-      "length": 20,
-      "value": "\"TTSDK.TTWeakMessageHandler\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPetType.swift",
-      "kind": "StringLiteral",
-      "offset": 164,
-      "length": 5,
-      "value": "\"DOG\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPetType.swift",
-      "kind": "StringLiteral",
-      "offset": 185,
-      "length": 5,
-      "value": "\"CAT\""
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPetType.swift",
       "kind": "StringLiteral",
       "offset": 164,
@@ -13850,69 +14495,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTARCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 175,
-      "length": 17,
-      "value": "\"TTSDK.TTARCameraManager\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCatTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 138,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCatTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 149,
-      "length": 10,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCatTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 169,
-      "length": 4,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCatTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 183,
-      "length": 2,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCatTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 138,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCatTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 149,
-      "length": 10,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCatTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 169,
-      "length": 4,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCatTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 183,
-      "length": 2,
-      "value": "3"
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCatTooth.swift",
       "kind": "IntegerLiteral",
       "offset": 138,
@@ -13964,65 +14546,9 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
       "kind": "IntegerLiteral",
-      "offset": 131,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
-      "kind": "IntegerLiteral",
-      "offset": 142,
-      "length": 6,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
-      "kind": "IntegerLiteral",
-      "offset": 131,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
-      "kind": "IntegerLiteral",
-      "offset": 142,
-      "length": 6,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
-      "kind": "IntegerLiteral",
       "offset": 227,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
-      "kind": "IntegerLiteral",
-      "offset": 277,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
-      "kind": "IntegerLiteral",
-      "offset": 288,
-      "length": 4,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
-      "kind": "IntegerLiteral",
-      "offset": 277,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
-      "kind": "IntegerLiteral",
-      "offset": 288,
-      "length": 4,
-      "value": "1"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCrop.swift",
@@ -14076,121 +14602,9 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 770,
-      "length": 8,
-      "value": "\"diagId\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
-      "kind": "StringLiteral",
-      "offset": 801,
-      "length": 8,
-      "value": "\"userId\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
-      "kind": "StringLiteral",
-      "offset": 831,
-      "length": 7,
-      "value": "\"petId\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
-      "kind": "StringLiteral",
-      "offset": 972,
-      "length": 10,
-      "value": "\"recordId\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
-      "kind": "StringLiteral",
       "offset": 1819,
       "length": 8,
       "value": "\"diagId\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
-      "kind": "StringLiteral",
-      "offset": 1819,
-      "length": 8,
-      "value": "\"diagId\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 378,
-      "length": 30,
-      "value": "\"v2_common_classification_eye\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 430,
-      "length": 22,
-      "value": "\"v2_common_detect_eye\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 479,
-      "length": 22,
-      "value": "\"v3_cat_crop_blur_eye\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 528,
-      "length": 22,
-      "value": "\"v3_dog_crop_blur_eye\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 595,
-      "length": 22,
-      "value": "\"tooth_classification\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 641,
-      "length": 14,
-      "value": "\"tooth_detect\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 684,
-      "length": 24,
-      "value": "\"v2_cat_crop_blur_tooth\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 737,
-      "length": 24,
-      "value": "\"v2_dog_crop_blur_tooth\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 805,
-      "length": 21,
-      "value": "\"classification_skin\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 854,
-      "length": 15,
-      "value": "\"blur_skin_dog\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
-      "kind": "StringLiteral",
-      "offset": 906,
-      "length": 18,
-      "value": "\"dog_joint_detect\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTModelType.swift",
@@ -14418,13 +14832,6 @@
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 258,
-      "length": 17,
-      "value": "\"TTSDK.TTCameraViewModel\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "BooleanLiteral",
       "offset": 29012,
       "length": 5,
@@ -14499,139 +14906,6 @@
       "offset": 382,
       "length": 5,
       "value": "\"ETC\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPositionCode.swift",
-      "kind": "StringLiteral",
-      "offset": 158,
-      "length": 6,
-      "value": "\"EYER\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPositionCode.swift",
-      "kind": "StringLiteral",
-      "offset": 184,
-      "length": 6,
-      "value": "\"EYEL\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPositionCode.swift",
-      "kind": "StringLiteral",
-      "offset": 213,
-      "length": 9,
-      "value": "\"TCENTER\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPositionCode.swift",
-      "kind": "StringLiteral",
-      "offset": 245,
-      "length": 8,
-      "value": "\"TRIGHT\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPositionCode.swift",
-      "kind": "StringLiteral",
-      "offset": 275,
-      "length": 7,
-      "value": "\"TLEFT\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPositionCode.swift",
-      "kind": "StringLiteral",
-      "offset": 302,
-      "length": 5,
-      "value": "\"EAR\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPositionCode.swift",
-      "kind": "StringLiteral",
-      "offset": 328,
-      "length": 7,
-      "value": "\"BELLY\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPositionCode.swift",
-      "kind": "StringLiteral",
-      "offset": 356,
-      "length": 6,
-      "value": "\"FOOT\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTPositionCode.swift",
-      "kind": "StringLiteral",
-      "offset": 382,
-      "length": 5,
-      "value": "\"ETC\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 141,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 152,
-      "length": 8,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 170,
-      "length": 3,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 183,
-      "length": 3,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 196,
-      "length": 2,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 141,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 152,
-      "length": 8,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 170,
-      "length": 3,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 183,
-      "length": 3,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
-      "kind": "IntegerLiteral",
-      "offset": 196,
-      "length": 2,
-      "value": "4"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurCropV3.swift",
@@ -14711,88 +14985,11 @@
       "value": "15.0"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Network\/TTUploadDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 100,
-      "length": 16,
-      "value": "\"TTSDK.TTUploadDelegate\""
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Etc\/TTGalleryViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 6843,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 138,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 149,
-      "length": 10,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 169,
-      "length": 4,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 183,
-      "length": 3,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 196,
-      "length": 2,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 138,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 149,
-      "length": 10,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 169,
-      "length": 4,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 183,
-      "length": 3,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
-      "kind": "IntegerLiteral",
-      "offset": 196,
-      "length": 2,
-      "value": "4"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTBlurDogTooth.swift",
@@ -14865,34 +15062,6 @@
       "value": "2"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCaptureType.swift",
-      "kind": "IntegerLiteral",
-      "offset": 139,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCaptureType.swift",
-      "kind": "IntegerLiteral",
-      "offset": 175,
-      "length": 4,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCaptureType.swift",
-      "kind": "IntegerLiteral",
-      "offset": 209,
-      "length": 5,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Network\/TTDownloadDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 181,
-      "length": 18,
-      "value": "\"TTSDK.TTDownloadDelegate\""
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupSelectedEyeViewController.swift",
       "kind": "FloatLiteral",
       "offset": 1166,
@@ -14940,55 +15109,6 @@
       "offset": 10501,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraState.swift",
-      "kind": "IntegerLiteral",
-      "offset": 139,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraState.swift",
-      "kind": "IntegerLiteral",
-      "offset": 175,
-      "length": 5,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraState.swift",
-      "kind": "IntegerLiteral",
-      "offset": 208,
-      "length": 6,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraState.swift",
-      "kind": "IntegerLiteral",
-      "offset": 271,
-      "length": 9,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraState.swift",
-      "kind": "IntegerLiteral",
-      "offset": 308,
-      "length": 6,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraState.swift",
-      "kind": "IntegerLiteral",
-      "offset": 324,
-      "length": 13,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraState.swift",
-      "kind": "IntegerLiteral",
-      "offset": 347,
-      "length": 5,
-      "value": "6"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraState.swift",
@@ -15201,13 +15321,6 @@
       "value": "[]"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Etc\/TTWebViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 119,
-      "length": 19,
-      "value": "\"TTSDK.TTWebViewController\""
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Etc\/TTGalleryVideoCell.swift",
       "kind": "IntegerLiteral",
       "offset": 325,
@@ -15262,34 +15375,6 @@
       "offset": 717,
       "length": 3,
       "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTLicense.swift",
-      "kind": "StringLiteral",
-      "offset": 1342,
-      "length": 16,
-      "value": "\"service_region\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTLicense.swift",
-      "kind": "StringLiteral",
-      "offset": 1386,
-      "length": 14,
-      "value": "\"service_host\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTLicense.swift",
-      "kind": "StringLiteral",
-      "offset": 1425,
-      "length": 10,
-      "value": "\"clientId\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTLicense.swift",
-      "kind": "StringLiteral",
-      "offset": 1463,
-      "length": 13,
-      "value": "\"clientKeyId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTLicense.swift",
@@ -15418,69 +15503,6 @@
       "value": "9"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTMediaPart.swift",
-      "kind": "IntegerLiteral",
-      "offset": 176,
-      "length": 7,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTMediaPart.swift",
-      "kind": "IntegerLiteral",
-      "offset": 193,
-      "length": 10,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTMediaPart.swift",
-      "kind": "IntegerLiteral",
-      "offset": 213,
-      "length": 10,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTMediaPart.swift",
-      "kind": "IntegerLiteral",
-      "offset": 233,
-      "length": 9,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTMediaPart.swift",
-      "kind": "IntegerLiteral",
-      "offset": 252,
-      "length": 7,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTMediaPart.swift",
-      "kind": "IntegerLiteral",
-      "offset": 269,
-      "length": 8,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTMediaPart.swift",
-      "kind": "IntegerLiteral",
-      "offset": 287,
-      "length": 8,
-      "value": "7"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTMediaPart.swift",
-      "kind": "IntegerLiteral",
-      "offset": 305,
-      "length": 7,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTMediaPart.swift",
-      "kind": "IntegerLiteral",
-      "offset": 322,
-      "length": 5,
-      "value": "9"
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Overlay\/TTOverlayViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 228,
@@ -15521,6 +15543,13 @@
       "offset": 558,
       "length": 3,
       "value": "5.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Overlay\/TTOverlayViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1025,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManageable.swift",
@@ -15565,18 +15594,18 @@
       "value": "8"
     },
     {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/TTIndicatorView.swift",
-      "kind": "StringLiteral",
-      "offset": 94,
-      "length": 15,
-      "value": "\"TTSDK.TTIndicatorView\""
-    },
-    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Guide\/Skin\/TTGuideSkinUtilViewController.swift",
       "kind": "FloatLiteral",
       "offset": 507,
       "length": 4,
       "value": "15.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Etc\/TTCameraGuideViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3415,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Popup\/TTPopupJointTimeoverViewController.swift",
@@ -15682,20 +15711,6 @@
       "offset": 4979,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Popup\/TTPopupMessage.swift",
-      "kind": "IntegerLiteral",
-      "offset": 138,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Popup\/TTPopupMessage.swift",
-      "kind": "IntegerLiteral",
-      "offset": 149,
-      "length": 16,
-      "value": "1"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Popup\/TTPopupMessage.swift",
@@ -15840,107 +15855,9 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
       "kind": "IntegerLiteral",
-      "offset": 141,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 152,
-      "length": 3,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 165,
-      "length": 5,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 180,
-      "length": 3,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 141,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 152,
-      "length": 3,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 165,
-      "length": 5,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 180,
-      "length": 3,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
       "offset": 274,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 331,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 342,
-      "length": 5,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 357,
-      "length": 3,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 331,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 342,
-      "length": 5,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
-      "kind": "IntegerLiteral",
-      "offset": 357,
-      "length": 3,
-      "value": "2"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTClassification.swift",
@@ -16092,153 +16009,6 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
       "kind": "StringLiteral",
-      "offset": 2342,
-      "length": 18,
-      "value": "\"UltraLightItalic\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2383,
-      "length": 8,
-      "value": "\"Medium\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2420,
-      "length": 14,
-      "value": "\"MediumItalic\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2461,
-      "length": 12,
-      "value": "\"UltraLight\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2496,
-      "length": 8,
-      "value": "\"Italic\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2526,
-      "length": 7,
-      "value": "\"Light\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2560,
-      "length": 12,
-      "value": "\"ThinItalic\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2600,
-      "length": 13,
-      "value": "\"LightItalic\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2634,
-      "length": 6,
-      "value": "\"Bold\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2661,
-      "length": 6,
-      "value": "\"Thin\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2698,
-      "length": 16,
-      "value": "\"CondensedBlack\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2744,
-      "length": 15,
-      "value": "\"CondensedBold\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 2786,
-      "length": 12,
-      "value": "\"BoldItalic\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 3258,
-      "length": 8,
-      "value": "\"Medium\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 3293,
-      "length": 12,
-      "value": "\"UltraLight\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 3329,
-      "length": 9,
-      "value": "\"Regular\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 3361,
-      "length": 8,
-      "value": "\"Italic\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 3391,
-      "length": 7,
-      "value": "\"Light\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 3419,
-      "length": 6,
-      "value": "\"Bold\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 3450,
-      "length": 10,
-      "value": "\"SemiBold\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
-      "offset": 3481,
-      "length": 6,
-      "value": "\"Thin\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
-      "kind": "StringLiteral",
       "offset": 3258,
       "length": 8,
       "value": "\"Medium\""
@@ -16340,6 +16110,55 @@
       "offset": 8803,
       "length": 1,
       "value": "5"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14876,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
+      "kind": "BooleanLiteral",
+      "offset": 15205,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15509,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15743,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15769,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
+      "kind": "IntegerLiteral",
+      "offset": 15847,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
+      "kind": "Array",
+      "offset": 15938,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Util\/UIKit+TTCare.swift",
