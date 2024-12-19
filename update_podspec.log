@@ -1,0 +1,59 @@
+Starting podspec update at 2024년 12월 19일 목요일 17시 13분 18초 KST
+Enter the new version:
+Enter the branch name [default: release]:
+You are about to update the version to 1.9.6 on branch 'release'. Proceed? (y/n)
+Updating version in TTSDK-iOS.podspec to 1.9.6...
+Switching to branch 'release'...
+M	TTSDK-iOS.podspec
+M	update.sh
+Committing changes...
+[release b6b0f24] Update podspec version to 1.9.6
+ 2 files changed, 88 insertions(+), 20 deletions(-)
+Creating git tag '1.9.6'...
+Pushing changes to branch 'release'...
+remote: 
+remote: Create a pull request for 'release' on GitHub by visiting:        
+remote:      https://github.com/Aiforpet-TTcare/TTSDK-iOS/pull/new/release        
+remote: 
+To https://github.com/Aiforpet-TTcare/TTSDK-iOS.git
+ * [new branch]      release -> release
+Pushing tag '1.9.6'...
+To https://github.com/Aiforpet-TTcare/TTSDK-iOS.git
+ * [new tag]         1.9.6 -> 1.9.6
+Linting TTSDK-iOS.podspec...
+
+ -> TTSDK-iOS -> TTSDK-iOS (1.9.6)
+    - NOTE  | xcodebuild:  note: Using codesigning identity override: -
+    - NOTE  | [iOS] xcodebuild:  note: Building targets in dependency order
+    - NOTE  | [iOS] xcodebuild:  note: Target dependency graph (5 targets)
+    - NOTE  | [iOS] xcodebuild:  note: Signing static framework with --generate-pre-encrypt-hashes (in target 'TensorFlowLiteSwift' from project 'Pods')
+    - NOTE  | [iOS] xcodebuild:  note: Signing static framework with --generate-pre-encrypt-hashes (in target 'Pods-App' from project 'Pods')
+    - NOTE  | [iOS] xcodebuild:  note: Metadata extraction skipped. No AppIntents.framework dependency found. (in target 'App' from project 'App')
+
+Analyzed 1 podspec.
+
+TTSDK-iOS.podspec passed validation.
+
+Lint successful, pushing to trunk...
+Updating spec repo `trunk`
+Validating podspec
+ -> TTSDK-iOS -> TTSDK-iOS (1.9.6)
+    - NOTE  | xcodebuild:  note: Using codesigning identity override: -
+    - NOTE  | [iOS] xcodebuild:  note: Building targets in dependency order
+    - NOTE  | [iOS] xcodebuild:  note: Target dependency graph (5 targets)
+    - NOTE  | [iOS] xcodebuild:  note: Signing static framework with --generate-pre-encrypt-hashes (in target 'TensorFlowLiteSwift' from project 'Pods')
+    - NOTE  | [iOS] xcodebuild:  note: Signing static framework with --generate-pre-encrypt-hashes (in target 'Pods-App' from project 'Pods')
+    - NOTE  | [iOS] xcodebuild:  note: Metadata extraction skipped. No AppIntents.framework dependency found. (in target 'App' from project 'App')
+
+Updating spec repo `trunk`
+
+--------------------------------------------------------------------------------
+ 🎉  Congrats
+
+ 🚀  TTSDK-iOS (1.9.6) successfully published
+ 📅  December 19th, 17:14
+ 🌎  https://cocoapods.org/pods/TTSDK-iOS
+ 👍  Tell your friends!
+--------------------------------------------------------------------------------
+Successfully pushed TTSDK-iOS.podspec to CocoaPods trunk.
+Version update and deployment completed successfully at 2024년 12월 19일 목요일 17시 14분 45초 KST.
