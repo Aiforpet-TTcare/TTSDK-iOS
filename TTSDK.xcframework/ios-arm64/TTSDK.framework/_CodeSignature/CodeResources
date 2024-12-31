@@ -530,7 +530,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		Mz8ZXurzf/THzNzNy/5qCSfo3G8=
+		Z2kkvH4KFgdwCxb4unEeg4EyxuY=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -546,7 +546,7 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		cJf4ViPtbhA894i1cA98thcAkCI=
+		uhfad9ZcBDO1WK9N9R+cJtOfdjo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1608,7 +1608,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fakOYv8lfrItRvWlGlPhJjQUC+pLyvQ8ktdXBpbaY8M=
+			1Z3wxMkUJdpSBhgWPWFdn8Kgzz/v8881c7bYF2iJXGE=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -1636,7 +1636,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YHhdlnG+/Xw7vBNQHI5VgD4u8Tg+Q4nETFS9v0JZDmM=
+			/lsYJoIAZygUkuv1bbRqUKWpBv3pZYILiz2t1gxTQHU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

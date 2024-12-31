@@ -13082,21 +13082,21 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraType.swift",
       "kind": "StringLiteral",
-      "offset": 2912,
+      "offset": 3533,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraType.swift",
       "kind": "IntegerLiteral",
-      "offset": 3000,
+      "offset": 3621,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTCameraType.swift",
       "kind": "Array",
-      "offset": 3193,
+      "offset": 3814,
       "length": 335,
       "value": "[\"iPhone14,2\", \"iPhone14,3\", \"iPhone15,2\", \"iPhone15,3\", \"iPhone16,1\", \"iPhone16,2\", \"iPhone17,1\", \"iPhone17,2\"]"
     },
@@ -15539,28 +15539,28 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManageable.swift",
       "kind": "BooleanLiteral",
-      "offset": 10000,
+      "offset": 10623,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManageable.swift",
       "kind": "BooleanLiteral",
-      "offset": 10265,
+      "offset": 10888,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManageable.swift",
       "kind": "IntegerLiteral",
-      "offset": 12316,
+      "offset": 12939,
       "length": 3,
       "value": "320"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManageable.swift",
       "kind": "IntegerLiteral",
-      "offset": 12329,
+      "offset": 12952,
       "length": 3,
       "value": "320"
     },
