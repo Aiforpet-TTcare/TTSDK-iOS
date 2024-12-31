@@ -111,6 +111,7 @@ public enum TTCameraType : Swift.CaseIterable {
   }
 }
 @_hasMissingDesignatedInitializers public class TTManager {
+  public static var isNotRemoveFiles: Swift.Bool
   public static var isHiddenSkeleton: Swift.Bool
   public static var isHapticEnabled: Swift.Bool
   public static var isAnimationEnabled: Swift.Bool
