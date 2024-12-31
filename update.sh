@@ -16,8 +16,21 @@ sed -i '' "s/:tag => \".*\"/:tag => \"$NEW_VERSION\"/" $PODSPEC
 echo "Committing and pushing changes to git..."
 git add .
 git commit -m "Update podspec version to $NEW_VERSION"
+
+# 현재 브랜치 이름 가져오기
+CURRENT_BRANCH=$(git branch --show-current)
+
+# 브랜치가 없을 경우 'main'으로 설정
+if [ -z "$CURRENT_BRANCH" ]; then
+  CURRENT_BRANCH="main"
+  git branch -M main
+fi
+
+# 태그 추가
 git tag $NEW_VERSION
-git push origin main
+
+# 원격에 푸시
+git push origin $CURRENT_BRANCH
 git push origin $NEW_VERSION
 
 # Podspec 검증
