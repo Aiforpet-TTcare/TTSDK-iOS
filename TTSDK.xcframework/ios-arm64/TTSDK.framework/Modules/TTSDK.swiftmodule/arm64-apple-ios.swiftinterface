@@ -115,7 +115,10 @@ public enum TTCameraType : Swift.CaseIterable {
   public static var isHiddenSkeleton: Swift.Bool
   public static var isHapticEnabled: Swift.Bool
   public static var isAnimationEnabled: Swift.Bool
-  public static var albumName: Swift.String?
+  public static var albumName: Swift.String? {
+    get
+    set
+  }
   public static var hostURL: Foundation.URL?
   public static var license: TTSDK.TTLicense?
   public static var accessToken: Swift.String? {
