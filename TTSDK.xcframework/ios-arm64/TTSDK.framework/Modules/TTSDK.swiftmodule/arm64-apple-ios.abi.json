@@ -14155,70 +14155,70 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 795,
       "length": 8,
       "value": "\"diagId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 801,
+      "offset": 826,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 831,
+      "offset": 856,
       "length": 7,
       "value": "\"petId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 972,
+      "offset": 997,
       "length": 10,
       "value": "\"recordId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 770,
+      "offset": 795,
       "length": 8,
       "value": "\"diagId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 801,
+      "offset": 826,
       "length": 8,
       "value": "\"userId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 831,
+      "offset": 856,
       "length": 7,
       "value": "\"petId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 972,
+      "offset": 997,
       "length": 10,
       "value": "\"recordId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 1819,
+      "offset": 1844,
       "length": 8,
       "value": "\"diagId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 1819,
+      "offset": 1844,
       "length": 8,
       "value": "\"diagId\""
     },
@@ -14547,14 +14547,14 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 30538,
+      "offset": 30661,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 81274,
+      "offset": 81397,
       "length": 3,
       "value": "1.8"
     },
