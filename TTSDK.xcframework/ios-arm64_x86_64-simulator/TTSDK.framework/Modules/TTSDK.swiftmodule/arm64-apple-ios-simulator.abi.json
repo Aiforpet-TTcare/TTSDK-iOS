@@ -6783,7 +6783,9 @@
             "usr": "s:5TTSDK6TTDataV4fromACs7Decoder_p_tKcfc",
             "mangledName": "$s5TTSDK6TTDataV4fromACs7Decoder_p_tKcfc",
             "moduleName": "TTSDK",
-            "implicit": true,
+            "declAttributes": [
+              "AccessControl"
+            ],
             "throwing": true,
             "init_kind": "Designated"
           },
@@ -6808,7 +6810,10 @@
             "usr": "s:5TTSDK6TTDataV6encode2toys7Encoder_p_tKF",
             "mangledName": "$s5TTSDK6TTDataV6encode2toys7Encoder_p_tKF",
             "moduleName": "TTSDK",
-            "implicit": true,
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
             "throwing": true,
             "funcSelfKind": "NonMutating"
           }
@@ -10084,27 +10089,27 @@
           },
           {
             "kind": "Var",
-            "name": "result",
-            "printedName": "result",
+            "name": "diagID",
+            "printedName": "diagID",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "TTSDK.TTResult?",
+                "printedName": "Swift.Int?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "TTResult",
-                    "printedName": "TTSDK.TTResult",
-                    "usr": "s:5TTSDK8TTResultV"
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
                   }
                 ],
                 "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvp",
-            "mangledName": "$s5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvp",
+            "usr": "s:5TTSDK23TTResultViewCotrollableP6diagIDSiSgvp",
+            "mangledName": "$s5TTSDK23TTResultViewCotrollableP6diagIDSiSgvp",
             "moduleName": "TTSDK",
             "protocolReq": true,
             "accessors": [
@@ -10116,21 +10121,21 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "TTSDK.TTResult?",
+                    "printedName": "Swift.Int?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "TTResult",
-                        "printedName": "TTSDK.TTResult",
-                        "usr": "s:5TTSDK8TTResultV"
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvg",
-                "mangledName": "$s5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvg",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP6diagIDSiSgvg",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP6diagIDSiSgvg",
                 "moduleName": "TTSDK",
                 "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
                 "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
@@ -10151,21 +10156,21 @@
                   {
                     "kind": "TypeNominal",
                     "name": "Optional",
-                    "printedName": "TTSDK.TTResult?",
+                    "printedName": "Swift.Int?",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "TTResult",
-                        "printedName": "TTSDK.TTResult",
-                        "usr": "s:5TTSDK8TTResultV"
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
                       }
                     ],
                     "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvs",
-                "mangledName": "$s5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvs",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP6diagIDSiSgvs",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP6diagIDSiSgvs",
                 "moduleName": "TTSDK",
                 "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
                 "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
@@ -10185,8 +10190,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvM",
-                "mangledName": "$s5TTSDK23TTResultViewCotrollableP6resultAA0B0VSgvM",
+                "usr": "s:5TTSDK23TTResultViewCotrollableP6diagIDSiSgvM",
+                "mangledName": "$s5TTSDK23TTResultViewCotrollableP6diagIDSiSgvM",
                 "moduleName": "TTSDK",
                 "genericSig": "<τ_0_0 where τ_0_0 : TTSDK.TTResultViewCotrollable>",
                 "sugared_genericSig": "<Self where Self : TTSDK.TTResultViewCotrollable>",
@@ -13154,28 +13159,28 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 44444,
+      "offset": 44463,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 45065,
+      "offset": 45084,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 52597,
+      "offset": 52616,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 52638,
+      "offset": 52657,
       "length": 5,
       "value": "false"
     },
@@ -14211,14 +14216,14 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 1844,
+      "offset": 1909,
       "length": 8,
       "value": "\"diagId\""
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Model\/TTResult.swift",
       "kind": "StringLiteral",
-      "offset": 1844,
+      "offset": 1909,
       "length": 8,
       "value": "\"diagId\""
     },

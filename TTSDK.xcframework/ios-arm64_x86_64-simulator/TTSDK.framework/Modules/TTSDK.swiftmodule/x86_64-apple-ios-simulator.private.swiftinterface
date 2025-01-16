@@ -178,8 +178,8 @@ public struct TTResult : Swift.Codable {
 }
 public struct TTData : Swift.Codable {
   public var diagID: Swift.Int?
-  public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
+  public func encode(to encoder: any Swift.Encoder) throws
 }
 public enum TTPositionCode : Swift.String, Swift.Codable {
   case eyeRight
@@ -234,7 +234,7 @@ public typealias TTResultCompletion = (Swift.Int?) -> any TTSDK.TTResultViewCotr
 public protocol TTResultViewCotrollable : UIKit.UIViewController {
   var backCompletaion: (() -> Swift.Void)? { get set }
   var closeCompletaion: (() -> Swift.Void)? { get set }
-  var result: TTSDK.TTResult? { get set }
+  var diagID: Swift.Int? { get set }
   func close()
   func back()
 }
