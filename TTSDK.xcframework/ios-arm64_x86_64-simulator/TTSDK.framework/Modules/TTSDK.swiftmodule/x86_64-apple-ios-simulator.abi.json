@@ -3980,6 +3980,118 @@
             "funcSelfKind": "NonMutating"
           },
           {
+            "kind": "Function",
+            "name": "setYoutube",
+            "printedName": "setYoutube(hander:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Swift.String?) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String?) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.String?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK9TTManagerC10setYoutube6handeryySSSgcSg_tFZ",
+            "mangledName": "$s5TTSDK9TTManagerC10setYoutube6handeryySSSgcSg_tFZ",
+            "moduleName": "TTSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setAction",
+            "printedName": "setAction(hander:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "((Swift.String?) -> ())?",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(Swift.String?) -> ()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Void",
+                        "printedName": "()"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.String?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "String",
+                            "printedName": "Swift.String",
+                            "usr": "s:SS"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:5TTSDK9TTManagerC9setAction6handeryySSSgcSg_tFZ",
+            "mangledName": "$s5TTSDK9TTManagerC9setAction6handeryySSSgcSg_tFZ",
+            "moduleName": "TTSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
             "kind": "Var",
             "name": "youtubeHander",
             "printedName": "youtubeHander",
@@ -4020,13 +4132,11 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:5TTSDK9TTManagerC13youtubeHanderySSSgcSgvpZ",
-            "mangledName": "$s5TTSDK9TTManagerC13youtubeHanderySSSgcSgvpZ",
+            "usr": "s:5TTSDK9TTManagerC13youtubeHanderySSSgcSgvp",
+            "mangledName": "$s5TTSDK9TTManagerC13youtubeHanderySSSgcSgvp",
             "moduleName": "TTSDK",
-            "static": true,
             "declAttributes": [
               "HasInitialValue",
-              "Final",
               "HasStorage",
               "AccessControl"
             ],
@@ -4073,14 +4183,10 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:5TTSDK9TTManagerC13youtubeHanderySSSgcSgvgZ",
-                "mangledName": "$s5TTSDK9TTManagerC13youtubeHanderySSSgcSgvgZ",
+                "usr": "s:5TTSDK9TTManagerC13youtubeHanderySSSgcSgvg",
+                "mangledName": "$s5TTSDK9TTManagerC13youtubeHanderySSSgcSgvg",
                 "moduleName": "TTSDK",
-                "static": true,
                 "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
                 "accessorKind": "get"
               },
               {
@@ -4129,14 +4235,10 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:5TTSDK9TTManagerC13youtubeHanderySSSgcSgvsZ",
-                "mangledName": "$s5TTSDK9TTManagerC13youtubeHanderySSSgcSgvsZ",
+                "usr": "s:5TTSDK9TTManagerC13youtubeHanderySSSgcSgvs",
+                "mangledName": "$s5TTSDK9TTManagerC13youtubeHanderySSSgcSgvs",
                 "moduleName": "TTSDK",
-                "static": true,
                 "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
                 "accessorKind": "set"
               },
               {
@@ -4151,14 +4253,10 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:5TTSDK9TTManagerC13youtubeHanderySSSgcSgvMZ",
-                "mangledName": "$s5TTSDK9TTManagerC13youtubeHanderySSSgcSgvMZ",
+                "usr": "s:5TTSDK9TTManagerC13youtubeHanderySSSgcSgvM",
+                "mangledName": "$s5TTSDK9TTManagerC13youtubeHanderySSSgcSgvM",
                 "moduleName": "TTSDK",
-                "static": true,
                 "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
                 "accessorKind": "_modify"
               }
             ]
@@ -4204,13 +4302,11 @@
               }
             ],
             "declKind": "Var",
-            "usr": "s:5TTSDK9TTManagerC12actionHanderySSSgcSgvpZ",
-            "mangledName": "$s5TTSDK9TTManagerC12actionHanderySSSgcSgvpZ",
+            "usr": "s:5TTSDK9TTManagerC12actionHanderySSSgcSgvp",
+            "mangledName": "$s5TTSDK9TTManagerC12actionHanderySSSgcSgvp",
             "moduleName": "TTSDK",
-            "static": true,
             "declAttributes": [
               "HasInitialValue",
-              "Final",
               "HasStorage",
               "AccessControl"
             ],
@@ -4257,14 +4353,10 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:5TTSDK9TTManagerC12actionHanderySSSgcSgvgZ",
-                "mangledName": "$s5TTSDK9TTManagerC12actionHanderySSSgcSgvgZ",
+                "usr": "s:5TTSDK9TTManagerC12actionHanderySSSgcSgvg",
+                "mangledName": "$s5TTSDK9TTManagerC12actionHanderySSSgcSgvg",
                 "moduleName": "TTSDK",
-                "static": true,
                 "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
                 "accessorKind": "get"
               },
               {
@@ -4313,14 +4405,10 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:5TTSDK9TTManagerC12actionHanderySSSgcSgvsZ",
-                "mangledName": "$s5TTSDK9TTManagerC12actionHanderySSSgcSgvsZ",
+                "usr": "s:5TTSDK9TTManagerC12actionHanderySSSgcSgvs",
+                "mangledName": "$s5TTSDK9TTManagerC12actionHanderySSSgcSgvs",
                 "moduleName": "TTSDK",
-                "static": true,
                 "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
                 "accessorKind": "set"
               },
               {
@@ -4335,14 +4423,10 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:5TTSDK9TTManagerC12actionHanderySSSgcSgvMZ",
-                "mangledName": "$s5TTSDK9TTManagerC12actionHanderySSSgcSgvMZ",
+                "usr": "s:5TTSDK9TTManagerC12actionHanderySSSgcSgvM",
+                "mangledName": "$s5TTSDK9TTManagerC12actionHanderySSSgcSgvM",
                 "moduleName": "TTSDK",
-                "static": true,
                 "implicit": true,
-                "declAttributes": [
-                  "Final"
-                ],
                 "accessorKind": "_modify"
               }
             ]
@@ -4513,7 +4597,7 @@
           {
             "kind": "Function",
             "name": "eye",
-            "printedName": "eye(petType:petId:petName:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:completion:)",
+            "printedName": "eye(petType:petId:petName:petImageUrl:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4525,6 +4609,21 @@
                 "name": "TTPetType",
                 "printedName": "TTSDK.TTPetType",
                 "usr": "s:5TTSDK9TTPetTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
@@ -4747,8 +4846,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC3eye7petType0D2Id0D4Name04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo8guideUrl11isFlashMode0P18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA7US3bSgAA08TTResultZ11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC3eye7petType0D2Id0D4Name04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo8guideUrl11isFlashMode0P18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA7US3bSgAA08TTResultZ11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC3eye7petType0D2Id0D4Name0D8ImageUrl04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo05guideI011isFlashMode0Q18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA8VS3bSgAA23TTResultViewCotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC3eye7petType0D2Id0D4Name0D8ImageUrl04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo05guideI011isFlashMode0Q18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA8VS3bSgAA23TTResultViewCotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -4761,7 +4860,7 @@
           {
             "kind": "Function",
             "name": "tooth",
-            "printedName": "tooth(petType:petId:petName:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:completion:)",
+            "printedName": "tooth(petType:petId:petName:petImageUrl:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4773,6 +4872,21 @@
                 "name": "TTPetType",
                 "printedName": "TTSDK.TTPetType",
                 "usr": "s:5TTSDK9TTPetTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
@@ -4995,8 +5109,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC5tooth7petType0D2Id0D4Name04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo8guideUrl11isFlashMode0P18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA7US3bSgAA08TTResultZ11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC5tooth7petType0D2Id0D4Name04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo8guideUrl11isFlashMode0P18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA7US3bSgAA08TTResultZ11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC5tooth7petType0D2Id0D4Name0D8ImageUrl04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo05guideI011isFlashMode0Q18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA8VS3bSgAA23TTResultViewCotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC5tooth7petType0D2Id0D4Name0D8ImageUrl04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo05guideI011isFlashMode0Q18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA8VS3bSgAA23TTResultViewCotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -5009,7 +5123,7 @@
           {
             "kind": "Function",
             "name": "skin",
-            "printedName": "skin(petType:petId:petName:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:recordId:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:isMeasurableDistance:isCameraDistance:completion:)",
+            "printedName": "skin(petType:petId:petName:petImageUrl:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:recordId:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:isMeasurableDistance:isCameraDistance:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5021,6 +5135,21 @@
                 "name": "TTPetType",
                 "printedName": "TTSDK.TTPetType",
                 "usr": "s:5TTSDK9TTPetTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
@@ -5272,8 +5401,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC4skin7petType0D2Id0D4Name04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo06recordF08guideUrl11isFlashMode0Q18ContinuousShooting15showGovCertMark20resultViewController0Q18MeasurableDistance0Q14CameraDistance10completionyAA05TTPetE0O_SSSgA8XS3bSgAA23TTResultViewCotrollable_pSgS2byypSg_s5Error_pSgtcSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC4skin7petType0D2Id0D4Name04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo06recordF08guideUrl11isFlashMode0Q18ContinuousShooting15showGovCertMark20resultViewController0Q18MeasurableDistance0Q14CameraDistance10completionyAA05TTPetE0O_SSSgA8XS3bSgAA23TTResultViewCotrollable_pSgS2byypSg_s5Error_pSgtcSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC4skin7petType0D2Id0D4Name0D8ImageUrl04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo06recordF005guideI011isFlashMode0R18ContinuousShooting15showGovCertMark20resultViewController0R18MeasurableDistance0R14CameraDistance10completionyAA05TTPetE0O_SSSgA9YS3bSgAA23TTResultViewCotrollable_pSgS2byypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC4skin7petType0D2Id0D4Name0D8ImageUrl04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo06recordF005guideI011isFlashMode0R18ContinuousShooting15showGovCertMark20resultViewController0R18MeasurableDistance0R14CameraDistance10completionyAA05TTPetE0O_SSSgA9YS3bSgAA23TTResultViewCotrollable_pSgS2byypSg_s5Error_pSgtcSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -5286,7 +5415,7 @@
           {
             "kind": "Function",
             "name": "joint",
-            "printedName": "joint(petType:petId:petName:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:completion:)",
+            "printedName": "joint(petType:petId:petName:petImageUrl:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5298,6 +5427,21 @@
                 "name": "TTPetType",
                 "printedName": "TTSDK.TTPetType",
                 "usr": "s:5TTSDK9TTPetTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
@@ -5520,8 +5664,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC5joint7petType0D2Id0D4Name04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo8guideUrl11isFlashMode0P18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA7US3bSgAA08TTResultZ11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC5joint7petType0D2Id0D4Name04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo8guideUrl11isFlashMode0P18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA7US3bSgAA08TTResultZ11Cotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC5joint7petType0D2Id0D4Name0D8ImageUrl04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo05guideI011isFlashMode0Q18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA8VS3bSgAA23TTResultViewCotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC5joint7petType0D2Id0D4Name0D8ImageUrl04userF00D8Birthday0d5BreedG00D6Gender0D14AdditionalInfo05guideI011isFlashMode0Q18ContinuousShooting15showGovCertMark20resultViewController10completionyAA05TTPetE0O_SSSgA8VS3bSgAA23TTResultViewCotrollable_pSgyypSg_s5Error_pSgtcSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -5614,7 +5758,7 @@
           {
             "kind": "Function",
             "name": "showGuideFirst",
-            "printedName": "showGuideFirst(cameraType:petType:petId:petName:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:recordId:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:isMeasurableDistance:isCameraDistance:completion:)",
+            "printedName": "showGuideFirst(cameraType:petType:petId:petName:petImageUrl:userId:petBirthday:petBreedName:petGender:petAdditionalInfo:recordId:guideUrl:isFlashMode:isContinuousShooting:showGovCertMark:resultViewController:isMeasurableDistance:isCameraDistance:completion:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5632,6 +5776,21 @@
                 "name": "TTPetType",
                 "printedName": "TTSDK.TTPetType",
                 "usr": "s:5TTSDK9TTPetTypeO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeNominal",
@@ -5883,8 +6042,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:5TTSDK9TTManagerC14showGuideFirst10cameraType03petG00H2Id0H4Name04userI00H8Birthday0h5BreedJ00H6Gender0H14AdditionalInfo06recordI08guideUrl11isFlashMode0T18ContinuousShooting0C11GovCertMark20resultViewController0T18MeasurableDistance0T14CameraDistance10completionyAA08TTCameraG0O_AA05TTPetG0OSSSgA_A_A_A_A_A_A_A_S3bSgAA23TTResultViewCotrollable_pSgS2byypSg_s5Error_pSgtcSgtFZ",
-            "mangledName": "$s5TTSDK9TTManagerC14showGuideFirst10cameraType03petG00H2Id0H4Name04userI00H8Birthday0h5BreedJ00H6Gender0H14AdditionalInfo06recordI08guideUrl11isFlashMode0T18ContinuousShooting0C11GovCertMark20resultViewController0T18MeasurableDistance0T14CameraDistance10completionyAA08TTCameraG0O_AA05TTPetG0OSSSgA_A_A_A_A_A_A_A_S3bSgAA23TTResultViewCotrollable_pSgS2byypSg_s5Error_pSgtcSgtFZ",
+            "usr": "s:5TTSDK9TTManagerC14showGuideFirst10cameraType03petG00H2Id0H4Name0H8ImageUrl04userI00H8Birthday0h5BreedJ00H6Gender0H14AdditionalInfo06recordI005guideL011isFlashMode0U18ContinuousShooting0C11GovCertMark20resultViewController0U18MeasurableDistance0U14CameraDistance10completionyAA08TTCameraG0O_AA05TTPetG0OSSSgA0_A0_A0_A0_A0_A0_A0_A0_A0_S3bSgAA23TTResultViewCotrollable_pSgS2byypSg_s5Error_pSgtcSgtFZ",
+            "mangledName": "$s5TTSDK9TTManagerC14showGuideFirst10cameraType03petG00H2Id0H4Name0H8ImageUrl04userI00H8Birthday0h5BreedJ00H6Gender0H14AdditionalInfo06recordI005guideL011isFlashMode0U18ContinuousShooting0C11GovCertMark20resultViewController0U18MeasurableDistance0U14CameraDistance10completionyAA08TTCameraG0O_AA05TTPetG0OSSSgA0_A0_A0_A0_A0_A0_A0_A0_A0_S3bSgAA23TTResultViewCotrollable_pSgS2byypSg_s5Error_pSgtcSgtFZ",
             "moduleName": "TTSDK",
             "static": true,
             "declAttributes": [
@@ -13010,6 +13169,20 @@
       "value": "\"일시적인 문제가 발생하였습니다. 다시 시도하세요.\""
     },
     {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTNetworkManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 376,
+      "length": 4,
+      "value": "60.0"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTNetworkManager.swift",
+      "kind": "FloatLiteral",
+      "offset": 383,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/Etc\/TTProgressViewModel.swift",
       "kind": "FloatLiteral",
       "offset": 177,
@@ -13159,28 +13332,28 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 44463,
+      "offset": 45789,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 45084,
+      "offset": 46410,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 52616,
+      "offset": 53978,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 52657,
+      "offset": 54019,
       "length": 5,
       "value": "false"
     },
@@ -13565,105 +13738,105 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7096,
+      "offset": 7330,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7892,
+      "offset": 8181,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7955,
+      "offset": 8244,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 9521,
+      "offset": 9905,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 9586,
+      "offset": 9970,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11205,
+      "offset": 11683,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11269,
+      "offset": 11747,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11473,
+      "offset": 11951,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11533,
+      "offset": 12011,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 13100,
+      "offset": 13673,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 13165,
+      "offset": 13738,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 15325,
+      "offset": 16002,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 15399,
+      "offset": 16076,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 15633,
+      "offset": 16310,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 15703,
+      "offset": 16380,
       "length": 5,
       "value": "false"
     },
@@ -14531,14 +14704,14 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3399,
+      "offset": 3428,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 3429,
+      "offset": 3458,
       "length": 5,
       "value": "false"
     },
@@ -14552,14 +14725,14 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 30661,
+      "offset": 30690,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 81397,
+      "offset": 81435,
       "length": 3,
       "value": "1.8"
     },

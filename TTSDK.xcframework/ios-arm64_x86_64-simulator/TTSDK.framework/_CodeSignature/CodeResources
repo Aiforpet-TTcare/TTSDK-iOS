@@ -70,7 +70,7 @@
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		tbHSUVv95aolYi0Qije8N9emxp0=
+		rk/LDajCkmik/dwlzgM4A3hV9cw=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/Z8m-Ar-hXt-view-GfL-fv-YbU.nib</key>
 		<data>
@@ -530,11 +530,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Ojh3Nn4ZzO0ASel3q5zsepkykZ0=
+		nLL2yP+D22IdEJSuAuKAKg6rs4U=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		oFMvdhSbvyWpXMzK9fUptKJdnno=
+		GEaFnbvpAb6ZFyZOre/OJOf/vNQ=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -542,19 +542,19 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		oFMvdhSbvyWpXMzK9fUptKJdnno=
+		GEaFnbvpAb6ZFyZOre/OJOf/vNQ=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		DQdXgLWxU3ey5la1ZHfqDIUSuh8=
+		9ydiONqLk6XEvri0wDZBWN4UdlI=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Ojh3Nn4ZzO0ASel3q5zsepkykZ0=
+		nLL2yP+D22IdEJSuAuKAKg6rs4U=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		MjH8WRzvv+NToSjYFscnIa7+WlE=
+		toYyQ8XIYcDp/F3NoRj+xkRqjZk=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -562,11 +562,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		MjH8WRzvv+NToSjYFscnIa7+WlE=
+		toYyQ8XIYcDp/F3NoRj+xkRqjZk=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NxL0oJsaSfJfaW1L0O2ZvdJelsc=
+		48PrkpZBMya19AHZvCvYm397RDM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -830,7 +830,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EcLeKYAE+HtruCygEi9L5thc6i0H2PfNA02bliyzvX4=
+			MBrpi7uayMMF+uREBS6SvyTVfmp3A2LskDVIe5Ecfl4=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/Z8m-Ar-hXt-view-GfL-fv-YbU.nib</key>
@@ -1628,14 +1628,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KCjq8uE16Ol4TNbyTy/Eehf4mRyH3Zk+2M5MvYt8r/M=
+			MhaoBlUc3y77LTV/ywdb3RAYd+RtvR8xCUGKS3OT8q8=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2VFDay4DxNa8/UFWW8D4zqcWYKjNl0+SMMqBQtCMV8=
+			JXgmJGTioEauARssO9UYypRVVsl3rfP2b5XFcDry/MQ=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1649,28 +1649,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v2VFDay4DxNa8/UFWW8D4zqcWYKjNl0+SMMqBQtCMV8=
+			JXgmJGTioEauARssO9UYypRVVsl3rfP2b5XFcDry/MQ=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			80D393tg6ZJE6xggTEhnx4UhrQ2UPLwp+pbkDMIbV1c=
+			mTHEu9mMQ9lUdl7IdFKA/U0GvHep+A1bqlVJgoIQ6Zk=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KCjq8uE16Ol4TNbyTy/Eehf4mRyH3Zk+2M5MvYt8r/M=
+			MhaoBlUc3y77LTV/ywdb3RAYd+RtvR8xCUGKS3OT8q8=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cVfNUleWu+ipEdYAdcwRJ0KdEnWsdVMPVcnh49mOJdc=
+			73WxEGICCCDpNZfIc3fcwyPhdBJN4S1knK4DbhubcP8=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1684,14 +1684,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cVfNUleWu+ipEdYAdcwRJ0KdEnWsdVMPVcnh49mOJdc=
+			73WxEGICCCDpNZfIc3fcwyPhdBJN4S1knK4DbhubcP8=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u8SbAxMdzF9UgrsfXWniF+VfP+m3Uo2XANjhdB/EmFo=
+			JTwuKYS1n/CI9j+H7JxAAtXzJkEWfaWjYMUibIYpj7M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
