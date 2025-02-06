@@ -530,11 +530,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		38OSOu7gUM4CZxhSM6hm2+Es7As=
+		OV0OwPwdfRBxAnVHviZOVrnvKEM=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		NfyLkDutblOa/huHVI/XTcaSMpY=
+		P8VXh+SHKK+vf23lZZa8DLdFZRU=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -542,11 +542,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		NfyLkDutblOa/huHVI/XTcaSMpY=
+		P8VXh+SHKK+vf23lZZa8DLdFZRU=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		bAPTgv/78/cbM5X28eWbUUYE4Ss=
+		HINmYaGCFUFbfestnm03EnoWRiQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -560,7 +560,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5+KZ+E/3gOew1kx1aX/5CXZxJqA=
+			4wb7xhOwCAtNRETAsmhJCfedWF8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -605,7 +605,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			H4Ehp+lrfssaBoyjTzclcnixlFs=
+			kw0DBJYfzUZQS0+PfFVBB9xjaGI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -650,7 +650,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gQZmIV9aUmzDdowPnHk8D7CpCvQ=
+			kxkIXuKbDY4gf+cZE2yDm29RhEM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1608,14 +1608,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eOiU0GqJy0dood6gtwDa3hv5+c72uy9KwM9Wcji9rZw=
+			KpnOD3kTaKTq+gSQRoE/TUi8d9c8k3R9WeGyG3i5Ygk=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GpAYSfzLBixHGVB8vtTOcNpBebevJdW1VsF1Asslzy4=
+			n61d+awwHvkOrZmXM9p5GMzDJGTeMhYHH0fbTtfMQ34=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -1629,14 +1629,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GpAYSfzLBixHGVB8vtTOcNpBebevJdW1VsF1Asslzy4=
+			n61d+awwHvkOrZmXM9p5GMzDJGTeMhYHH0fbTtfMQ34=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWIhXT60ivaqT6OC9KPDlMp5FQ0EjZcZNyJPXzsj0HA=
+			9Cq4Q1bgbJSk1HF2x109sD5zwSZO9YtFSUp+kpQ+eC4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1657,7 +1657,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S0wbtgdm3hkPqwJMNGa6cZPl963eve736yH976NsIvo=
+			PQIUDXG81uh4J4iUVAlXE72r7N1uNEmQHaBQ/qeMGQ8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1702,7 +1702,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sJzBuaLUW7wzukVlq3uiml4mgL4yF6fNKVaMRBeXN2w=
+			GlRRRFxNFsrqGfSSTl8B+ajjFEwI7wJsnXkHgmI03QA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1747,7 +1747,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/MRvhoDiG6+sfjdt8QF70d14sI2kWNXDTDhLrLiepa8=
+			H2IBqppyqaIom2HO/e6HgbfvFpBFp2HuZzeLaXuIv7U=
 			</data>
 			<key>optional</key>
 			<true/>

@@ -119,6 +119,7 @@ public enum TTCameraType : Swift.CaseIterable {
     get
     set
   }
+  public static var isSkinRetry: Swift.Bool
   public static var hostURL: Foundation.URL?
   public static var license: TTSDK.TTLicense?
   public static var accessToken: Swift.String? {
