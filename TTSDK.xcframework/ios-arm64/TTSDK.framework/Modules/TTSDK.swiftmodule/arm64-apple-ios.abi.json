@@ -12483,273 +12483,147 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 305,
+      "offset": 347,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 500,
+      "offset": 542,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 532,
+      "offset": 574,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 965,
+      "offset": 979,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1061,
+      "offset": 1075,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1111,
+      "offset": 1125,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 1134,
+      "offset": 1148,
       "length": 3,
       "value": "600"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 1289,
+      "offset": 1303,
       "length": 3,
       "value": "0.3"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2061,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "Array",
-      "offset": 1752,
+      "offset": 2207,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1875,
+      "offset": 2963,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2633,
+      "offset": 3000,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2670,
+      "offset": 3024,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 2694,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3003,
+      "offset": 3210,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3115,
+      "offset": 3567,
       "length": 4,
       "value": "1920"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "IntegerLiteral",
-      "offset": 3155,
+      "offset": 3607,
       "length": 4,
       "value": "1080"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6119,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 6168,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6340,
-      "length": 40,
-      "value": "\"* isAutoFocusRangeRestrictionSupported\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6513,
-      "length": 43,
-      "value": "\"* Fail AutoFocusRangeRestrictionSupported\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6761,
-      "length": 23,
-      "value": "\"* continuousAutoFocus\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 6954,
-      "length": 13,
-      "value": "\"* autoFocus\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7030,
-      "length": 18,
-      "value": "\"* Fail autoFocus\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7173,
-      "length": 35,
-      "value": "\"* isFocusPointOfInterestSupported\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 7280,
-      "length": 3,
-      "value": "0.5"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "FloatLiteral",
-      "offset": 7288,
-      "length": 3,
-      "value": "0.5"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7354,
-      "length": 38,
-      "value": "\"* Fail FocusPointOfInterestSupported\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7444,
-      "length": 104,
-      "value": "\"* zoomFactor = \""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7473,
-      "length": 1,
-      "value": "\"[\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7520,
-      "length": 1,
-      "value": "\"][\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7546,
-      "length": 1,
-      "value": "\"]\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7625,
-      "length": 39,
-      "value": "\"Error locking configuration: \""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "StringLiteral",
-      "offset": 7663,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7914,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11126,
+      "offset": 6639,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 16956,
+      "offset": 12489,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 16969,
+      "offset": 12502,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "FloatLiteral",
-      "offset": 17907,
+      "offset": 13440,
       "length": 3,
       "value": "2.0"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Manager\/TTCameraManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 19783,
+      "offset": 15329,
       "length": 5,
       "value": "false"
     },
@@ -14856,7 +14730,7 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/View\/TTCameraViewModel.swift",
       "kind": "FloatLiteral",
-      "offset": 81295,
+      "offset": 81613,
       "length": 3,
       "value": "1.8"
     },
