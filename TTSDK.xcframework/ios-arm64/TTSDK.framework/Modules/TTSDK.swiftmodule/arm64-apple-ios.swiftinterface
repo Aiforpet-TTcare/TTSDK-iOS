@@ -190,6 +190,9 @@ public enum TTPetType : Swift.String, Swift.Hashable, Swift.Codable, Swift.CaseI
     set
   }
   #endif
+  @objc deinit
+}
+extension TTSDK.TTManager {
   #if compiler(>=5.3) && $NonescapableTypes
   public static func guideURLString(petType: TTSDK.PetType, partType: TTSDK.PartType) -> Swift.String?
   #endif
@@ -209,7 +212,6 @@ public enum TTPetType : Swift.String, Swift.Hashable, Swift.Codable, Swift.CaseI
   public static func showGuideFirst(cameraType: TTSDK.TTCameraType, petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, petImageUrl: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, isFlashMode: Swift.Bool = false, isContinuousShooting: Swift.Bool = false, showGovCertMark: Swift.Bool? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, isMeasurableDistance: Swift.Bool = false, isCameraDistance: Swift.Bool = false, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   #endif
   public static func clearUserDefaults()
-  @objc deinit
 }
 public protocol TTAnalysisTracker {
   func trackEvent(eventName: Swift.String, properties: [Swift.String : Swift.String])
@@ -474,6 +476,7 @@ public enum ModelLibType {
   #endif
   @objc deinit
 }
+@available(iOS 13.0, *)
 extension TTSDK.AIScanManager {
   public static func clearUserData()
 }
@@ -536,14 +539,12 @@ extension Foundation.URLSession {
   public func data(for request: Foundation.URLRequest) -> TTSDK.TTPromise<(Foundation.Data, Foundation.URLResponse)>
   public func data(from url: Foundation.URL) -> TTSDK.TTPromise<(Foundation.Data, Foundation.URLResponse)>
 }
-@available(iOS 13.0, *)
 public protocol TTPopupEntry : AnyObject {
   var viewForPopup: UIKit.UIView { get }
   #if compiler(>=5.3) && $NonescapableTypes
   var completion: (() -> Swift.Void)? { get }
   #endif
 }
-@available(iOS 13.0, *)
 extension UIKit.UIView : TTSDK.TTPopupEntry {
   @_Concurrency.MainActor @preconcurrency public var viewForPopup: UIKit.UIView {
     get
@@ -564,7 +565,8 @@ public enum TTPopupPosition {
     get
   }
 }
-final public class TTPopupManager {
+@available(iOS 13.0, *)
+public class TTPopupManager {
   public static var shared: TTSDK.TTPopupManager {
     get
     set
@@ -572,14 +574,10 @@ final public class TTPopupManager {
   public static func reset()
   public init()
   @objc deinit
-  @available(iOS 13.0, *)
-  final public func display(entry: any TTSDK.TTPopupEntry, using attributes: TTSDK.TTPopupAttributes)
   #if compiler(>=5.3) && $NonescapableTypes
-  @available(iOS 13.0, *)
-  final public func display(entry: any TTSDK.TTPopupEntry, using attributes: TTSDK.TTPopupAttributes, in scene: UIKit.UIWindowScene?)
+  public func display(entry: any TTSDK.TTPopupEntry, using attributes: TTSDK.TTPopupAttributes, in scene: UIKit.UIWindowScene? = nil)
   #endif
-  @available(iOS 13.0, *)
-  final public func dismiss(entry: any TTSDK.TTPopupEntry, animate: Swift.Bool = true)
+  public func dismiss(entry: any TTSDK.TTPopupEntry, animate: Swift.Bool = true)
 }
 extension CoreVideo.CVBuffer : @unchecked @retroactive Swift.Sendable {
 }
@@ -605,8 +603,7 @@ public struct TTPopupAttributes {
     get
   }
 }
-@objc @_inheritsConvenienceInitializers @available(iOS 13.0, *)
-@_Concurrency.MainActor @preconcurrency public class TTGalleryViewController : UIKit.UIViewController, UIKit.UIScrollViewDelegate, UIKit.UICollectionViewDelegate, UIKit.UICollectionViewDataSource, UIKit.UICollectionViewDelegateFlowLayout {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency public class TTGalleryViewController : UIKit.UIViewController, UIKit.UIScrollViewDelegate, UIKit.UICollectionViewDelegate, UIKit.UICollectionViewDataSource, UIKit.UICollectionViewDelegateFlowLayout {
   @_Concurrency.MainActor @preconcurrency @objc override dynamic public func viewDidLoad()
   @objc deinit
   @_Concurrency.MainActor @preconcurrency @objc public func collectionView(_ collectionView: UIKit.UICollectionView, numberOfItemsInSection section: Swift.Int) -> Swift.Int
@@ -621,8 +618,7 @@ public struct TTPopupAttributes {
   @_Concurrency.MainActor @preconcurrency @objc required dynamic public init?(coder: Foundation.NSCoder)
   #endif
 }
-@objc @_inheritsConvenienceInitializers @available(iOS 13.0, *)
-@_Concurrency.MainActor @preconcurrency public class TTPopupContentsViewController : UIKit.UIViewController, TTSDK.TTPopupEntry {
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor @preconcurrency public class TTPopupContentsViewController : UIKit.UIViewController, TTSDK.TTPopupEntry {
   @_Concurrency.MainActor @preconcurrency public var viewForPopup: UIKit.UIView {
     get
   }
