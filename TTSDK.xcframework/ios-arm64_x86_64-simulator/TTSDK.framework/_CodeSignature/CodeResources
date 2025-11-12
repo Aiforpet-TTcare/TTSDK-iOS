@@ -10,7 +10,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		kZCEUsNn2QZXv5maRMoz54VmhdI=
+		ha9BTBi4O+YWsxSnNvLIFN5X/ZQ=
 		</data>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib/objects-13.0+.nib</key>
 		<data>
@@ -446,15 +446,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BSDfnbs8vCJV2MEFG9FyXBQ2nN8=
+		D5Wk46pqOZF/1MZbz8VnDZ7UYA0=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		12WJzuID/GHrmcOiV0S3uhY/urc=
+		55THuUBjGN7ECdQDHSfY9fojmho=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		LDEZngmHDS2EvJ/PRuks1gFlu5Y=
+		hR3cYMoHLP4a+8aEnYmjkvAaUWc=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -462,19 +462,19 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		LDEZngmHDS2EvJ/PRuks1gFlu5Y=
+		hR3cYMoHLP4a+8aEnYmjkvAaUWc=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZV793rmGAwNsWt/IzYYA3chPy14=
+		QUkef42h5Ip3K/z5pCQ0ioxQ88s=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		12WJzuID/GHrmcOiV0S3uhY/urc=
+		55THuUBjGN7ECdQDHSfY9fojmho=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		aTd2y1HIYQFfSNOqE9Dygw2fZAI=
+		zZbDAz2jGJr57bfI6+lSYsN5Zz8=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -482,11 +482,11 @@
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		aTd2y1HIYQFfSNOqE9Dygw2fZAI=
+		zZbDAz2jGJr57bfI6+lSYsN5Zz8=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0Xv41bX5XdLPVrdviZqOfCNQwWY=
+		1LHBqNpUWcLPoBLRtSdteJN8VPs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -498,7 +498,7 @@
 		</data>
 		<key>TensorFlowLite.bundle/Info.plist</key>
 		<data>
-		GLZCMC/+nXfte9EBDFqPdzGpY10=
+		S7B3+Gwssgyrn/c1x/0SUkXp5mM=
 		</data>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -506,7 +506,7 @@
 		</data>
 		<key>TensorFlowLiteC.bundle/Info.plist</key>
 		<data>
-		8IH6thydzhDBqusuMeqCQWFXnno=
+		rbbx5MGcPGmioB9VZYK4gwfF6K8=
 		</data>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -638,7 +638,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6IDQgP1q3Aa4l2/IlMHirSst79mv2C7VktlWnPJBDjM=
+			Sx3tg+iykRmNcqsdG90RaSRx/skZDvsJomFiJDYhMhc=
 			</data>
 		</dict>
 		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib/objects-13.0+.nib</key>
@@ -1401,14 +1401,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ec4XgRDDEof6VQPs3FpwhlQwf3r8bdmBgm7/U6Jh+1I=
+			7elZ6tqMtu3kI0kcODcUuxmTFBt0QM0s0jPjuMLY/CU=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uMcpiG61w5rHBTb15zFn5W8RJCfy3h77Oci4uF+guO4=
+			aiOymY0Ob1ZcbFxkG25qIjSZM2strGbN1LRvZW8WTMc=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -1422,28 +1422,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uMcpiG61w5rHBTb15zFn5W8RJCfy3h77Oci4uF+guO4=
+			aiOymY0Ob1ZcbFxkG25qIjSZM2strGbN1LRvZW8WTMc=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			S6/S/0/nv+X87jFiZB7mARL+JWzmYP3OUTXWGHnhq7I=
+			09ofR8qHcelS1FoaYCNGJnwZ3M0nsRHoE8iLaA6LbZU=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ec4XgRDDEof6VQPs3FpwhlQwf3r8bdmBgm7/U6Jh+1I=
+			7elZ6tqMtu3kI0kcODcUuxmTFBt0QM0s0jPjuMLY/CU=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1udNPaEGdEHb1GDzue5Ci5i0RUlIIJx8Mrpkk9ISEeg=
+			gvvSANJJzcPL1p2pAWC1MBrd3wb8cpVMgPg3kS7ERYY=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -1457,14 +1457,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1udNPaEGdEHb1GDzue5Ci5i0RUlIIJx8Mrpkk9ISEeg=
+			gvvSANJJzcPL1p2pAWC1MBrd3wb8cpVMgPg3kS7ERYY=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WEWqaV1JSvCdPcuur6vJuus8CP2GxR1aHCpumnBycTo=
+			VMvRqpDBv8cnd0P5s2XholXZdNu8Vp/tGNJFugZufh8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1485,7 +1485,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DvDyiLnSOm8w5jyd2cSfUh6zfwymPleCdEDj9qq4mlc=
+			jNWCxDzTtxYuqLudLKvYflu9sGXnly4QvpZtiZWs5iI=
 			</data>
 		</dict>
 		<key>TensorFlowLite.bundle/PrivacyInfo.xcprivacy</key>
@@ -1499,7 +1499,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XTsMEzmrrZylJ2Wok0oxSg9tm+cqsT2DUgCm9FHfOTA=
+			1TrUNps6d8IBoRC1mEb7B1WvWBEw9Yap1qEp1kNNBjQ=
 			</data>
 		</dict>
 		<key>TensorFlowLiteC.bundle/PrivacyInfo.xcprivacy</key>

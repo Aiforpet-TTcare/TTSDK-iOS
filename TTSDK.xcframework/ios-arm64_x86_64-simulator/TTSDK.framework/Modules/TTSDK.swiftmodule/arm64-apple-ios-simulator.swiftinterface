@@ -190,9 +190,6 @@ public enum TTPetType : Swift.String, Swift.Hashable, Swift.Codable, Swift.CaseI
     set
   }
   #endif
-  @objc deinit
-}
-extension TTSDK.TTManager {
   #if compiler(>=5.3) && $NonescapableTypes
   public static func guideURLString(petType: TTSDK.PetType, partType: TTSDK.PartType) -> Swift.String?
   #endif
@@ -212,6 +209,7 @@ extension TTSDK.TTManager {
   public static func showGuideFirst(cameraType: TTSDK.TTCameraType, petType: TTSDK.TTPetType, petId: Swift.String? = nil, petName: Swift.String? = nil, petImageUrl: Swift.String? = nil, userId: Swift.String? = nil, petBirthday: Swift.String? = nil, petBreedName: Swift.String? = nil, petGender: Swift.String? = nil, petAdditionalInfo: Swift.String? = nil, recordId: Swift.String? = nil, guideUrl: Swift.String? = nil, isFlashMode: Swift.Bool = false, isContinuousShooting: Swift.Bool = false, showGovCertMark: Swift.Bool? = nil, resultViewController: (any TTSDK.TTResultViewCotrollable)? = nil, isMeasurableDistance: Swift.Bool = false, isCameraDistance: Swift.Bool = false, completion: ((Any?, (any Swift.Error)?) -> Swift.Void)? = nil)
   #endif
   public static func clearUserDefaults()
+  @objc deinit
 }
 public protocol TTAnalysisTracker {
   func trackEvent(eventName: Swift.String, properties: [Swift.String : Swift.String])

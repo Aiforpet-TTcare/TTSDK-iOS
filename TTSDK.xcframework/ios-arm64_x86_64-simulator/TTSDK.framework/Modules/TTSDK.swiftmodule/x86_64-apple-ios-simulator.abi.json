@@ -4431,7 +4431,6 @@
               "Final",
               "AccessControl"
             ],
-            "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           },
           {
@@ -4694,7 +4693,6 @@
               "Final",
               "AccessControl"
             ],
-            "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           },
           {
@@ -4957,7 +4955,6 @@
               "Final",
               "AccessControl"
             ],
-            "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           },
           {
@@ -5249,7 +5246,6 @@
               "Final",
               "AccessControl"
             ],
-            "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           },
           {
@@ -5512,7 +5508,6 @@
               "Final",
               "AccessControl"
             ],
-            "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           },
           {
@@ -5810,7 +5805,6 @@
               "Final",
               "AccessControl"
             ],
-            "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           },
           {
@@ -5833,7 +5827,6 @@
               "Final",
               "AccessControl"
             ],
-            "isFromExtension": true,
             "funcSelfKind": "NonMutating"
           }
         ],
@@ -25432,98 +25425,98 @@
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3747,
+      "offset": 3722,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 3810,
+      "offset": 3785,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5579,
+      "offset": 5554,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 5644,
+      "offset": 5619,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7465,
+      "offset": 7440,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7529,
+      "offset": 7504,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7733,
+      "offset": 7708,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 7793,
+      "offset": 7768,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 9425,
+      "offset": 9400,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 9490,
+      "offset": 9465,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11458,
+      "offset": 11433,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11532,
+      "offset": 11507,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11766,
+      "offset": 11741,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kjaylee\/workspace\/Lib\/TTSDK\/TTSDK\/TTSDK\/Old Style\/TTManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 11836,
+      "offset": 11811,
       "length": 5,
       "value": "false"
     },
