@@ -193,6 +193,8 @@ public enum TTPetType : Swift.String, Swift.Hashable, Swift.Codable, Swift.CaseI
   @objc deinit
 }
 extension TTSDK.TTManager {
+  public static func checked(petType: TTSDK.PetType)
+  public static func checked(partType: TTSDK.PartType)
   #if compiler(>=5.3) && $NonescapableTypes
   public static func guideURLString(petType: TTSDK.PetType, partType: TTSDK.PartType) -> Swift.String?
   #endif
@@ -476,7 +478,6 @@ public enum ModelLibType {
   #endif
   @objc deinit
 }
-@available(iOS 13.0, *)
 extension TTSDK.AIScanManager {
   public static func clearUserData()
 }
