@@ -10,17 +10,29 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		Bto9yi4Xoq7a2kwgs5HVOhJIQNE=
+		eR3ehUS4C2utT0HLvS2eRZhNIwo=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib/objects-13.0+.nib</key>
 		<data>
 		dAt/ZfA8B3s4ksvxmjty5Rg1Hes=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/CameraJointViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib/runtime.nib</key>
+		<data>
+		dAt/ZfA8B3s4ksvxmjty5Rg1Hes=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/CameraJointViewController.nib/objects-13.0+.nib</key>
 		<data>
 		pLK9YsjjiS+ehj3V7cbSW8mV184=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/CameraViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/CameraJointViewController.nib/runtime.nib</key>
+		<data>
+		pLK9YsjjiS+ehj3V7cbSW8mV184=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/CameraViewController.nib/objects-13.0+.nib</key>
+		<data>
+		0BdEl+z9O6CNlYW41vfc9zK/LyU=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/CameraViewController.nib/runtime.nib</key>
 		<data>
 		0BdEl+z9O6CNlYW41vfc9zK/LyU=
 		</data>
@@ -28,67 +40,131 @@
 		<data>
 		uxwSVQQB3akndMNhmSAYQ6dRLhc=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/K46-eX-E2j-view-bqp-nX-IzZ.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/K46-eX-E2j-view-bqp-nX-IzZ.nib/objects-13.0+.nib</key>
 		<data>
 		uTgUq+mkSID+1hzjsaUlP55KyZs=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/K46-eX-E2j-view-bqp-nX-IzZ.nib/runtime.nib</key>
+		<data>
+		hboTf1qyBSVbs+JJ/0xGgftj6co=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib/objects-13.0+.nib</key>
 		<data>
 		bZn3nAFkk9NC53QrKbVgtei3AqM=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/PreviewGuideViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib/runtime.nib</key>
+		<data>
+		bZn3nAFkk9NC53QrKbVgtei3AqM=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/PreviewGuideViewController.nib/objects-13.0+.nib</key>
 		<data>
 		Oofem5HOprsnsiVZ7uT+bLplI2Y=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/PreviewJointGuideViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/PreviewGuideViewController.nib/runtime.nib</key>
+		<data>
+		Oofem5HOprsnsiVZ7uT+bLplI2Y=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/PreviewJointGuideViewController.nib/objects-13.0+.nib</key>
 		<data>
 		Wv/diw2qeOFs6uhFfqJEJefkDuM=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/PreviewJointGuideViewController.nib/runtime.nib</key>
+		<data>
+		Wv/diw2qeOFs6uhFfqJEJefkDuM=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib/objects-13.0+.nib</key>
 		<data>
 		KQ+WzAxk+WxnZXfEgqLLJjNW70Q=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/TTGuideJointLottieViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib/runtime.nib</key>
+		<data>
+		KQ+WzAxk+WxnZXfEgqLLJjNW70Q=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/TTGuideJointLottieViewController.nib/objects-13.0+.nib</key>
 		<data>
 		5QRLxgmtENozbZ0SRNGgGQc8ZKk=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/TTOverlayEyeViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTGuideJointLottieViewController.nib/runtime.nib</key>
+		<data>
+		5QRLxgmtENozbZ0SRNGgGQc8ZKk=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayEyeViewController.nib/objects-13.0+.nib</key>
 		<data>
 		dMLP8U/ZtkoRew6Ac1YMytVYT54=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/TTOverlayJointViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayEyeViewController.nib/runtime.nib</key>
+		<data>
+		dMLP8U/ZtkoRew6Ac1YMytVYT54=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayJointViewController.nib/objects-13.0+.nib</key>
 		<data>
 		4SMkvwmtnyCzvOAksd9bx9/wVyo=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/TTOverlaySkinViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayJointViewController.nib/runtime.nib</key>
+		<data>
+		4SMkvwmtnyCzvOAksd9bx9/wVyo=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlaySkinViewController.nib/objects-13.0+.nib</key>
 		<data>
 		T07jzCAgDgcYHq5M3gXOEPZ54+M=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/TTOverlayToothViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlaySkinViewController.nib/runtime.nib</key>
+		<data>
+		T07jzCAgDgcYHq5M3gXOEPZ54+M=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayToothViewController.nib/objects-13.0+.nib</key>
 		<data>
 		xNt3K8u10GWXOSaI/ZRrYSB2Vu0=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayToothViewController.nib/runtime.nib</key>
+		<data>
+		xNt3K8u10GWXOSaI/ZRrYSB2Vu0=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-13.0+.nib</key>
 		<data>
 		TPo3v0RLpLTHbtcD9yDbz4nqnMI=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/b6Q-u1-dpR-view-izD-oM-0LL.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<data>
+		TPo3v0RLpLTHbtcD9yDbz4nqnMI=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/b6Q-u1-dpR-view-izD-oM-0LL.nib/objects-13.0+.nib</key>
 		<data>
 		IFINq9E/VXUgyim6MatTV5qP+Rc=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/f5j-e4-6ur-view-0v9-ep-bcy.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/b6Q-u1-dpR-view-izD-oM-0LL.nib/runtime.nib</key>
+		<data>
+		IFINq9E/VXUgyim6MatTV5qP+Rc=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/f5j-e4-6ur-view-0v9-ep-bcy.nib/objects-13.0+.nib</key>
 		<data>
 		ACx4+yJ0KJbVvQsPWjFCbDenNLU=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/gVe-x2-pKn-view-e6E-l9-xMa.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/f5j-e4-6ur-view-0v9-ep-bcy.nib/runtime.nib</key>
+		<data>
+		ACx4+yJ0KJbVvQsPWjFCbDenNLU=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/gVe-x2-pKn-view-e6E-l9-xMa.nib/objects-13.0+.nib</key>
 		<data>
 		yKMYEEdZHKvd938HgRN+5X4e3q8=
 		</data>
-		<key>Base.lproj/TTCamera.storyboardc/phS-ZT-lQq-view-moV-DP-pB3.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/gVe-x2-pKn-view-e6E-l9-xMa.nib/runtime.nib</key>
+		<data>
+		yKMYEEdZHKvd938HgRN+5X4e3q8=
+		</data>
+		<key>Base.lproj/TTCamera.storyboardc/phS-ZT-lQq-view-moV-DP-pB3.nib/objects-13.0+.nib</key>
 		<data>
 		2lsfaF7sbm337/oVQMvglTV2GIw=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/phS-ZT-lQq-view-moV-DP-pB3.nib/runtime.nib</key>
+		<data>
+		2lsfaF7sbm337/oVQMvglTV2GIw=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib/objects-13.0+.nib</key>
+		<data>
+		dGPUi03LA7d3ofZ+4S9gnNqxmAI=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib/runtime.nib</key>
 		<data>
 		dGPUi03LA7d3ofZ+4S9gnNqxmAI=
 		</data>
@@ -96,109 +172,273 @@
 		<data>
 		6tgDOudw92aJHji+GH/EpN+PaZE=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/JE1-A9-LbX-view-gKL-Py-AGR.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/JE1-A9-LbX-view-gKL-Py-AGR.nib/objects-13.0+.nib</key>
 		<data>
 		PKlkqCiq2S2MZWFTfycAMqOs3gE=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/TTCameraGuideViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/JE1-A9-LbX-view-gKL-Py-AGR.nib/runtime.nib</key>
+		<data>
+		mqImBg9koKZcWIbbzR0E3/K0JMA=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/TTCameraGuideViewController.nib/objects-13.0+.nib</key>
 		<data>
 		5DMBymzDbdVA1flpda5RJDDb17w=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/TTGalleryViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTCameraGuideViewController.nib/runtime.nib</key>
+		<data>
+		5DMBymzDbdVA1flpda5RJDDb17w=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/TTGalleryViewController.nib/objects-13.0+.nib</key>
 		<data>
 		t0fVl0zNhD0oFMzYCkNCOjwE+Ns=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/TTProgressDownloadViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTGalleryViewController.nib/runtime.nib</key>
+		<data>
+		t0fVl0zNhD0oFMzYCkNCOjwE+Ns=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressDownloadViewController.nib/objects-13.0+.nib</key>
 		<data>
 		4vOwgxQaas9rrPKP4R9xiqfvbbQ=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/TTProgressLandscapeViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressDownloadViewController.nib/runtime.nib</key>
+		<data>
+		4vOwgxQaas9rrPKP4R9xiqfvbbQ=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressLandscapeViewController.nib/objects-13.0+.nib</key>
 		<data>
 		/RByrtBjGSKezsbJxwSQiTJ3sh8=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/TTProgressViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressLandscapeViewController.nib/runtime.nib</key>
+		<data>
+		/RByrtBjGSKezsbJxwSQiTJ3sh8=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressViewController.nib/objects-13.0+.nib</key>
 		<data>
 		q9pYEGj3hrES8hmy8konysML9BU=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressViewController.nib/runtime.nib</key>
+		<data>
+		q9pYEGj3hrES8hmy8konysML9BU=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-13.0+.nib</key>
 		<data>
 		1uCbrQILuiUw/ajOZiRJrMZDAGo=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/njF-fG-x3w-view-Nzs-Fl-aXS.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<data>
+		1uCbrQILuiUw/ajOZiRJrMZDAGo=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/njF-fG-x3w-view-Nzs-Fl-aXS.nib/objects-13.0+.nib</key>
 		<data>
 		2HIGGOBr86pgyr7zWdBYfw0b34s=
 		</data>
-		<key>Base.lproj/TTEtc.storyboardc/pga-A4-q8b-view-jvO-v4-6rm.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/njF-fG-x3w-view-Nzs-Fl-aXS.nib/runtime.nib</key>
+		<data>
+		Z5koMxM84IhXDB5ppc6sXZhtkDU=
+		</data>
+		<key>Base.lproj/TTEtc.storyboardc/pga-A4-q8b-view-jvO-v4-6rm.nib/objects-13.0+.nib</key>
 		<data>
 		YylG5yzTta9tcncrAsO10uJK5X8=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/2yZ-hM-zeF-view-IEp-ak-Vu9.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/pga-A4-q8b-view-jvO-v4-6rm.nib/runtime.nib</key>
+		<data>
+		YylG5yzTta9tcncrAsO10uJK5X8=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/2yZ-hM-zeF-view-IEp-ak-Vu9.nib/objects-12.3+.nib</key>
+		<data>
+		E3aI0bhyHCzVr7Dn3MsegcpvJTY=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/2yZ-hM-zeF-view-IEp-ak-Vu9.nib/objects-13.0+.nib</key>
 		<data>
 		HLBgwlI0ccX0ME+lmm1J3N70Y8Y=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/E75-rq-Ow1-view-khh-q9-bsp.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/2yZ-hM-zeF-view-IEp-ak-Vu9.nib/runtime.nib</key>
+		<data>
+		E3aI0bhyHCzVr7Dn3MsegcpvJTY=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/E75-rq-Ow1-view-khh-q9-bsp.nib/objects-12.3+.nib</key>
+		<data>
+		suouxkwIdB7/zRj7DMpPyaZiYR0=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/E75-rq-Ow1-view-khh-q9-bsp.nib/objects-13.0+.nib</key>
 		<data>
 		fkafflMY7Mrh9H3dKm0msRzzfV4=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/E75-rq-Ow1-view-khh-q9-bsp.nib/runtime.nib</key>
+		<data>
+		suouxkwIdB7/zRj7DMpPyaZiYR0=
 		</data>
 		<key>Base.lproj/TTPopup.storyboardc/Info.plist</key>
 		<data>
 		HqxK87/Mg51tq92sfmA3X7t2HPg=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/Qko-61-gnC-view-5V0-Hn-WEb.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/Qko-61-gnC-view-5V0-Hn-WEb.nib/objects-12.3+.nib</key>
+		<data>
+		10D+qwJPdn1eOuwgmCfK91RoLEI=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/Qko-61-gnC-view-5V0-Hn-WEb.nib/objects-13.0+.nib</key>
 		<data>
 		lwUJ7wP3UY4v3klZ1QivIuYuUvk=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/RJ2-sE-buA-view-amY-UT-ngX.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/Qko-61-gnC-view-5V0-Hn-WEb.nib/runtime.nib</key>
+		<data>
+		iq/8S3Cq/uuwdRVrfwvkvAlxXOI=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/RJ2-sE-buA-view-amY-UT-ngX.nib/objects-12.3+.nib</key>
 		<data>
 		mK0lTNRrQvlGbUAtsRE9pl2WmeM=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/TTFlashWarningAlertViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/RJ2-sE-buA-view-amY-UT-ngX.nib/objects-13.0+.nib</key>
+		<data>
+		mK0lTNRrQvlGbUAtsRE9pl2WmeM=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/RJ2-sE-buA-view-amY-UT-ngX.nib/runtime.nib</key>
+		<data>
+		mK0lTNRrQvlGbUAtsRE9pl2WmeM=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTFlashWarningAlertViewController.nib/objects-12.3+.nib</key>
 		<data>
 		Psp4KG3ZKQshu2pqSmXidVtzGhI=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/TTGuideJointRotationScreenViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTFlashWarningAlertViewController.nib/objects-13.0+.nib</key>
+		<data>
+		Psp4KG3ZKQshu2pqSmXidVtzGhI=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTFlashWarningAlertViewController.nib/runtime.nib</key>
+		<data>
+		Psp4KG3ZKQshu2pqSmXidVtzGhI=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTGuideJointRotationScreenViewController.nib/objects-12.3+.nib</key>
 		<data>
 		I9pXk/gouVAVjWRuEod8Yh5Th4k=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertHorizontalViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTGuideJointRotationScreenViewController.nib/objects-13.0+.nib</key>
+		<data>
+		I9pXk/gouVAVjWRuEod8Yh5Th4k=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTGuideJointRotationScreenViewController.nib/runtime.nib</key>
+		<data>
+		I9pXk/gouVAVjWRuEod8Yh5Th4k=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertHorizontalViewController.nib/objects-12.3+.nib</key>
 		<data>
 		RaOzJFEB5uzgxxl1G+L1y/pWDlQ=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertHorizontalViewController.nib/objects-13.0+.nib</key>
+		<data>
+		RaOzJFEB5uzgxxl1G+L1y/pWDlQ=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertHorizontalViewController.nib/runtime.nib</key>
+		<data>
+		RaOzJFEB5uzgxxl1G+L1y/pWDlQ=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertViewController.nib/objects-12.3+.nib</key>
 		<data>
 		MLhMppe4FR3aj35BVTNXNOnOu1E=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupCheckedResultViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertViewController.nib/objects-13.0+.nib</key>
+		<data>
+		MLhMppe4FR3aj35BVTNXNOnOu1E=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertViewController.nib/runtime.nib</key>
+		<data>
+		MLhMppe4FR3aj35BVTNXNOnOu1E=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupCheckedResultViewController.nib/objects-12.3+.nib</key>
 		<data>
 		/sWrSmvwAhWMEAMKd0YTx6jfw5k=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupJointTimeoverViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupCheckedResultViewController.nib/objects-13.0+.nib</key>
+		<data>
+		/sWrSmvwAhWMEAMKd0YTx6jfw5k=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupCheckedResultViewController.nib/runtime.nib</key>
+		<data>
+		/sWrSmvwAhWMEAMKd0YTx6jfw5k=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupJointTimeoverViewController.nib/objects-12.3+.nib</key>
 		<data>
 		BO4cU3Qo70ih5jBT2cLmvyQQbzA=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupSelectedSkinViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupJointTimeoverViewController.nib/objects-13.0+.nib</key>
+		<data>
+		BO4cU3Qo70ih5jBT2cLmvyQQbzA=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupJointTimeoverViewController.nib/runtime.nib</key>
+		<data>
+		BO4cU3Qo70ih5jBT2cLmvyQQbzA=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupSelectedSkinViewController.nib/objects-12.3+.nib</key>
 		<data>
 		eXhFLvqQtPEGonFU15iuDy5wdSI=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupTimeoverViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupSelectedSkinViewController.nib/objects-13.0+.nib</key>
+		<data>
+		eXhFLvqQtPEGonFU15iuDy5wdSI=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupSelectedSkinViewController.nib/runtime.nib</key>
+		<data>
+		eXhFLvqQtPEGonFU15iuDy5wdSI=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupTimeoverViewController.nib/objects-12.3+.nib</key>
 		<data>
 		p4IQnrGp6I9l6YycGHzTEU/JrLY=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/XD0-Qm-tTP-view-FCI-sF-DL2.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupTimeoverViewController.nib/objects-13.0+.nib</key>
+		<data>
+		p4IQnrGp6I9l6YycGHzTEU/JrLY=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupTimeoverViewController.nib/runtime.nib</key>
+		<data>
+		p4IQnrGp6I9l6YycGHzTEU/JrLY=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/XD0-Qm-tTP-view-FCI-sF-DL2.nib/objects-12.3+.nib</key>
+		<data>
+		2p6MF96wo+WIJGu+E5DNL9QkGFg=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/XD0-Qm-tTP-view-FCI-sF-DL2.nib/objects-13.0+.nib</key>
 		<data>
 		aC1htTHjWqJCm57wHQ5F2dfcE3Q=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/ab9-LR-Qmb-view-FVe-Dr-BWJ.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/XD0-Qm-tTP-view-FCI-sF-DL2.nib/runtime.nib</key>
+		<data>
+		2p6MF96wo+WIJGu+E5DNL9QkGFg=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/ab9-LR-Qmb-view-FVe-Dr-BWJ.nib/objects-12.3+.nib</key>
 		<data>
 		ape/vU7gGUkXsaXvCRtsdi5+PGk=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/iCM-8f-3c5-view-hnd-Ev-ceU.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/ab9-LR-Qmb-view-FVe-Dr-BWJ.nib/objects-13.0+.nib</key>
+		<data>
+		ape/vU7gGUkXsaXvCRtsdi5+PGk=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/ab9-LR-Qmb-view-FVe-Dr-BWJ.nib/runtime.nib</key>
+		<data>
+		ape/vU7gGUkXsaXvCRtsdi5+PGk=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/iCM-8f-3c5-view-hnd-Ev-ceU.nib/objects-12.3+.nib</key>
+		<data>
+		lTpT9EXjDqPWLfSCIekS+Vd7k0U=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/iCM-8f-3c5-view-hnd-Ev-ceU.nib/objects-13.0+.nib</key>
 		<data>
 		xae9ilil/5LNyp9w5yxCkFi/mEg=
 		</data>
-		<key>Base.lproj/TTPopup.storyboardc/iaK-Ju-7vk-view-9WR-8R-qsG.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/iCM-8f-3c5-view-hnd-Ev-ceU.nib/runtime.nib</key>
+		<data>
+		lTpT9EXjDqPWLfSCIekS+Vd7k0U=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/iaK-Ju-7vk-view-9WR-8R-qsG.nib/objects-12.3+.nib</key>
+		<data>
+		p7Qwdq2oV8s4nSXuXNtH21umO/s=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/iaK-Ju-7vk-view-9WR-8R-qsG.nib/objects-13.0+.nib</key>
 		<data>
 		t8IxYXF8cMnDP4Jz41NF9+gSKaY=
+		</data>
+		<key>Base.lproj/TTPopup.storyboardc/iaK-Ju-7vk-view-9WR-8R-qsG.nib/runtime.nib</key>
+		<data>
+		p7Qwdq2oV8s4nSXuXNtH21umO/s=
 		</data>
 		<key>Headers/TTSDK.h</key>
 		<data>
@@ -206,27 +446,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cFb/+Mt0F23TSc8gLw0UazcaUo8=
+		GNHuP2j7vK4H4hdE8tpauUGx51U=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		lIkBjsjBqhg88De9CGP8d7hYLIk=
+		E2ria1vPngc07YcrINKhF+Yab00=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		PgcujA0o/YkOkj1QJwQLYPjh13Y=
+		WoFlKM366hVbzaZFrSoGNMKwo/4=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		uXuLdIi3W8LwAB9wrCnNqMs5Cb8=
+		HIqeV+GIZxGBgRcw1rPoU5z0YmE=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		PgcujA0o/YkOkj1QJwQLYPjh13Y=
+		WoFlKM366hVbzaZFrSoGNMKwo/4=
 		</data>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WrJq7E7HabViwa6Rl2YcQZRO3Q0=
+		PyokMbBlqCDDq94b1/j1BtKSIV4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -378,24 +618,45 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gwjyo3PSsMx39NubNa3uFEnYunLwdmtrM9+Uq+3M6So=
+			R1xSllfN9UhZpDWvmtACoPO4Mwmgs0cgO1SLlrBfXrw=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			EPjuTdMkaBOAEdPc6YC6iuT/Q4Njl1mZA9gY3rhOBb8=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/CameraJointViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/BNt-Va-ldg-view-Ehd-vn-RgT.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EPjuTdMkaBOAEdPc6YC6iuT/Q4Njl1mZA9gY3rhOBb8=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/CameraJointViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			PLRevdbyZRolTk5wwlns0Wpyz88GmsU6Yr8l3Xw89ig=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/CameraViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/CameraJointViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			PLRevdbyZRolTk5wwlns0Wpyz88GmsU6Yr8l3Xw89ig=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/CameraViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Rtz1sCKOReuWDsNM3h0EadCtRx5JIfPR8bEH1AhZMNE=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/CameraViewController.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -409,112 +670,224 @@
 			yNznV0tSoesZK7nP8sIxIYhhwM0xjUGuqocC5/1E3Gg=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/K46-eX-E2j-view-bqp-nX-IzZ.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/K46-eX-E2j-view-bqp-nX-IzZ.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			ck0G+adxKygaIGGc8wohac/eXczLeYqBK1/i1v0umBM=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/K46-eX-E2j-view-bqp-nX-IzZ.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+Z2nGinWl9l3ZZ6AhigS5m4gC9KLByFj4NfD0qoMCIg=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			HKogDZQq0AF7x6Q+I6tUu6ayp5Xfs2JrTRY8WuuN7hM=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/PreviewGuideViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/Odz-r6-ju9-view-VIo-WM-1CP.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HKogDZQq0AF7x6Q+I6tUu6ayp5Xfs2JrTRY8WuuN7hM=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/PreviewGuideViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			VZQE7o91PvLEPpu9zmdhlmvnYZmox69oM6vyHUEg7q0=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/PreviewJointGuideViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/PreviewGuideViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VZQE7o91PvLEPpu9zmdhlmvnYZmox69oM6vyHUEg7q0=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/PreviewJointGuideViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			ZYtR5Ivla8kysKn0cGQrtLf0QM4o+VNOIx/6Hh5nNz8=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/PreviewJointGuideViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZYtR5Ivla8kysKn0cGQrtLf0QM4o+VNOIx/6Hh5nNz8=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			uRtOYnRFo/nwUfPKRFzNneTPn0nodTWT7B/jPSlAl5M=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/TTGuideJointLottieViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/Q7G-DC-hAh-view-ySw-eP-buY.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uRtOYnRFo/nwUfPKRFzNneTPn0nodTWT7B/jPSlAl5M=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/TTGuideJointLottieViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			DTwtYWeHg9t6/HrtTlL2IuY6bQ8PngyXaEURN6MkXEo=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/TTOverlayEyeViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTGuideJointLottieViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DTwtYWeHg9t6/HrtTlL2IuY6bQ8PngyXaEURN6MkXEo=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayEyeViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			OE+RtRdE28URZyvMvFtS5kXA5tEfWCiPYexQeochDKA=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/TTOverlayJointViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayEyeViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OE+RtRdE28URZyvMvFtS5kXA5tEfWCiPYexQeochDKA=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayJointViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			989/LlKUW380nwMO+15/kLu24IQUv1zP9+70y+O7YWg=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/TTOverlaySkinViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayJointViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			989/LlKUW380nwMO+15/kLu24IQUv1zP9+70y+O7YWg=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlaySkinViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			M961pv5dlwjLLR+7yza6fD5Od9eKoeJNFN5sBbt1Lh8=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/TTOverlayToothViewController.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlaySkinViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M961pv5dlwjLLR+7yza6fD5Od9eKoeJNFN5sBbt1Lh8=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayToothViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			kHf621toXB/C16Tvl3t2HQRrwjcwphVrcoogzb1uWyU=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/TTOverlayToothViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kHf621toXB/C16Tvl3t2HQRrwjcwphVrcoogzb1uWyU=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			P3Q6JyY8bFqLiRd/lyMcZ7GiVIXFoLtO+jo8bkapqHI=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/b6Q-u1-dpR-view-izD-oM-0LL.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P3Q6JyY8bFqLiRd/lyMcZ7GiVIXFoLtO+jo8bkapqHI=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/b6Q-u1-dpR-view-izD-oM-0LL.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			sY4MW2mDXh/tY9iysC9M/WQ/yj5vTWZnXPnXDL+ihyU=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/f5j-e4-6ur-view-0v9-ep-bcy.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/b6Q-u1-dpR-view-izD-oM-0LL.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sY4MW2mDXh/tY9iysC9M/WQ/yj5vTWZnXPnXDL+ihyU=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/f5j-e4-6ur-view-0v9-ep-bcy.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			sEFDedE+aa7z7qWFVpXByAuWcMeLQS2pte5olfLKgjk=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/gVe-x2-pKn-view-e6E-l9-xMa.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/f5j-e4-6ur-view-0v9-ep-bcy.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sEFDedE+aa7z7qWFVpXByAuWcMeLQS2pte5olfLKgjk=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/gVe-x2-pKn-view-e6E-l9-xMa.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			axM5K9RG5UvoA+WSO1bcSzO6Q/lPlWVMmaoAhPPK85I=
 			</data>
 		</dict>
-		<key>Base.lproj/TTCamera.storyboardc/phS-ZT-lQq-view-moV-DP-pB3.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/gVe-x2-pKn-view-e6E-l9-xMa.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			axM5K9RG5UvoA+WSO1bcSzO6Q/lPlWVMmaoAhPPK85I=
+			</data>
+		</dict>
+		<key>Base.lproj/TTCamera.storyboardc/phS-ZT-lQq-view-moV-DP-pB3.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			kzXKfeMuTrLS15bNWMzS9KQ8dmaqDqIXclsjnBMu2Po=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib</key>
+		<key>Base.lproj/TTCamera.storyboardc/phS-ZT-lQq-view-moV-DP-pB3.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kzXKfeMuTrLS15bNWMzS9KQ8dmaqDqIXclsjnBMu2Po=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tHwmaeqIAqiWYsjYHFpcMVoy0lPOzKWYpkZxcqAvrHk=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/DD5-Dz-Fd2-view-NYR-cq-Kpf.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -528,81 +901,172 @@
 			NaFM+JmJY+J4A2eQhKCCMv168VPscFau/uhJ0u3ilI8=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/JE1-A9-LbX-view-gKL-Py-AGR.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/JE1-A9-LbX-view-gKL-Py-AGR.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			w7IeLQvu2BohgKqa+kPUKKy/uahtOR0GxC6AY3Gr9ls=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/TTCameraGuideViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/JE1-A9-LbX-view-gKL-Py-AGR.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0qObMI0XZ/X8LbSaWrDIB3jPmVokoUL6Q5Ccw6ijLRU=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/TTCameraGuideViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			1+1ouHn196TY76vHHEocEc5+DbfZFMcxasMaeJST0hw=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/TTGalleryViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTCameraGuideViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1+1ouHn196TY76vHHEocEc5+DbfZFMcxasMaeJST0hw=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/TTGalleryViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			JmAVn89CnQYoI6NGxfmRRUUKoDO2xQ/jZt9fTnCQMkg=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/TTProgressDownloadViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTGalleryViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JmAVn89CnQYoI6NGxfmRRUUKoDO2xQ/jZt9fTnCQMkg=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressDownloadViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			r96ve7OYQSsiC+q8SNtcsZpdiS2Q3kgwxTqjgF+s3cY=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/TTProgressLandscapeViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressDownloadViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r96ve7OYQSsiC+q8SNtcsZpdiS2Q3kgwxTqjgF+s3cY=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressLandscapeViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			zA1cNvzNW9mvmSL+zbFVtM13Vd0KVUoTPslJ2+K91I0=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/TTProgressViewController.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressLandscapeViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zA1cNvzNW9mvmSL+zbFVtM13Vd0KVUoTPslJ2+K91I0=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressViewController.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			wrAoW/OrRiDJZsLhjLUBH8n0kkqlDUN+T+MTP+a/Ilw=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/TTProgressViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wrAoW/OrRiDJZsLhjLUBH8n0kkqlDUN+T+MTP+a/Ilw=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			RU/q5nOetSXCb6QDlppT/OS6K1p7/0mR/8Fs5bZQDKU=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/njF-fG-x3w-view-Nzs-Fl-aXS.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RU/q5nOetSXCb6QDlppT/OS6K1p7/0mR/8Fs5bZQDKU=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/njF-fG-x3w-view-Nzs-Fl-aXS.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			j0z2mt7QPM7BXVUlcEsxYEQm4gzn48Ex9MsaBPxWH3c=
 			</data>
 		</dict>
-		<key>Base.lproj/TTEtc.storyboardc/pga-A4-q8b-view-jvO-v4-6rm.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/njF-fG-x3w-view-Nzs-Fl-aXS.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yd6PXMoTMsgaK+/SRDOnoW9hjdG2nQE2N1YEMBmDBPY=
+			</data>
+		</dict>
+		<key>Base.lproj/TTEtc.storyboardc/pga-A4-q8b-view-jvO-v4-6rm.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			ExT6K9BhFgC5R2nwLwYfNz0OXwHXAJfHxlowmRCA0eE=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/2yZ-hM-zeF-view-IEp-ak-Vu9.nib</key>
+		<key>Base.lproj/TTEtc.storyboardc/pga-A4-q8b-view-jvO-v4-6rm.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ExT6K9BhFgC5R2nwLwYfNz0OXwHXAJfHxlowmRCA0eE=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/2yZ-hM-zeF-view-IEp-ak-Vu9.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iYh6eXMDYvvKbw4SiWIOJd3LUiXl+YI/4H7y2waC2aU=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/2yZ-hM-zeF-view-IEp-ak-Vu9.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			ysao5VrxquylRWR/NZybdmH6KrGRYXXRFUI1ug0ea8k=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/E75-rq-Ow1-view-khh-q9-bsp.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/2yZ-hM-zeF-view-IEp-ak-Vu9.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iYh6eXMDYvvKbw4SiWIOJd3LUiXl+YI/4H7y2waC2aU=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/E75-rq-Ow1-view-khh-q9-bsp.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WWDJVgAQZUSqsby6X2BNMZREXPQZrOrvvOrS3bUR6NA=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/E75-rq-Ow1-view-khh-q9-bsp.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			qy3zxZe9qdQ+EeZ22gzCtp1guNpO5ySdehiJD5A7OQE=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/E75-rq-Ow1-view-khh-q9-bsp.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WWDJVgAQZUSqsby6X2BNMZREXPQZrOrvvOrS3bUR6NA=
 			</data>
 		</dict>
 		<key>Base.lproj/TTPopup.storyboardc/Info.plist</key>
@@ -612,102 +1076,298 @@
 			xCKbr+03WSZaYrmGAPCTtwbfDdYl5Fzz2gxZiP8e57M=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/Qko-61-gnC-view-5V0-Hn-WEb.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/Qko-61-gnC-view-5V0-Hn-WEb.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ngkFzUbOyQsO/Z6pWsV7CPTXKSJRP1Pkg82hDtmInPk=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/Qko-61-gnC-view-5V0-Hn-WEb.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			X9AmhFof1UCZLjHiqktiNLel69nfLEGp0yHQ+9QHDlY=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/RJ2-sE-buA-view-amY-UT-ngX.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/Qko-61-gnC-view-5V0-Hn-WEb.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W3Iy4fiSMJdtakMECEu8165TJlHKp96Sg50IhPcZ+00=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/RJ2-sE-buA-view-amY-UT-ngX.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			wxp+0KNd58acyRAyHEzjv5GOk3Fcpe975nfqgM93m8k=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/TTFlashWarningAlertViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/RJ2-sE-buA-view-amY-UT-ngX.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wxp+0KNd58acyRAyHEzjv5GOk3Fcpe975nfqgM93m8k=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/RJ2-sE-buA-view-amY-UT-ngX.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wxp+0KNd58acyRAyHEzjv5GOk3Fcpe975nfqgM93m8k=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTFlashWarningAlertViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			/Z75JSZSIGznO2Rd9IpTiwtd+DYhmoU/gyudiKAg/h4=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/TTGuideJointRotationScreenViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTFlashWarningAlertViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/Z75JSZSIGznO2Rd9IpTiwtd+DYhmoU/gyudiKAg/h4=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTFlashWarningAlertViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/Z75JSZSIGznO2Rd9IpTiwtd+DYhmoU/gyudiKAg/h4=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTGuideJointRotationScreenViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			CUp2UyWY481tHXxL6KuHoEILl6HsPnPLfaibp3O8Tjg=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertHorizontalViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTGuideJointRotationScreenViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CUp2UyWY481tHXxL6KuHoEILl6HsPnPLfaibp3O8Tjg=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTGuideJointRotationScreenViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CUp2UyWY481tHXxL6KuHoEILl6HsPnPLfaibp3O8Tjg=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertHorizontalViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			QJLH5SmWB5UzG60tpy6z4A7xI84E86aY2LoM9ovBSpE=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertHorizontalViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QJLH5SmWB5UzG60tpy6z4A7xI84E86aY2LoM9ovBSpE=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertHorizontalViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QJLH5SmWB5UzG60tpy6z4A7xI84E86aY2LoM9ovBSpE=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			v73XT+9BNDZe4MNfvZcd93dikXrHlXI6DYR9x70D3tE=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupCheckedResultViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v73XT+9BNDZe4MNfvZcd93dikXrHlXI6DYR9x70D3tE=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupAlertViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v73XT+9BNDZe4MNfvZcd93dikXrHlXI6DYR9x70D3tE=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupCheckedResultViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			s6tLDHRKWVI85F87VtokKk6xji6uyqMxsFWQLzxYFJs=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupJointTimeoverViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupCheckedResultViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s6tLDHRKWVI85F87VtokKk6xji6uyqMxsFWQLzxYFJs=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupCheckedResultViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s6tLDHRKWVI85F87VtokKk6xji6uyqMxsFWQLzxYFJs=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupJointTimeoverViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			MHQg0YjZ4iCg4oWq/6Vm7zQl2MVJ8JBwNz+vzV/79Y4=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupSelectedSkinViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupJointTimeoverViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MHQg0YjZ4iCg4oWq/6Vm7zQl2MVJ8JBwNz+vzV/79Y4=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupJointTimeoverViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MHQg0YjZ4iCg4oWq/6Vm7zQl2MVJ8JBwNz+vzV/79Y4=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupSelectedSkinViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			MVDEJSqeQGKAwP0YP/X/N7C6vP3s0JuM6INCCEZBQ9I=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/TTPopupTimeoverViewController.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupSelectedSkinViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MVDEJSqeQGKAwP0YP/X/N7C6vP3s0JuM6INCCEZBQ9I=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupSelectedSkinViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MVDEJSqeQGKAwP0YP/X/N7C6vP3s0JuM6INCCEZBQ9I=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupTimeoverViewController.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			EoPJKHCbAW58zkKCcwCaJ8Rac9QATsc+a/wMK9FLZGo=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/XD0-Qm-tTP-view-FCI-sF-DL2.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupTimeoverViewController.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EoPJKHCbAW58zkKCcwCaJ8Rac9QATsc+a/wMK9FLZGo=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/TTPopupTimeoverViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EoPJKHCbAW58zkKCcwCaJ8Rac9QATsc+a/wMK9FLZGo=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/XD0-Qm-tTP-view-FCI-sF-DL2.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qgk96NFPwenVft2wznKcAYAgfcwXlwzgLO7epI6Klp8=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/XD0-Qm-tTP-view-FCI-sF-DL2.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			48awLPeKpdIuNe1sYI1OKr0R91MG0yH3WS8DwLXI/LQ=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/ab9-LR-Qmb-view-FVe-Dr-BWJ.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/XD0-Qm-tTP-view-FCI-sF-DL2.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qgk96NFPwenVft2wznKcAYAgfcwXlwzgLO7epI6Klp8=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/ab9-LR-Qmb-view-FVe-Dr-BWJ.nib/objects-12.3+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			yNdDmPPHsCYsS24BaBxp9i3JXoXmjeQQbL6oOrk1YP0=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/iCM-8f-3c5-view-hnd-Ev-ceU.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/ab9-LR-Qmb-view-FVe-Dr-BWJ.nib/objects-13.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yNdDmPPHsCYsS24BaBxp9i3JXoXmjeQQbL6oOrk1YP0=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/ab9-LR-Qmb-view-FVe-Dr-BWJ.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yNdDmPPHsCYsS24BaBxp9i3JXoXmjeQQbL6oOrk1YP0=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/iCM-8f-3c5-view-hnd-Ev-ceU.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Gb31GaoZFvt3DA9uV1jLpWa8q2tw7Hq1AW178LQlrVo=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/iCM-8f-3c5-view-hnd-Ev-ceU.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			Bxl2nWKNS+5Zcw2YW1wzkydg/3V91AhuYdxrlbpTb7A=
 			</data>
 		</dict>
-		<key>Base.lproj/TTPopup.storyboardc/iaK-Ju-7vk-view-9WR-8R-qsG.nib</key>
+		<key>Base.lproj/TTPopup.storyboardc/iCM-8f-3c5-view-hnd-Ev-ceU.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Gb31GaoZFvt3DA9uV1jLpWa8q2tw7Hq1AW178LQlrVo=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/iaK-Ju-7vk-view-9WR-8R-qsG.nib/objects-12.3+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tiFnQ+1RINZY8Sa5soh73SXrpaoWRlzEJ5/+3xWAU5g=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/iaK-Ju-7vk-view-9WR-8R-qsG.nib/objects-13.0+.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			3GWdGJaKlMQcd6Kv1Kl0tUUqkVAQJQqyp/JiULc6bkE=
+			</data>
+		</dict>
+		<key>Base.lproj/TTPopup.storyboardc/iaK-Ju-7vk-view-9WR-8R-qsG.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tiFnQ+1RINZY8Sa5soh73SXrpaoWRlzEJ5/+3xWAU5g=
 			</data>
 		</dict>
 		<key>Headers/TTSDK.h</key>
@@ -721,35 +1381,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vXdQaYgcOnoK+zE9kgItPsrQ062+faFGvgI2VS7Gwik=
+			Dp+hltcGoM04536vyvqUgKpBI37E95I6bfbIRdPc1+A=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yq/5OfXLdR0SQc71nb7hFE2lRXz1hI9rdtzNiTOXS8Q=
+			EruCNRqrI9Nx8ig1OY4yq0SOD7tgrq/SOqOU1sEVwFg=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			em585mCxIq7YOFRpvebYxoNI4FTt4Swn2xj3jxL8yYs=
+			2JJBKITfGwt92xwJsemRfTulGsufSlFXGPICKgfCLfk=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Yq/5OfXLdR0SQc71nb7hFE2lRXz1hI9rdtzNiTOXS8Q=
+			EruCNRqrI9Nx8ig1OY4yq0SOD7tgrq/SOqOU1sEVwFg=
 			</data>
 		</dict>
 		<key>Modules/TTSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TgXJHyxxDbsybEP2y88V2SISbqP5KJHiy3HNmk5TA3s=
+			fQv8I5A5ZGQ0YUr7wbBVjYjl9qBFYZ4CfkcRrvUBpYo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
